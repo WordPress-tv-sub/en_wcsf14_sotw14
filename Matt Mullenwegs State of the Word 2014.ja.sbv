@@ -1,680 +1,560 @@
-0:00:04.051,0:00:06.431
-Good morning, everybody!
+0:00:04.047,0:00:06.007
+みなさんおはようございます。
 
-0:00:07.091,0:00:09.951
-Glad to see you all fully recovered from[br]the party last night.
+0:00:07.094,0:00:10.634
+みなさん、昨夜のパーティーから復活されて[br]嬉しく思います。
 
-0:00:10.739,0:00:12.649
-A party so good it broke the plumbing.
+0:00:10.744,0:00:13.534
+配管が壊れたって聞きました。（←？）
 
-0:00:14.371,0:00:15.941
-I don't know what that means...
+0:00:14.373,0:00:16.643
+どういう意味だか知りませんが...
 
-0:00:15.941,0:00:19.290
-You guys are full of it. No, I'm kidding.
+0:00:16.733,0:00:18.283
+みなさんは、それでいっぱいです（←？）
 
-0:00:19.790,0:00:21.629
-Just kidding!
+0:00:19.793,0:00:21.813
+冗談ですよ！
 
-0:00:22.179,0:00:25.529
-I am very proud and honored and privileged to [br]be in front of you this morning
+0:00:22.193,0:00:26.193
+今朝、みなさんとお会いするのは[br]とても誇りで、光栄で、特別なことです。
 
-0:00:25.989,0:00:28.990
-at the 9th WordCamp San Francisco.
+0:00:26.193,0:00:30.193
+第9回目の、WordCamp San Franciscoです！
 
-0:00:28.990,0:00:30.621
-(crowd cheering)
+0:00:34.354,0:00:39.004
+11年前、マイク・リトル氏と[br]WordPressを立ち上げたときには
 
-0:00:30.621,0:00:33.422
-(applause)
+0:00:39.192,0:00:41.722
+このようなことは、[br]想像もしていませんでした。
 
-0:00:34.602,0:00:35.915
-Eleven years ago,
+0:00:41.896,0:00:46.466
+そしておそらく、過去最大級の[br]WordCamp San Franciscoです
 
-0:00:35.915,0:00:39.328
-when WordPress started,[br]co-founded it with Mike Little,
+0:00:46.524,0:00:50.524
+３回チケットを販売しましたが、[br]どれも即日完売しました。
 
-0:00:39.328,0:00:41.693
-no idea that it would ever be like this
+0:00:50.602,0:00:55.185
+みなさん、ボタンをクリックするのが[br]早かったんですね。
 
-0:00:41.693,0:00:46.723
-and this is, I think, officially, the largest[br]WordCamp San Francisco we've ever had.
+0:00:56.015,0:00:58.794
+あ、ところで私は[br]マット・マレンウェッグです、
 
-0:00:46.723,0:00:50.023
-With the three ticket releases selling out[br]same day, each time.
+0:00:58.794,0:01:01.573
+どうぞよろしく。
 
-0:00:50.023,0:00:52.952
-So, you guys were good at [br]clicking that button really fast.
+0:01:01.573,0:01:04.352
+2014年の年内、世界中で[br]81のWordCampが開催される予定です。
 
-0:00:52.952,0:00:54.251
-(laughter)
+0:01:04.352,0:01:05.842
+１週間に１回以上です。
 
-0:00:54.931,0:00:56.423
-All over the world this year..
+0:01:06.689,0:01:11.479
+面白いことに、１回目のWordCampは[br]他へのテンプレートになるつもりだった。
 
-0:00:56.423,0:00:58.387
-Oh! my name is [br]Matt Mullenweg by the way, it's nice to meet you.
+0:01:11.481,0:01:15.481
+他の人もBarCampのスタイルを取り入れると[br]思っていました。
 
-0:00:58.387,0:00:59.651
-(laughter)
+0:01:15.481,0:01:19.481
+でも実際は、1年目は１つしかWordCampが[br]ありませんでした。
 
-0:01:00.131,0:01:01.103
-All over the world this year
+0:01:19.481,0:01:22.791
+２つ目はたしかアルゼンチンで行われ[br]その後、軌道にのりました。
 
-0:01:01.103,0:01:04.255
-There are now going to be 81 WordCamps in 2014
+0:01:22.791,0:01:25.501
+サンフランシスコは、いつも自分にとって[br]とても大事な場所なんです。
 
-0:01:04.255,0:01:06.037
-More than one per week
+0:01:25.501,0:01:28.321
+全てのWordCampオーガナイザーにとって[br]感謝すべきことでしょう。
 
-0:01:06.317,0:01:07.627
-It's funny because
+0:01:28.321,0:01:30.981
+これがWordCampを始めた投稿です。
 
-0:01:07.627,0:01:11.277
-the first WordCamp we intended [br]to be a template for others
+0:01:30.981,0:01:33.321
+WordCamp San Franciscoではなく、[br]ただのWordCampでした。
 
-0:01:12.977,0:01:16.309
-That other people would sort of take it[br]BarCamp style and start making them
+0:01:33.321,0:01:34.611
+１回目だったので。
 
-0:01:16.309,0:01:19.245
-but in fact, the first year[br]there was just one WordCamp
+0:01:34.611,0:01:38.207
+こういう投稿ってふつう[br]１ヶ月以上前にするものですけど
 
-0:01:19.245,0:01:20.701
-and then it really started to pick up, with
+0:01:38.207,0:01:39.943
+３週間半前に、こんなこと書いてました
 
-0:01:20.701,0:01:22.899
-the second one I believe [br]coming in Argentina.
+0:01:39.943,0:01:42.171
+「場所もスケジュールも決まってません！」
 
-0:01:22.899,0:01:25.689
-San Francisco has always held a special [br]place in my heart though,
+0:01:42.733,0:01:43.563
+（会場、笑い）
 
-0:01:25.689,0:01:28.799
-for those of your who are WordCamp organizers,[br]you'll appreciate this.
+0:01:43.721,0:01:46.051
+決まってたのは日付だけで、[br]他は、その時点から決めるつもりでした。
 
-0:01:28.799,0:01:31.019
-This is the post which started WordCamp.
+0:01:46.051,0:01:49.531
+あとは、BarCampの形式でやろう、[br]ということだけ
 
-0:01:31.019,0:01:33.709
-It wasn't called WordCamp San Francisco, [br]it was just called WordCamp
+0:01:49.531,0:01:53.531
+そして、成し遂げました！[br]サンフランシスコの素敵な会場に集いました。
 
-0:01:33.709,0:01:34.729
-because there was only one.
+0:01:53.531,0:01:55.941
+その名も[br]「スウェディッシュ・アメリカン・ミュージックホール」
 
-0:01:34.729,0:01:36.605
-But basically a month before,
+0:01:56.872,0:02:00.022
+これです。[br]すごくすてきな音響システムが見えますね。
 
-0:01:36.935,0:01:38.481
-posted less than a month before,
+0:02:00.982,0:02:04.022
+小さなプロジェクターが、[br]ワイヤーでつり下げられてます。
 
-0:01:38.481,0:01:40.359
-about three and a half weeks before, I said
+0:02:04.022,0:02:06.202
+いろいろ自前で用意しました。[br]インターネットとか。
 
-0:01:40.359,0:01:42.109
-We don't have a venue, a schedule...
+0:02:06.202,0:02:08.552
+あと、左上に扇風機があるの見えますか？
 
-0:01:42.109,0:01:43.529
-(laughter)
+0:02:08.552,0:02:11.162
+エアコンが洗練されてました。
 
-0:01:44.049,0:01:44.839
-All we have is a date,
+0:02:11.162,0:02:15.162
+一番不満だったのは、[br]映像や音響でも何でもなく
 
-0:01:44.839,0:01:46.479
-but we'll figure it out between now and then
+0:02:15.162,0:02:17.412
+もちろんバーベキューも違います。[br]とっても良かったです！
 
-0:01:46.689,0:01:49.645
-and "BarCamp-style" was [br]code phrase for last minute,
+0:02:17.412,0:02:18.682
+椅子です！
 
-0:01:50.285,0:01:50.951
-and we did.
+0:02:19.049,0:02:21.149
+みなさん、いい椅子に座ってますよね。
 
-0:01:50.951,0:01:53.639
-We came together in a [br]very cute venue in San Francisco
+0:02:21.149,0:02:22.229
+感謝して下さいね。
 
-0:01:53.639,0:01:55.749
-called the "Swedish American Music Hall".
+0:02:24.283,0:02:26.123
+何年もたって、WordCamp San Franciscoは[br]本当に成長しました。
 
-0:01:57.319,0:01:59.899
-That was it, you could see our A/V system [br]was very sophisticated then.
+0:02:26.123,0:02:28.743
+ミッション・ベイで行うのは７年目です。[br]そして
 
-0:02:00.749,0:02:03.939
-The wire like hanging down[br]going to a little projector
+0:02:28.743,0:02:30.003
+たくさんのサングラスがありました。
 
-0:02:03.939,0:02:06.969
-We kinda had to bring everything in, [br]including internet..
+0:02:30.969,0:02:32.399
+まだまだたくさんのサングラス
 
-0:02:06.969,0:02:09.219
-and you notice the fan in the corner there?
+0:02:34.274,0:02:36.074
+みて下さい、サングラスしてる人。
 
-0:02:09.559,0:02:11.639
-The A/C system was very sophisticated.
+0:02:36.074,0:02:38.644
+WordCamp San Franciscoとサングラスとは何か。
 
-0:02:11.639,0:02:14.999
-And the number one complaint though, was[br]not about the A/V, about the anything
+0:02:38.644,0:02:40.374
+Googleグラスの人だっています！
 
-0:02:14.999,0:02:17.019
-certainly not about the barbeque, [br]it was very good,
+0:02:42.729,0:02:45.599
+今までいろんなプラットフォームが[br]成長し、なくなっていきました。
 
-0:02:17.399,0:02:19.215
-it was about the chairs!
+0:02:45.599,0:02:49.359
+そしてリード開発者のヘアスタイルも[br]成長し、なくなっていきました。
 
-0:02:19.545,0:02:21.031
-So I hope as you sit in these comfortable chairs,
+0:02:56.856,0:02:59.776
+集まって、バーベキューやサラダを[br]食べたりしました
 
-0:02:21.031,0:02:22.353
-that you appreciate it.
+0:02:59.776,0:03:01.126
+この人たちみたいに。
 
-0:02:22.433,0:02:23.505
-(laughter)
+0:03:02.141,0:03:04.011
+コミックみたいな書体も登場しました。
 
-0:02:24.525,0:02:26.252
-Over the years, it's really grown.
+0:03:06.039,0:03:08.159
+ロボットの参加者もいました。
 
-0:02:26.252,0:02:28.299
-We've now been in Mission Bay for 7 years.
+0:03:08.159,0:03:10.379
+今年は幸い、人間のゲイリーが来ました。
 
-0:02:28.299,0:02:30.307
-And there's been lots of sunglasses
+0:03:10.379,0:03:13.239
+たぶん一階から観てると思います。[br]「こんにちはゲイリー、1階のかた」
 
-0:02:31.317,0:02:32.857
-lots more sunglasses
+0:03:13.239,0:03:14.739
+とにかく人間がきました。
 
-0:02:32.857,0:02:33.747
-(laughter)
+0:03:14.739,0:03:17.309
+全てが全て、信じられないことですが
 
-0:02:34.297,0:02:36.087
-See that guy right there with sunglasses?
+0:03:17.309,0:03:20.779
+７年間ミッションベイでやりとげたのです。
 
-0:02:36.127,0:02:38.867
-What is it about WordCamp San Francisco[br]and sunglasses?
+0:03:21.670,0:03:24.480
+ほろ苦く、淋しいお知らせですが
 
-0:02:38.867,0:02:40.975
-We even had Google Glasses!
+0:03:24.480,0:03:27.620
+ここでイベントをするのは、今回で最後です。
 
-0:02:40.975,0:02:41.783
-(laughter)
+0:03:29.808,0:03:31.318
+私たちには手狭になりました。
 
-0:02:42.623,0:02:45.253
-We've seen the rise and fall of different platforms
+0:03:31.318,0:03:33.828
+空席がまったくありません。
 
-0:02:45.303,0:02:49.146
-We've seen the growth and regression of[br]lead developer's hair...
+0:03:33.828,0:03:36.018
+1階も満席だと思います。
 
-0:02:49.256,0:02:50.641
-(laughter)
+0:03:37.398,0:03:38.778
+でもニュースがあります。
 
-0:02:50.921,0:02:53.156
-(applause)
+0:03:38.778,0:03:41.038
+ここ数年、オンラインでもオフラインでも[br]話して来たことで
 
-0:02:57.046,0:02:58.483
-We've gathered around and ate barbeque
+0:03:41.038,0:03:43.308
+元のWordCamp San Franciscoの[br]ようなもので、
 
-0:02:58.483,0:03:01.603
-or sometimes salad [br]as these odd people are doing.
+0:03:43.308,0:03:46.708
+名前、日時、場所は確定してないのですが
 
-0:03:02.233,0:03:04.673
-We've got Comic Sans on stage.
+0:03:47.898,0:03:49.318
+来年やるのは....
 
-0:03:05.913,0:03:08.243
-We even have had robots attend.
+0:03:49.992,0:03:52.302
+仮に「WordCamp US」と呼ぶことにしましょう。
 
-0:03:08.283,0:03:10.373
-Luckily this year, we have Gary in person.
+0:03:52.443,0:03:55.123
+WordCamp San Franciscoの[br]ようなものをやります。
 
-0:03:10.373,0:03:13.283
-I think he's downstairs actually. [br]Hello Gary, downstairs.
+0:03:55.123,0:03:56.723
+１番のWordCamp、というような。
 
-0:03:13.283,0:03:14.593
-But we got him in person.
+0:03:56.723,0:03:59.013
+都市ごとのWordCampのさらに前のような。
 
-0:03:14.593,0:03:17.629
-But all in all, it's been a pretty incredible run.
+0:03:59.013,0:04:02.373
+先駆者であるWordCamp Europeのように、
 
-0:03:17.889,0:03:20.225
-7 years now at Mission Bay.
+0:04:02.373,0:04:04.843
+世界中の人々を集めるイベントをやります。
 
-0:03:20.665,0:03:23.703
-So, it's bittersweet, and it's with some sadness
+0:04:04.843,0:04:06.733
+そして少し大きく。
 
-0:03:23.703,0:03:26.645
-that I tell you that this will be our LAST EVER
+0:04:06.874,0:04:08.984
+話が戻りますが、[br]ここでは爆発せんばかりの人です。
 
-0:03:26.645,0:03:27.537
-event here.
+0:04:08.984,0:04:11.604
+火災報知器が鳴らなくて幸いです。
 
-0:03:27.687,0:03:29.579
-(silence)
+0:04:13.441,0:04:16.131
+もっとたくさんの部屋があっていいと思います。
 
-0:03:29.909,0:03:31.093
-We've outgrown it.
+0:04:16.131,0:04:20.721
+もっとたくさんの[br]講演、登壇者、参加者、あらゆること！
 
-0:03:31.263,0:03:33.537
-I mean, there was[br]not an empty seat in this whole house,
+0:04:20.721,0:04:24.231
+そこで来年、ためしにどうなるかやってみます。
 
-0:03:33.687,0:03:35.245
-and I expect that downstairs is similarly full.
+0:04:24.231,0:04:27.331
+名前、場所、日程は未定です！
 
-0:03:37.063,0:03:38.531
-But I have something new to announce,
+0:04:29.695,0:04:33.055
+毎年お話していることの１つは、[br]調査についてです。
 
-0:03:38.531,0:03:41.101
-something we've been talking about on and[br]off for a few years
+0:04:33.055,0:04:36.375
+今年は33,000以上の回答を得ました。
 
-0:03:41.101,0:03:43.381
-and much like the original WordCamp San Francisco
+0:04:36.375,0:04:39.055
+本当に驚いたんですけど
 
-0:03:43.381,0:03:46.871
-it doesn't entirely have a name,[br]a date, or a place yet.
+0:04:39.055,0:04:43.055
+そんなに宣伝してたわけじゃなくて、[br]WordPress.orgのトップにリンクを貼ってただけです。
 
-0:03:48.331,0:03:49.612
-Next year we're going to do a WordCamp..
+0:04:43.055,0:04:46.291
+１つ、驚かずにいられないことは
 
-0:03:49.612,0:03:51.913
-let's call it US, just as a placeholder.
+0:04:46.291,0:04:48.807
+とても国際的なことです。
 
-0:03:52.733,0:03:54.666
-So, taking kind of what do in San Francisco
+0:04:48.807,0:04:52.765
+だいたい2/3か、3/4ぐらいの回答は[br]アメリカ国外からでした。
 
-0:03:54.846,0:03:56.626
-which has the first WordCamp,
+0:04:54.036,0:04:57.946
+WordPressの歴史において[br]2014年は転機の年でした。
 
-0:03:57.076,0:03:59.146
-the WordCamp before we put cities after the name
-
-0:03:59.266,0:04:02.406
-and sort of what was pioneered by WordCamp Europe,
-
-0:04:02.446,0:04:05.386
-try to do an event that brings people from all over the world together
-
-0:04:05.606,0:04:06.626
-and is a bit bigger.
-
-0:04:06.886,0:04:08.612
-Again, we're bursting at the seams here.
-
-0:04:08.662,0:04:11.368
-Literally I'm glad there's no fire inspectors here.
-
-0:04:13.266,0:04:16.216
-I think we can do something that has a [br]bit more room
-
-0:04:16.296,0:04:17.759
-for more presentations,
-
-0:04:17.829,0:04:18.841
-more people,
-
-0:04:19.041,0:04:21.053
-more exhibitors, more everything!
-
-0:04:21.053,0:04:22.580
-So, we're going to try this
-
-0:04:22.580,0:04:24.457
-uh, next year and we'll see how it goes.
-
-0:04:24.537,0:04:25.373
-And like it says,
-
-0:04:25.373,0:04:28.639
-name, location, and date to be determined.
-
-0:04:29.629,0:04:33.156
-One thing that we do every year is talk a little[br]about the survey.
-
-0:04:33.266,0:04:36.476
-And this year, we had over 33,000 responses
-
-0:04:36.476,0:04:38.606
-to the survey, which kind of blew me away.
-
-0:04:39.296,0:04:40.636
-Again we don't really promote it that much
-
-0:04:40.636,0:04:42.976
-we just put a link[br]at the top of WordPress.org.
-
-0:04:43.416,0:04:45.946
-One thing that won't be surprising[br]to many of you is that
-
-0:04:46.166,0:04:48.096
-is very international,[br]about two-thirds, about
-
-0:04:48.096,0:04:51.326
-actually three-quarters[br]of the survey responses
-
-0:04:51.326,0:04:52.696
-were from people outside the US.
-
-0:04:54.036,0:04:56.396
-And 2014 was actually a milestone year
-
-0:04:56.396,0:04:58.066
-for WordPress in this regard.
-
-0:04:58.236,0:04:59.676
-I think that we will look back
-
-0:04:59.896,0:05:01.846
-in the decades to come,[br]
+0:04:58.236,0:05:01.616
+何十年か経ったら、[br]今年のことを思い出すでしょう。
 
 0:05:01.926,0:05:03.916
-as 2014 the first year
+2014年は初めて、
 
-0:05:03.916,0:05:05.536
-that non-English downloads[br]
-
-0:05:05.536,0:05:07.176
-surpassed English downloads
+0:05:03.916,0:05:07.056
+英語版以外のダウンロード数が[br]英語版を上回りました。
 
 0:05:08.226,0:05:09.015
-for the first time.
+はじめてです。
 
 0:05:09.235,0:05:10.834
-(applause)
+拍手
 
 0:05:14.644,0:05:17.443
-This makes sense, for those of you who were at[br]Nacin's presentation yesterday.
+昨日のネイシンのプレゼンを聴いたかたは[br]ご存知ですが
 
 0:05:17.443,0:05:19.933
-He talked about how only 10% of the[br]world speaks English, and
+世界のたった10％が英語話者で、
 
 0:05:19.933,0:05:22.273
-only 5% of the world as their first language
+たった5%の第一言語が、英語という話でした。
 
 0:05:22.503,0:05:23.609
-so, over time,
+なので時間をかけて、
 
 0:05:24.779,0:05:26.127
-I really hope that
+本当に望んでいることですが
 
 0:05:26.257,0:05:29.075
-the usage of WordPress mirrors that,
+WordPressの利用者を[br]これと同じにしたいです。
 
-0:05:29.075,0:05:31.783
-and that someday, when we talk about[br]internationalization, it won't just be about
+0:05:29.075,0:05:31.093
+いつの日か、国際化の話をするときは、
 
-0:05:31.783,0:05:34.073
-English being translated to other countries
+0:05:31.093,0:05:34.073
+英語を他の言語に翻訳する、[br]というだけではなく
 
-0:05:34.073,0:05:35.976
-but figuring out how to take plugins
+0:05:34.073,0:05:37.056
+中国語、ロシア語、日本語でプラグインを作って、
 
-0:05:35.976,0:05:36.675
-in Chinese
+0:05:37.056,0:05:38.939
+英語に翻訳し直すでしょう。
 
-0:05:36.675,0:05:37.281
-in Russian
-
-0:05:37.281,0:05:37.937
-in Japanese.
-
-0:05:38.167,0:05:39.363
-and translate them back[br]to English.
-
-0:05:40.303,0:05:41.373
-That's the plan at least.
+0:05:38.939,0:05:41.373
+まだ構想でしかないですが。
 
 0:05:42.213,0:05:45.743
-One of the things we also talk about a lot[br]is WordPress usage as a CMS.
+よく話されることと言えば[br]WordPressをCMSとして使うことについてです。
 
 0:05:45.983,0:05:48.893
-In fact, who here uses WordPress as a CMS?
+WordPressをCMSとして使っている人はいますか？
 
 0:05:50.047,0:05:51.377
-Pretty much everyone.
+ほぼ全員ですね。
 
 0:05:51.377,0:05:55.017
-What you might not know is that's been[br]declining every year.
+ご存じないと思いますが[br]この割合は毎年、減っています。
 
 0:05:56.787,0:05:58.457
-But what's taken its place?
+では何が増えてるのでしょう。
 
 0:05:58.906,0:06:00.969
-So it's kinda interesting to see this
+面白いのですけど
 
-0:06:00.969,0:06:03.072
-because what has started to eat away
+0:06:00.969,0:06:04.582
+「主にCMSとして使う」[br]と回答した人の割合が減った影響で
 
-0:06:03.072,0:06:04.786
-at people using WordPress[br]mostly as a CMS,
-
-0:06:04.786,0:06:07.550
-so they use as a CMS all the time,
-
-0:06:07.670,0:06:09.248
-or about half the time.
+0:06:04.582,0:06:09.136
+この人たちは「必ずCMSとして使う」[br]または「半々」です。
 
 0:06:09.358,0:06:11.306
-Blog has also been declining.
+ブログも減ってます。
 
 0:06:11.356,0:06:12.829
-But people using it as an app framework[br]
+代わりに、アプリケーション・プラットフォームとして[br]使っている人が増えてるのです。
 
 0:06:12.829,0:06:14.492
-is starting to take a share away from that.
+これがシェアを奪っているのです。
 
 0:06:14.632,0:06:17.156
-So, it is the early days still, but it [br]is starting to pick up,
+まだ少ないですが、増え始めています。
 
 0:06:17.866,0:06:20.026
-and I'm going to talk about this more[br]a little bit later.
+これについては、後ほどさらにお話ししましょう。
 
-0:06:20.106,0:06:23.086
-Other stat I was really excited about is[br]now a full quarter of the people
+0:06:20.106,0:06:22.596
+ほかに嬉しいことといえば、
 
-0:06:23.086,0:06:24.543
-who answered the survey
+0:06:22.596,0:06:24.543
+回答者の1/4が、
 
 0:06:25.073,0:06:26.850
-make their full time living from WordPress.
+WordPressでフルタイムの生計をたてていることです。
 
 0:06:27.020,0:06:29.797
-That was 7,539 people.
+7,539人です。
 
 0:06:30.937,0:06:31.878
-(whistle)
+（口笛）
 
 0:06:31.968,0:06:33.069
-Yeah right?
+本当に！
 
 0:06:33.299,0:06:37.352
-That represents easily over a billion dollars[br]in economic activity per year.
+簡単にいえば、年間10億USドル以上の[br]経済効果ということです。
 
 0:06:37.392,0:06:38.605
-That's really amazing,
+本当にすごいことです。
 
-0:06:38.605,0:06:40.101
-That's bigger than the employee counts[br]
-
-0:06:40.101,0:06:42.467
-of many of the large internet giants.
+0:06:38.605,0:06:42.541
+インターネット業界の大企業の[br]従業員数よりも多いです。
 
 0:06:42.707,0:06:44.089
-So this really blew me away,
+たまげたものです。
 
 0:06:44.089,0:06:46.621
-and something that I'm extremely proud of.
+非常に誇りに思っています。
 
 0:06:46.871,0:06:49.249
-Also, sort of speaks to our [br]responsibility as a community
+コミュニティとして責任があることです。
 
-0:06:49.419,0:06:50.697
-That there's now
+0:06:49.419,0:06:51.087
+これはつまり、
 
-0:06:50.717,0:06:51.568
-you know,
+0:06:51.087,0:06:53.798
+WordCamp San Franciscoの参加者の[br]７〜８倍の人が
 
-0:06:51.708,0:06:54.419
-something 7-8 times the size[br]of WordCamp San Francisco,
-
-0:06:54.809,0:06:57.052
-of people who pay their mortgages[br]and feed their families
+0:06:53.798,0:06:56.851
+ローンの支払いや、家族を食べさせてゆくこと
 
 0:07:00.260,0:07:02.780
-The good and the bad is[br]pretty much the same.
+「いいこと」と「悪いこと」は、[br]ほぼ変化なしでした。
 
-0:06:57.052,0:06:59.592
-and send their kids to school[br]with WordPress.
+0:06:56.851,0:06:59.592
+子どもを学校を通わせるのを[br]WordPressでやってるんです。
 
 0:07:02.780,0:07:05.150
-You guys love that it's easy, plugins, [br]and community.
+みなさんが好きなのは[br]「簡単さ」「プラグイン」「コミュニティ」
 
-0:07:05.150,0:07:06.560
-You hate the plugins,
-
-0:07:06.560,0:07:08.650
-the themes, and the updates.
+0:07:05.150,0:07:08.280
+嫌いなのは[br]「プラグイン」「テーマ」「アップデート」
 
 0:07:08.650,0:07:10.090
-(laughter)
+（会場、笑い）
 
 0:07:10.740,0:07:12.830
-These are actually the last three years[br]of answers.
+この３年間の回答です。
 
 0:07:12.830,0:07:14.390
-Plugins have gotten a little bit better.
+プラグインは少しマシになりました。
 
 0:07:14.820,0:07:16.490
-But you still love community.
+コミュニティはいまだに人気です。
 
 0:07:16.820,0:07:18.380
-We asked how many sites people built
+いくつサイトを作ったか聞いたら
 
 0:07:18.380,0:07:21.510
-and actually the survey respondents alone[br]were responsible for
+たった１人だけ
 
 0:07:21.510,0:07:24.430
-somewhere between half a million[br]and a million sites,
+50万〜100万のサイトを作ったという人がいました。
 
-0:07:24.430,0:07:27.770
-with only I think it was 6% saying that
-
-0:07:27.770,0:07:30.540
-they had only built one site[br]with WordPress.
+0:07:24.430,0:07:30.120
+「１つだけ」という人は6%
 
 0:07:30.540,0:07:32.680
-So, WordPress is like[br]the Pringles of CMS's,
+WordPressは、CMS界のプリングルズと言えるでしょう。
 
 0:07:32.680,0:07:34.997
-once you pop you just can't stop.
+開けたら最後、やめられない。
 
 0:07:34.997,0:07:35.994
-(laughter)
+（会場、笑い）
 
 0:07:37.004,0:07:39.631
-And also, what I thought was cool [br]was 91% of these sites,
+それからすごいと思ったのが、91%のサイトは
 
 0:07:39.631,0:07:41.731
-took less than 200 hours to build.
+200時間以内で完成したということです。
 
 0:07:42.550,0:07:45.170
-So, a lot of these sites that are being [br]built are much easier
+たくさんのサイトが、さらに[br]簡単に作られているということこそ
 
 0:07:45.260,0:07:46.846
-this isn't a platform where
+他のプラットフォームとの違いです。
 
 0:07:47.016,0:07:47.912
-you know,
+たとえば、
 
 0:07:47.982,0:07:49.590
-it costs a hundred grand to install it
+インストールするのに莫大なコストがかかるとか、
 
 0:07:49.590,0:07:51.500
-and then a hundred grand to upgrade it[br]three years later.
+３年たったら膨大なアップグレードが必要[br]なんてことは、ありません。
 
-0:07:51.500,0:07:53.360
-I mean, it's really something you can get out quickly
+0:07:51.500,0:07:55.220
+本当にすぐ出来上がって、[br]しかも常に最新なんです。
 
-0:07:53.360,0:07:55.130
-and stay up to date easily.
+0:07:56.313,0:08:00.523
+ご存知のように、去年のWordCampは[br]10月ではありませんでした。
 
-0:07:56.313,0:07:58.413
-Now, those of you know, we also didn't
-
-0:07:58.413,0:08:00.743
-do a WordCamp in October last year.
-
-0:08:00.823,0:08:02.093
-We did it in July.
+0:08:00.523,0:08:02.093
+７月でした。
 
 0:08:02.713,0:08:04.413
-so, since the last WordCamp,
+なので、去年のWordCampから
 
 0:08:04.463,0:08:06.983
-I didn't believe this when I first saw it either,
+これもはじめてのことですが、
 
 0:08:06.983,0:08:10.473
-We've had 5 major releases of WordPress.
+5回のメジャーリリースを行いました。
 
 0:08:11.123,0:08:14.143
-(applause)
+（拍手）
 
 0:08:17.693,0:08:20.313
-Oscar, Basie, Parker, Smith, and Benny.
+オスカー、ベイシー、パーカー、スミス、ベニー。
 
 0:08:20.589,0:08:23.189
-Five major releases, now granted, one was[br]the day after WordCamp.
+５つのメジャーリリースで、しかも１つは[br]WordCampの翌日でした。
 
 0:08:23.429,0:08:25.019
-So, kinda slipped in there,
+すべり込みですね
 
 0:08:25.059,0:08:27.746
-but we have one more, coming in 4.1.
+もう１つあります、もうすぐ4.1があります。
 
 0:08:28.366,0:08:30.006
-These releases had a ton of stuff, and
+これらのリリースは内容もりだくさんで、
 
 0:08:30.006,0:08:33.506
-I didn't really appreciate it until I actually went back, [br]so I'd like to do that with you all.
+ひとつずつ振り返って、[br]みなさんと一緒に感謝したいと思います。
 
 0:08:33.566,0:08:36.236
-We redid the revisions UI, in 3.6
+3.6では、リヴィジョンのUIをやり直しました。
 
 0:08:36.236,0:08:38.316
-We introduced a better post locking,
+投稿のロックを改善して、
 
 0:08:38.316,0:08:40.276
-and the Twenty Thirteen Theme.
+Twenty Thirteenのテーマがありました。
 
 0:08:40.466,0:08:41.862
-3.7 we had auto-updates,
+3.7では自動アップデートが実装されました。
 
-0:08:41.862,0:08:44.828
-which is one of the most significant[br]features we've introduced
+0:08:41.862,0:08:45.968
+この４〜５年に実装された機能のなかでも[br]最も重要なものです。
 
-0:08:44.828,0:08:46.246
-in the past four or five years.
-
-0:08:46.246,0:08:48.745
-Made passwords better, and [br]improved global stuff.
+0:08:45.968,0:08:48.745
+パスワードを良くして、国際化も改善しました。
 
 0:08:48.745,0:08:52.063
-3.8 which I actually personally led, was[br]chock full of things,
+3.8は自分がリードだったんですけど、[br]いろんなものがぎっしりでした。
 
 0:08:52.063,0:08:53.565
-We had the Twenty Fourteen theme,
+Twenty Fourteenテーマがあったし、
 
 0:08:53.565,0:08:55.129
-Colour Schemes for the first time,
+カラースキームがはじめて導入されました。
 
 0:08:55.129,0:08:56.693
-a new theme browser,
+新しいテーマブラウザ、
 
 0:08:56.693,0:08:57.913
-the MP6 redesign,
+管理画面がMP6デザインに変更。
 
-0:08:57.913,0:08:59.613
-and for the first time in history we made
+0:08:57.913,0:09:01.003
+WordPress史上はじめて[br]管理画面を完全レスポンシブにしました。
 
-0:08:59.613,0:09:01.293
-WordPress's admin fully responsive.
-
-0:09:01.293,0:09:04.373
-So it worked on tablets and phones.
+0:09:01.003,0:09:04.373
+タプレットやスマホで操作できます。
 
 0:09:04.453,0:09:06.223
-(applause)
+（拍手）
 
 0:09:08.683,0:09:09.676
 I was really into that,
@@ -683,328 +563,319 @@ I was really into that,
 I was like hell or high water, [br]we're going to get this in.
 
 0:09:12.799,0:09:14.543
-3.9 we focused a lot on the WYSIWYG,
+3.9はWYSIWYGエディタに注力しました。
 
 0:09:14.543,0:09:16.363
-we got drag and drop images in there,
+イメージのドラッグ＆ドロップ
 
 0:09:16.363,0:09:18.373
-previews of the galleries,
+ギャラリーのプレビュー、
 
-0:09:18.373,0:09:21.063
-and overall just allowing you[br]to edit images
+0:09:18.373,0:09:21.750
+画像の編集が可能になりました。
 
-0:09:21.063,0:09:21.970
-a lot better.
-
-0:09:21.970,0:09:23.880
-And finally with 4.0, our most recent,
+0:09:21.750,0:09:23.880
+そして最新の4.0
 
 0:09:23.880,0:09:25.550
-we redid the media library,
+メディアライブラリを作り直しました。
 
 0:09:25.550,0:09:26.800
-had rich embeds,
+メディアの挿入がリッチに。
 
 0:09:26.800,0:09:29.590
-the new plugin browser, [br]which I'm a huge fan of,
+新しいプラグインブラウザ、これはすごく楽しいです。
 
 0:09:29.590,0:09:31.130
-and the improvements to the editor,
+エディタの改善。
 
 0:09:31.130,0:09:34.480
-which made it, in my opinion, [br]much easier to write long posts.
+これは、個人的には[br]長文をかくのをより楽にしたと思います。
 
 0:09:34.480,0:09:37.160
-I've actually been on a personal quest where
+実は、個人的な挑戦をしていて、
 
-0:09:37.160,0:09:38.960
-I had a 39-day streak,
+0:09:37.160,0:09:40.920
+いままでの最長39日間、[br]毎日投稿を続けてました。
 
-0:09:39.060,0:09:40.810
-I posted every single day,
-
-0:09:41.680,0:09:43.056
-I'm on new one now,
+0:09:40.920,0:09:43.056
+今また、記録更新しようとしてます。
 
 0:09:43.156,0:09:45.172
-I had like 12 days,[br]yesterday I missed it so
+12日くらい続いたのに、きのう抜けちゃったんです。
 
 0:09:45.242,0:09:46.784
-So I'll start again tomorrow.
+また明日から書き始めます。
 
 0:09:46.784,0:09:47.776
-But, it's kinda neat.
+ちゃんと、やってます。
 
-0:09:47.806,0:09:49.880
-And actually if you run Jetpack or[br]WordPress.com,
+0:09:47.806,0:09:50.330
+もしJetpackかWordPress.comを使ってたら、
 
-0:09:50.010,0:09:51.700
-you now get a notification for how many days you
+0:09:50.330,0:09:52.854
+何日投稿が続いているか、知らせてくれます。
 
-0:09:51.700,0:09:53.160
-have a posting streak for.
+0:09:52.854,0:09:54.628
+これは楽しい機能ですよ。
 
-0:09:53.160,0:09:55.380
-Which is kind of a fun feature[br]if any of you
+0:09:54.628,0:09:57.342
+もし私のもってる39日間の記録を[br]破ろうとするならね。
 
-0:09:55.380,0:09:57.297
-would like to try to beat my 39.
+0:09:57.342,0:09:59.787
+トニーがどこかにいたと思いますが、[br]彼が挑戦してたと思います。
 
-0:09:57.857,0:09:59.587
-I saw Tony here somewhere, Tony is working
-
-0:09:59.587,0:10:01.577
-on it as well. He's doing a month of blogging.
+0:09:59.787,0:10:01.577
+彼は1ヶ月やってます。
 
 0:10:02.447,0:10:03.637
-(screen cuts out briefly)
+（スクリーンの不都合）
 
 0:10:04.087,0:10:05.073
-There we go!
+頼むよ、
 
 0:10:06.063,0:10:07.857
-I was like aww, please[br]not another fire alarm.
+どうかまた火災報知器が鳴りませんように。
 
 0:10:08.167,0:10:09.511
-(laughter)
+（会場、笑い）
 
 0:10:10.271,0:10:12.376
-You guys are just so hot.
+みなさん、ホットですから！
 
 0:10:12.643,0:10:14.643
-Tore the building up.
+建物をこわすくらい。
 
 0:10:15.608,0:10:18.358
-Besides myself we had seven release leads.
+自分の他に、７人のリリースのリーダーがいました。
 
 0:10:18.708,0:10:20.038
-And actually, a few of them are here in the room.
+何人かはこの部屋に居ます。
 
 0:10:20.158,0:10:22.518
-So, John, Aaron, Mark, Dion, Helen, Mike, Andrew
+ジョン、アーロン、マーク、ディオン、[br]ヘレン、マイク、アンドリュー
 
 0:10:22.728,0:10:23.768
-can you stand up?
+立ち上がって下さい。
 
-0:10:25.567,0:10:30.813
-There we go. We got Mark there, there's Aaron,
+0:10:25.567,0:10:29.853
+はい、マークはあそこ、アーロンはあそこ、
 
-0:10:30.813,0:10:34.310
-Oh, Helen right over there!
+0:10:30.813,0:10:33.320
+おーヘレン、そこにいたんだね！
 
 0:10:34.710,0:10:36.427
-(applause)
+（拍手）
 
 0:10:39.357,0:10:41.465
-Being a release lead is VERY difficult,
+リリースリーダーをやるのは、本当に大変です。
 
 0:10:41.595,0:10:42.815
-I'm sure all of these folks can attest.
+この人たちが証明です。
 
 0:10:43.055,0:10:46.045
-And it's something that [br]we've even had people do twice
+２回やったひともいます。
 
 0:10:46.065,0:10:48.515
-Andy on this list did it twice in this period.
+アンディはこの期間に２回やりました。
 
-0:10:48.875,0:10:52.305
-We also have had a variety of new[br]contributors to WordPress
+0:10:48.875,0:10:51.715
+また、様々な新しいWordPressコントリビューターを、
 
-0:10:52.305,0:10:54.015
-in a variety of ways.
+0:10:51.715,0:10:54.015
+様々な方法で迎えました。
 
 0:10:54.095,0:10:56.305
-When I say your name, please stand up if[br]you're here.
+名前を言ったら、いる人は立ち上がって下さいね。
 
 0:10:56.305,0:10:58.372
-Rachel and Ryan have been working on[br]the API
+レイチェルとライアンは、APIに携わりました。
 
 0:10:58.482,0:11:00.152
-Janneke on WYSIWYG,
+ヤナカはWYSIWYGエディタ
 
 0:11:00.457,0:11:01.467
-Eric on media,
+エリックはメディア
 
 0:11:01.517,0:11:02.867
-Mel on design,
+メルはデザイン
 
-0:11:02.957,0:11:05.187
-Takashi is now designing TWO primary themes,
+0:11:02.957,0:11:05.167
+タカシは２つも、標準テーマをデザインしています。
 
-0:11:05.257,0:11:08.137
-and then Weston on customizer,
+0:11:05.167,0:11:07.547
+ウェストンは、カスタマイザー
 
-0:11:08.157,0:11:08.940
-and finally Kim on docs,
+0:11:07.547,0:11:08.940
+キムはドキュメント
 
 0:11:09.343,0:11:10.877
-if you're all here please stand up.
+みんな、いたら立って下さい！
 
 0:11:10.947,0:11:12.410
-Round of applause for y'all.
+みなさんのための拍手です！
 
 0:11:12.520,0:11:14.293
-(crowd cheering)
+（会場、拍手喝采）
 
 0:11:21.303,0:11:23.234
-Weston, I was liking your tweets [br]about the API too,
+ウェストン、APIについてのツイートもよかったです。
 
 0:11:23.264,0:11:24.655
-and the node stuff.
+あとNodeについて。
 
 0:11:25.385,0:11:27.876
-Also finally this year we added [br]5 new committers
+今年、5人のあらたなコミッターが加わりました。
 
-0:11:28.946,0:11:31.196
-Konstantin, Boone, Gary, Jeremy, and Aaron
+0:11:28.596,0:11:31.196
+コンスタンティン、ブーン、ゲイリー、[br]ジェレミー、アーロンです。
 
 0:11:31.476,0:11:32.586
-They all here?
+いますか？
 
-0:11:33.292,0:11:34.515
-Put your hands in the air,
+0:11:33.292,0:11:34.505
+手を挙げて。
 
-0:11:34.715,0:11:35.664
-wave 'em like you just don't care..
+0:11:34.515,0:11:35.664
+さりげなくでいいので
 
 0:11:35.684,0:11:36.443
-WHOAAA!!!
+おー！
 
 0:11:36.613,0:11:38.375
-How are you hiding down there?
+どうやって下に隠れてるの？
 
 0:11:38.445,0:11:40.207
-(applause)
+（拍手）
 
 0:11:43.787,0:11:47.242
-I can confirm that we're going to let[br]Gary out of the cage soon.
+私たちは、ゲイリーを[br]はやくカゴから出すことをお約束します。
 
 0:11:47.402,0:11:48.417
-(laughter)
+（笑い）
 
 0:11:48.867,0:11:50.044
 He's been in there for..
 
 0:11:50.124,0:11:51.544
-also, if you notice this,
+お気づきかもしれませんが、
 
-0:11:53.023,0:11:54.753
-We have about half looking left,
+0:11:53.023,0:11:55.903
+右向きの人と左向きの人が半々です。
 
-0:11:54.823,0:11:56.043
-half looking right...
-
-0:11:56.183,0:11:57.763
-And then Andy is just straight on.
+0:11:55.903,0:11:57.763
+アンドリューだけ真っすぐ前むいてます。
 
 0:11:57.813,0:11:59.683
-Staring right into your soul.
+心をのぞき込んでます。
 
 0:12:01.408,0:12:03.428
-Kim is the only one[br]looking fully forward there.
+新コントリビューターの中では[br]キムだけちゃんと前を向いてます。
 
 0:12:03.568,0:12:04.968
-So I think that means she's the new Andy.
+なのでキムが、新たなアンディとなるでしょう。
 
 0:12:06.028,0:12:09.118
-But here, kinda everyone [br]is looking right at the camera.
+でもニューコミッターたちは[br]全員まっすぐカメラ観ています。
 
 0:12:09.168,0:12:11.196
-So maybe there's something there,[br]that's the trick to getting commits.
+この人たちにはコミットするトリックを持ってるんですね
 
 0:12:11.286,0:12:12.474
-(laughter)
+（笑い）
 
 0:12:13.744,0:12:14.823
-Update your Gravatar.
+Gravatar更新して下さい。
 
 0:12:16.080,0:12:22.157
-All in all, we had 785 contributors[br]over those five releases.
+この5回のリリースで、[br]あわせて785人のコントリビューターがいました。
 
 0:12:25.587,0:12:27.384
-(applause)
+（拍手）
 
 0:12:31.724,0:12:33.793
-Including one that we bamboozled,[br]
+１つは、騙されて、
 
 0:12:33.843,0:12:35.352
-into leading another release.
+他のリリースをするはめになりました。
 
 0:12:35.432,0:12:36.732
-John are you here?
+ジョンは、いる？
 
 0:12:37.642,0:12:38.669
-Hey John.
+ヘイ、ジョン！
 
 0:12:38.749,0:12:40.446
-(applause)
+（拍手）
 
 0:12:45.296,0:12:47.448
-John will be leading release version 4.1,
+ジョンは4.1のリーダーの予定です。
 
 0:12:47.548,0:12:49.630
-which is actually coming out on December 10th.
+１２月１０日にリリース予定です。
 
 0:12:49.710,0:12:51.753
-So, thank you very much.
+ありがとうございます。
 
 0:12:51.803,0:12:53.463
-Other big thing over the past few years,
+ほかに過去数年で大きなこと
 
 0:12:53.463,0:12:55.403
-is that the usage of WordPress has grown a ton.
+WordPressの利用数の伸びがものすごいです。
 
 0:12:55.403,0:12:59.233
-We now power over 23% of websites.
+ウェウサイトのうち23%で動いています。
 
 0:13:00.723,0:13:02.433
-(applause)
+（拍手）
 
-0:13:05.833,0:13:07.233
-To put that in perspective,
+0:13:05.313,0:13:07.233
+この視点から言うと、
 
 0:13:07.453,0:13:11.739
-from 2013-2014, we grew the equivalent [br]of two Drupal market shares.
+去年から今年で、Drupalのシェアの２倍になりました。
 
 0:13:11.889,0:13:13.295
-(laughter)
+（会場、笑い）
 
 0:13:18.055,0:13:19.741
-Activity across the board was up,
+軒並み活動は、最高でした。
 
 0:13:19.741,0:13:21.247
-plugins were a huge boost,
+プラグインの加速はすごかったです。
 
-0:13:21.407,0:13:26.643
-We had over 6,400 added [br]for a total of 34,000 plugins in the repository.
+0:13:21.407,0:13:23.652
+6,400以上のプラグインが追加されて、[br]
 
-0:13:26.963,0:13:29.493
-In activity we reached 1 million commits,
+0:13:23.652,0:13:26.797
+合計34,000がレポジトリにあります。
+
+0:13:26.797,0:13:29.493
+活動でいうと100万コミットに達しました。
 
 0:13:29.673,0:13:32.853
-Actually have brought you [br]the millionth commit here
+これは100万コミット目のものです。
 
 0:13:32.973,0:13:36.406
-Otto decided to make a Pluginception.[br]
+オットーは、「プラグインセプション」を[br]作ることにしました。
 
 0:13:36.526,0:13:38.239
-Thought that was a very clever name
+気の利いた名前だと思いました。
 
 0:13:38.279,0:13:40.313
-We're going to have to talk about[br]that donate link though.
+ドネーションリンクもあります。
 
 0:13:40.313,0:13:42.803
-But this was the millionth commit [br]that we had, it was a fun joke.
+これが100万回目のコミットです。[br]おもしろネタとしてね。
 
 0:13:42.883,0:13:46.353
-I love our funny commits, like Helen's song [br]and things like that.
+おもしろコミット大好きです。[br]ヘレンの歌みたいなのとか。
 
 0:13:46.403,0:13:47.363
 We get some good ones in there.
 
 0:13:47.423,0:13:49.053
-Themes also were huge
+テーマもすごくたくさんです。
 
 0:13:49.113,0:13:52.073
 and this is a real testament[br]to the work of the Theme Review Team.
