@@ -1,4 +1,4 @@
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="ja">
     <head>
         <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
             <ttm:title/>
@@ -15,342 +15,301 @@
     </head>
     <body region="bottom">
         <div>
-            <p begin="00:00:04.051" end="00:00:06.431">Good morning, everybody!</p>
-            <p begin="00:00:07.091" end="00:00:09.951">Glad to see you all fully recovered from<br/>the party last night.</p>
-            <p begin="00:00:10.739" end="00:00:12.649">A party so good it broke the plumbing.</p>
-            <p begin="00:00:14.371" end="00:00:15.941">I don't know what that means...</p>
-            <p begin="00:00:15.941" end="00:00:19.290">You guys are full of it. No, I'm kidding.</p>
-            <p begin="00:00:19.790" end="00:00:21.629">Just kidding!</p>
-            <p begin="00:00:22.179" end="00:00:25.529">I am very proud and honored and privileged to <br/>be in front of you this morning</p>
-            <p begin="00:00:25.989" end="00:00:28.990">at the 9th WordCamp San Francisco.</p>
-            <p begin="00:00:28.990" end="00:00:30.621">(crowd cheering) </p>
-            <p begin="00:00:30.621" end="00:00:33.422">(applause)</p>
-            <p begin="00:00:34.602" end="00:00:35.915">Eleven years ago, </p>
-            <p begin="00:00:35.915" end="00:00:39.328">when WordPress started,<br/>co-founded it with Mike Little,</p>
-            <p begin="00:00:39.328" end="00:00:41.693">no idea that it would ever be like this</p>
-            <p begin="00:00:41.693" end="00:00:46.723">and this is, I think, officially, the largest<br/>WordCamp San Francisco we've ever had.</p>
-            <p begin="00:00:46.723" end="00:00:50.023">With the three ticket releases selling out<br/>same day, each time.</p>
-            <p begin="00:00:50.023" end="00:00:52.952">So, you guys were good at <br/>clicking that button really fast.</p>
-            <p begin="00:00:52.952" end="00:00:54.251">(laughter)</p>
-            <p begin="00:00:54.931" end="00:00:56.423">All over the world this year.. </p>
-            <p begin="00:00:56.423" end="00:00:58.387">Oh! my name is <br/>Matt Mullenweg by the way, it's nice to meet you.</p>
-            <p begin="00:00:58.387" end="00:00:59.651">(laughter)</p>
-            <p begin="00:01:00.131" end="00:01:01.103">All over the world this year</p>
-            <p begin="00:01:01.103" end="00:01:04.255">There are now going to be 81 WordCamps in 2014</p>
-            <p begin="00:01:04.255" end="00:01:06.037">More than one per week</p>
-            <p begin="00:01:06.317" end="00:01:07.627">It's funny because </p>
-            <p begin="00:01:07.627" end="00:01:11.277">the first WordCamp we intended <br/>to be a template for others</p>
-            <p begin="00:01:12.977" end="00:01:16.309">That other people would sort of take it<br/>BarCamp style and start making them</p>
-            <p begin="00:01:16.309" end="00:01:19.245">but in fact, the first year<br/>there was just one WordCamp</p>
-            <p begin="00:01:19.245" end="00:01:20.701">and then it really started to pick up, with</p>
-            <p begin="00:01:20.701" end="00:01:22.899">the second one I believe <br/>coming in Argentina.</p>
-            <p begin="00:01:22.899" end="00:01:25.689">San Francisco has always held a special <br/>place in my heart though,</p>
-            <p begin="00:01:25.689" end="00:01:28.799">for those of your who are WordCamp organizers,<br/>you'll appreciate this.</p>
-            <p begin="00:01:28.799" end="00:01:31.019">This is the post which started WordCamp.</p>
-            <p begin="00:01:31.019" end="00:01:33.709">It wasn't called WordCamp San Francisco, <br/>it was just called WordCamp</p>
-            <p begin="00:01:33.709" end="00:01:34.729"> because there was only one.</p>
-            <p begin="00:01:34.729" end="00:01:36.605">But basically a month before, </p>
-            <p begin="00:01:36.935" end="00:01:38.481">posted less than a month before,</p>
-            <p begin="00:01:38.481" end="00:01:40.359">about three and a half weeks before, I said</p>
-            <p begin="00:01:40.359" end="00:01:42.109">We don't have a venue, a schedule... </p>
-            <p begin="00:01:42.109" end="00:01:43.529">(laughter)</p>
-            <p begin="00:01:44.049" end="00:01:44.839">All we have is a date,</p>
-            <p begin="00:01:44.839" end="00:01:46.479">but we'll figure it out between now and then</p>
-            <p begin="00:01:46.689" end="00:01:49.645">and "BarCamp-style" was <br/>code phrase for last minute,</p>
-            <p begin="00:01:50.285" end="00:01:50.951">and we did.</p>
-            <p begin="00:01:50.951" end="00:01:53.639">We came together in a <br/>very cute venue in San Francisco</p>
-            <p begin="00:01:53.639" end="00:01:55.749">called the "Swedish American Music Hall".</p>
-            <p begin="00:01:57.319" end="00:01:59.899">That was it, you could see our A/V system <br/>was very sophisticated then. </p>
-            <p begin="00:02:00.749" end="00:02:03.939">The wire like hanging down<br/>going to a little projector</p>
-            <p begin="00:02:03.939" end="00:02:06.969">We kinda had to bring everything in, <br/>including internet..</p>
-            <p begin="00:02:06.969" end="00:02:09.219"> and you notice the fan in the corner there? </p>
-            <p begin="00:02:09.559" end="00:02:11.639">The A/C system was very sophisticated.</p>
-            <p begin="00:02:11.639" end="00:02:14.999">And the number one complaint though, was<br/>not about the A/V, about the anything</p>
-            <p begin="00:02:14.999" end="00:02:17.019">certainly not about the barbeque, <br/>it was very good,</p>
-            <p begin="00:02:17.399" end="00:02:19.215">it was about the chairs! </p>
-            <p begin="00:02:19.545" end="00:02:21.031">So I hope as you sit in these comfortable chairs,</p>
-            <p begin="00:02:21.031" end="00:02:22.353">that you appreciate it.</p>
-            <p begin="00:02:22.433" end="00:02:23.505">(laughter)</p>
-            <p begin="00:02:24.525" end="00:02:26.252">Over the years, it's really grown. </p>
-            <p begin="00:02:26.252" end="00:02:28.299">We've now been in Mission Bay for 7 years.</p>
-            <p begin="00:02:28.299" end="00:02:30.307">And there's been lots of sunglasses</p>
-            <p begin="00:02:31.317" end="00:02:32.857">lots more sunglasses</p>
-            <p begin="00:02:32.857" end="00:02:33.747">(laughter)</p>
-            <p begin="00:02:34.297" end="00:02:36.087">See that guy right there with sunglasses?</p>
-            <p begin="00:02:36.127" end="00:02:38.867">What is it about WordCamp San Francisco<br/>and sunglasses?</p>
-            <p begin="00:02:38.867" end="00:02:40.975">We even had Google Glasses!</p>
-            <p begin="00:02:40.975" end="00:02:41.783">(laughter)</p>
-            <p begin="00:02:42.623" end="00:02:45.253">We've seen the rise and fall of different platforms</p>
-            <p begin="00:02:45.303" end="00:02:49.146">We've seen the growth and regression of<br/>lead developer's hair...</p>
-            <p begin="00:02:49.256" end="00:02:50.641">(laughter)</p>
-            <p begin="00:02:50.921" end="00:02:53.156">(applause)</p>
-            <p begin="00:02:57.046" end="00:02:58.483">We've gathered around and ate barbeque</p>
-            <p begin="00:02:58.483" end="00:03:01.603">or sometimes salad <br/>as these odd people are doing.</p>
-            <p begin="00:03:02.233" end="00:03:04.673">We've got Comic Sans on stage.</p>
-            <p begin="00:03:05.913" end="00:03:08.243">We even have had robots attend.</p>
-            <p begin="00:03:08.283" end="00:03:10.373">Luckily this year, we have Gary in person.</p>
-            <p begin="00:03:10.373" end="00:03:13.283">I think he's downstairs actually. <br/>Hello Gary, downstairs.</p>
-            <p begin="00:03:13.283" end="00:03:14.593">But we got him in person.</p>
-            <p begin="00:03:14.593" end="00:03:17.629">But all in all, it's been a pretty incredible run.</p>
-            <p begin="00:03:17.889" end="00:03:20.225">7 years now at Mission Bay.</p>
-            <p begin="00:03:20.665" end="00:03:23.703">So, it's bittersweet, and it's with some sadness</p>
-            <p begin="00:03:23.703" end="00:03:26.645">that I tell you that this will be our LAST EVER</p>
-            <p begin="00:03:26.645" end="00:03:27.537">event here.</p>
-            <p begin="00:03:27.687" end="00:03:29.579">(silence)</p>
-            <p begin="00:03:29.909" end="00:03:31.093">We've outgrown it. </p>
-            <p begin="00:03:31.263" end="00:03:33.537">I mean, there was<br/>not an empty seat in this whole house,</p>
-            <p begin="00:03:33.687" end="00:03:35.245">and I expect that downstairs is similarly full.</p>
-            <p begin="00:03:37.063" end="00:03:38.531">But I have something new to announce,</p>
-            <p begin="00:03:38.531" end="00:03:41.101">something we've been talking about on and<br/>off for a few years</p>
-            <p begin="00:03:41.101" end="00:03:43.381">and much like the original WordCamp San Francisco</p>
-            <p begin="00:03:43.381" end="00:03:46.871">it doesn't entirely have a name,<br/>a date, or a place yet.</p>
-            <p begin="00:03:48.331" end="00:03:49.612">Next year we're going to do a WordCamp..</p>
-            <p begin="00:03:49.612" end="00:03:51.913">let's call it US, just as a placeholder.</p>
-            <p begin="00:03:52.733" end="00:03:54.666">So, taking kind of what do in San Francisco</p>
-            <p begin="00:03:54.846" end="00:03:56.626">which has the first WordCamp, </p>
-            <p begin="00:03:57.076" end="00:03:59.146">the WordCamp before we put cities after the name</p>
-            <p begin="00:03:59.266" end="00:04:02.406">and sort of what was pioneered by WordCamp Europe, </p>
-            <p begin="00:04:02.446" end="00:04:05.386">try to do an event that brings people from all over the world together </p>
-            <p begin="00:04:05.606" end="00:04:06.626">and is a bit bigger.</p>
-            <p begin="00:04:06.886" end="00:04:08.612">Again, we're bursting at the seams here. </p>
-            <p begin="00:04:08.662" end="00:04:11.368">Literally I'm glad there's no fire inspectors here. </p>
-            <p begin="00:04:13.266" end="00:04:16.216">I think we can do something that has a <br/>bit more room</p>
-            <p begin="00:04:16.296" end="00:04:17.759">for more presentations,</p>
-            <p begin="00:04:17.829" end="00:04:18.841"> more people, </p>
-            <p begin="00:04:19.041" end="00:04:21.053">more exhibitors, more everything!</p>
-            <p begin="00:04:21.053" end="00:04:22.580">So, we're going to try this </p>
-            <p begin="00:04:22.580" end="00:04:24.457">uh, next year and we'll see how it goes.</p>
-            <p begin="00:04:24.537" end="00:04:25.373">And like it says, </p>
-            <p begin="00:04:25.373" end="00:04:28.639">name, location, and date to be determined.</p>
-            <p begin="00:04:29.629" end="00:04:33.156">One thing that we do every year is talk a little<br/>about the survey.</p>
-            <p begin="00:04:33.266" end="00:04:36.476">And this year, we had over 33,000 responses</p>
-            <p begin="00:04:36.476" end="00:04:38.606">to the survey, which kind of blew me away.</p>
-            <p begin="00:04:39.296" end="00:04:40.636">Again we don't really promote it that much</p>
-            <p begin="00:04:40.636" end="00:04:42.976">we just put a link<br/>at the top of WordPress.org.</p>
-            <p begin="00:04:43.416" end="00:04:45.946">One thing that won't be surprising<br/>to many of you is that</p>
-            <p begin="00:04:46.166" end="00:04:48.096">is very international,<br/>about two-thirds, about</p>
-            <p begin="00:04:48.096" end="00:04:51.326">actually three-quarters<br/>of the survey responses</p>
-            <p begin="00:04:51.326" end="00:04:52.696">were from people outside the US.</p>
-            <p begin="00:04:54.036" end="00:04:56.396">And 2014 was actually a milestone year</p>
-            <p begin="00:04:56.396" end="00:04:58.066">for WordPress in this regard. </p>
-            <p begin="00:04:58.236" end="00:04:59.676">I think that we will look back</p>
-            <p begin="00:04:59.896" end="00:05:01.846">in the decades to come,<br/></p>
-            <p begin="00:05:01.926" end="00:05:03.916">as 2014 the first year</p>
-            <p begin="00:05:03.916" end="00:05:05.536">that non-English downloads<br/></p>
-            <p begin="00:05:05.536" end="00:05:07.176">surpassed English downloads</p>
-            <p begin="00:05:08.226" end="00:05:09.015">for the first time.</p>
-            <p begin="00:05:09.235" end="00:05:10.834">(applause)</p>
-            <p begin="00:05:14.644" end="00:05:17.443">This makes sense, for those of you who were at<br/>Nacin's presentation yesterday.</p>
-            <p begin="00:05:17.443" end="00:05:19.933">He talked about how only 10% of the<br/>world speaks English, and</p>
-            <p begin="00:05:19.933" end="00:05:22.273">only 5% of the world as their first language</p>
-            <p begin="00:05:22.503" end="00:05:23.609">so, over time, </p>
-            <p begin="00:05:24.779" end="00:05:26.127">I really hope that </p>
-            <p begin="00:05:26.257" end="00:05:29.075">the usage of WordPress mirrors that,</p>
-            <p begin="00:05:29.075" end="00:05:31.783">and that someday, when we talk about<br/>internationalization, it won't just be about</p>
-            <p begin="00:05:31.783" end="00:05:34.073">English being translated to other countries</p>
-            <p begin="00:05:34.073" end="00:05:35.976">but figuring out how to take plugins </p>
-            <p begin="00:05:35.976" end="00:05:36.675">in Chinese</p>
-            <p begin="00:05:36.675" end="00:05:37.281">in Russian</p>
-            <p begin="00:05:37.281" end="00:05:37.937">in Japanese.</p>
-            <p begin="00:05:38.167" end="00:05:39.363">and translate them back<br/>to English.</p>
-            <p begin="00:05:40.303" end="00:05:41.373">That's the plan at least.</p>
-            <p begin="00:05:42.213" end="00:05:45.743">One of the things we also talk about a lot<br/>is WordPress usage as a CMS.</p>
-            <p begin="00:05:45.983" end="00:05:48.893">In fact, who here uses WordPress as a CMS?</p>
-            <p begin="00:05:50.047" end="00:05:51.377">Pretty much everyone.</p>
-            <p begin="00:05:51.377" end="00:05:55.017">What you might not know is that's been<br/>declining every year.</p>
-            <p begin="00:05:56.787" end="00:05:58.457">But what's taken its place?</p>
-            <p begin="00:05:58.906" end="00:06:00.969">So it's kinda interesting to see this</p>
-            <p begin="00:06:00.969" end="00:06:03.072">because what has started to eat away</p>
-            <p begin="00:06:03.072" end="00:06:04.786">at people using WordPress<br/>mostly as a CMS, </p>
-            <p begin="00:06:04.786" end="00:06:07.550">so they use as a CMS all the time,</p>
-            <p begin="00:06:07.670" end="00:06:09.248">or about half the time.</p>
-            <p begin="00:06:09.358" end="00:06:11.306">Blog has also been declining.</p>
-            <p begin="00:06:11.356" end="00:06:12.829">But people using it as an app framework<br/></p>
-            <p begin="00:06:12.829" end="00:06:14.492">is starting to take a share away from that.</p>
-            <p begin="00:06:14.632" end="00:06:17.156">So, it is the early days still, but it <br/>is starting to pick up,</p>
-            <p begin="00:06:17.866" end="00:06:20.026">and I'm going to talk about this more<br/>a little bit later.</p>
-            <p begin="00:06:20.106" end="00:06:23.086">Other stat I was really excited about is<br/>now a full quarter of the people</p>
-            <p begin="00:06:23.086" end="00:06:24.543">who answered the survey </p>
-            <p begin="00:06:25.073" end="00:06:26.850">make their full time living from WordPress.</p>
-            <p begin="00:06:27.020" end="00:06:29.797">That was 7,539 people.</p>
-            <p begin="00:06:30.937" end="00:06:31.878">(whistle)</p>
-            <p begin="00:06:31.968" end="00:06:33.069">Yeah right? </p>
-            <p begin="00:06:33.299" end="00:06:37.352">That represents easily over a billion dollars<br/>in economic activity per year.</p>
-            <p begin="00:06:37.392" end="00:06:38.605">That's really amazing,</p>
-            <p begin="00:06:38.605" end="00:06:40.101">That's bigger than the employee counts<br/></p>
-            <p begin="00:06:40.101" end="00:06:42.467">of many of the large internet giants.</p>
-            <p begin="00:06:42.707" end="00:06:44.089">So this really blew me away,</p>
-            <p begin="00:06:44.089" end="00:06:46.621"> and something that I'm extremely proud of.</p>
-            <p begin="00:06:46.871" end="00:06:49.249">Also, sort of speaks to our <br/>responsibility as a community</p>
-            <p begin="00:06:49.419" end="00:06:50.697">That there's now</p>
-            <p begin="00:06:50.717" end="00:06:51.568">you know, </p>
-            <p begin="00:06:51.708" end="00:06:54.419">something 7-8 times the size<br/>of WordCamp San Francisco,</p>
-            <p begin="00:06:54.809" end="00:06:57.052">of people who pay their mortgages<br/>and feed their families</p>
-            <p begin="00:07:00.260" end="00:07:02.780">The good and the bad is<br/>pretty much the same.</p>
-            <p begin="00:06:57.052" end="00:06:59.592">and send their kids to school<br/>with WordPress.</p>
-            <p begin="00:07:02.780" end="00:07:05.150">You guys love that it's easy, plugins, <br/>and community.</p>
-            <p begin="00:07:05.150" end="00:07:06.560">You hate the plugins,</p>
-            <p begin="00:07:06.560" end="00:07:08.650"> the themes, and the updates.</p>
-            <p begin="00:07:08.650" end="00:07:10.090">(laughter)</p>
-            <p begin="00:07:10.740" end="00:07:12.830">These are actually the last three years<br/>of answers.</p>
-            <p begin="00:07:12.830" end="00:07:14.390">Plugins have gotten a little bit better.</p>
-            <p begin="00:07:14.820" end="00:07:16.490">But you still love community.</p>
-            <p begin="00:07:16.820" end="00:07:18.380">We asked how many sites people built</p>
-            <p begin="00:07:18.380" end="00:07:21.510">and actually the survey respondents alone<br/>were responsible for </p>
-            <p begin="00:07:21.510" end="00:07:24.430">somewhere between half a million<br/>and a million sites,</p>
-            <p begin="00:07:24.430" end="00:07:27.770">with only I think it was 6% saying that</p>
-            <p begin="00:07:27.770" end="00:07:30.540">they had only built one site<br/>with WordPress.</p>
-            <p begin="00:07:30.540" end="00:07:32.680">So, WordPress is like<br/>the Pringles of CMS's,</p>
-            <p begin="00:07:32.680" end="00:07:34.997">once you pop you just can't stop.</p>
-            <p begin="00:07:34.997" end="00:07:35.994">(laughter)</p>
-            <p begin="00:07:37.004" end="00:07:39.631">And also, what I thought was cool <br/>was 91% of these sites,</p>
-            <p begin="00:07:39.631" end="00:07:41.731">took less than 200 hours to build.</p>
-            <p begin="00:07:42.550" end="00:07:45.170">So, a lot of these sites that are being <br/>built are much easier</p>
-            <p begin="00:07:45.260" end="00:07:46.846">this isn't a platform where </p>
-            <p begin="00:07:47.016" end="00:07:47.912">you know, </p>
-            <p begin="00:07:47.982" end="00:07:49.590"> it costs a hundred grand to install it</p>
-            <p begin="00:07:49.590" end="00:07:51.500">and then a hundred grand to upgrade it<br/>three years later.</p>
-            <p begin="00:07:51.500" end="00:07:53.360">I mean, it's really something you can get out quickly</p>
-            <p begin="00:07:53.360" end="00:07:55.130">and stay up to date easily.</p>
-            <p begin="00:07:56.313" end="00:07:58.413">Now, those of you know, we also didn't</p>
-            <p begin="00:07:58.413" end="00:08:00.743">do a WordCamp in October last year.</p>
-            <p begin="00:08:00.823" end="00:08:02.093">We did it in July. </p>
-            <p begin="00:08:02.713" end="00:08:04.413">so, since the last WordCamp,</p>
-            <p begin="00:08:04.463" end="00:08:06.983">I didn't believe this when I first saw it either,</p>
-            <p begin="00:08:06.983" end="00:08:10.473">We've had 5 major releases of WordPress.</p>
-            <p begin="00:08:11.123" end="00:08:14.143">(applause)</p>
-            <p begin="00:08:17.693" end="00:08:20.313">Oscar, Basie, Parker, Smith, and Benny.</p>
-            <p begin="00:08:20.589" end="00:08:23.189">Five major releases, now granted, one was<br/>the day after WordCamp.</p>
-            <p begin="00:08:23.429" end="00:08:25.019">So, kinda slipped in there,</p>
-            <p begin="00:08:25.059" end="00:08:27.746">but we have one more, coming in 4.1.</p>
-            <p begin="00:08:28.366" end="00:08:30.006">These releases had a ton of stuff, and</p>
-            <p begin="00:08:30.006" end="00:08:33.506">I didn't really appreciate it until I actually went back, <br/>so I'd like to do that with you all.</p>
-            <p begin="00:08:33.566" end="00:08:36.236">We redid the revisions UI, in 3.6</p>
-            <p begin="00:08:36.236" end="00:08:38.316">We introduced a better post locking,</p>
-            <p begin="00:08:38.316" end="00:08:40.276">and the Twenty Thirteen Theme.</p>
-            <p begin="00:08:40.466" end="00:08:41.862">3.7 we had auto-updates,</p>
-            <p begin="00:08:41.862" end="00:08:44.828">which is one of the most significant<br/>features we've introduced</p>
-            <p begin="00:08:44.828" end="00:08:46.246">in the past four or five years.</p>
-            <p begin="00:08:46.246" end="00:08:48.745">Made passwords better, and <br/>improved global stuff.</p>
-            <p begin="00:08:48.745" end="00:08:52.063">3.8 which I actually personally led, was<br/>chock full of things,</p>
-            <p begin="00:08:52.063" end="00:08:53.565">We had the Twenty Fourteen theme,</p>
-            <p begin="00:08:53.565" end="00:08:55.129">Colour Schemes for the first time,</p>
-            <p begin="00:08:55.129" end="00:08:56.693">a new theme browser,</p>
-            <p begin="00:08:56.693" end="00:08:57.913">the MP6 redesign,</p>
-            <p begin="00:08:57.913" end="00:08:59.613">and for the first time in history we made</p>
-            <p begin="00:08:59.613" end="00:09:01.293">WordPress's admin fully responsive.</p>
-            <p begin="00:09:01.293" end="00:09:04.373">So it worked on tablets and phones.</p>
-            <p begin="00:09:04.453" end="00:09:06.223">(applause)</p>
+            <p begin="00:00:04.047" end="00:00:06.007">&#12415;&#12394;&#12373;&#12435;&#12362;&#12399;&#12424;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:00:07.094" end="00:00:10.634">&#12415;&#12394;&#12373;&#12435;&#12289;&#26152;&#22812;&#12398;&#12497;&#12540;&#12486;&#12451;&#12540;&#12363;&#12425;&#24489;&#27963;&#12373;&#12428;&#12390;<br/>&#23305;&#12375;&#12367;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:00:10.744" end="00:00:13.534">&#37197;&#31649;&#12364;&#22730;&#12428;&#12383;&#12387;&#12390;&#32862;&#12365;&#12414;&#12375;&#12383;&#12290;&#65288;&#8592;&#65311;&#65289;</p>
+            <p begin="00:00:14.373" end="00:00:16.643">&#12393;&#12358;&#12356;&#12358;&#24847;&#21619;&#12384;&#12363;&#30693;&#12426;&#12414;&#12379;&#12435;&#12364;...</p>
+            <p begin="00:00:16.733" end="00:00:18.283">&#12415;&#12394;&#12373;&#12435;&#12399;&#12289;&#12381;&#12428;&#12391;&#12356;&#12387;&#12401;&#12356;&#12391;&#12377;&#65288;&#8592;&#65311;&#65289;</p>
+            <p begin="00:00:19.793" end="00:00:21.813">&#20887;&#35527;&#12391;&#12377;&#12424;&#65281;</p>
+            <p begin="00:00:22.193" end="00:00:26.193">&#20170;&#26397;&#12289;&#12415;&#12394;&#12373;&#12435;&#12392;&#12362;&#20250;&#12356;&#12377;&#12427;&#12398;&#12399;<br/>&#12392;&#12390;&#12418;&#35463;&#12426;&#12391;&#12289;&#20809;&#26628;&#12391;&#12289;&#29305;&#21029;&#12394;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:00:26.193" end="00:00:30.193">&#31532;9&#22238;&#30446;&#12398;&#12289;WordCamp San Francisco&#12391;&#12377;&#65281;</p>
+            <p begin="00:00:34.354" end="00:00:39.004">11&#24180;&#21069;&#12289;&#12510;&#12452;&#12463;&#12539;&#12522;&#12488;&#12523;&#27663;&#12392;<br/>WordPress&#12434;&#31435;&#12385;&#19978;&#12370;&#12383;&#12392;&#12365;&#12395;&#12399;</p>
+            <p begin="00:00:39.192" end="00:00:41.722">&#12371;&#12398;&#12424;&#12358;&#12394;&#12371;&#12392;&#12399;&#12289;<br/>&#24819;&#20687;&#12418;&#12375;&#12390;&#12356;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:00:41.896" end="00:00:46.466">&#12381;&#12375;&#12390;&#12362;&#12381;&#12425;&#12367;&#12289;&#36942;&#21435;&#26368;&#22823;&#32026;&#12398;<br/>WordCamp San Francisco&#12391;&#12377;</p>
+            <p begin="00:00:46.524" end="00:00:50.524">&#65299;&#22238;&#12481;&#12465;&#12483;&#12488;&#12434;&#36009;&#22770;&#12375;&#12414;&#12375;&#12383;&#12364;&#12289;<br/>&#12393;&#12428;&#12418;&#21363;&#26085;&#23436;&#22770;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:00:50.602" end="00:00:55.185">&#12415;&#12394;&#12373;&#12435;&#12289;&#12508;&#12479;&#12531;&#12434;&#12463;&#12522;&#12483;&#12463;&#12377;&#12427;&#12398;&#12364;<br/>&#26089;&#12363;&#12387;&#12383;&#12435;&#12391;&#12377;&#12397;&#12290;</p>
+            <p begin="00:00:56.015" end="00:00:58.794">&#12354;&#12289;&#12392;&#12371;&#12429;&#12391;&#31169;&#12399;<br/>&#12510;&#12483;&#12488;&#12539;&#12510;&#12524;&#12531;&#12454;&#12455;&#12483;&#12464;&#12391;&#12377;&#12289;</p>
+            <p begin="00:00:58.794" end="00:01:01.573">&#12393;&#12358;&#12382;&#12424;&#12429;&#12375;&#12367;&#12290;</p>
+            <p begin="00:01:01.573" end="00:01:04.352">2014&#24180;&#12398;&#24180;&#20869;&#12289;&#19990;&#30028;&#20013;&#12391;<br/>81&#12398;WordCamp&#12364;&#38283;&#20652;&#12373;&#12428;&#12427;&#20104;&#23450;&#12391;&#12377;&#12290;</p>
+            <p begin="00:01:04.352" end="00:01:05.842">&#65297;&#36913;&#38291;&#12395;&#65297;&#22238;&#20197;&#19978;&#12391;&#12377;&#12290;</p>
+            <p begin="00:01:06.689" end="00:01:11.479">&#38754;&#30333;&#12356;&#12371;&#12392;&#12395;&#12289;&#65297;&#22238;&#30446;&#12398;WordCamp&#12399;<br/>&#20182;&#12408;&#12398;&#12486;&#12531;&#12503;&#12524;&#12540;&#12488;&#12395;&#12394;&#12427;&#12388;&#12418;&#12426;&#12384;&#12387;&#12383;&#12290;</p>
+            <p begin="00:01:11.481" end="00:01:15.481">&#20182;&#12398;&#20154;&#12418;BarCamp&#12398;&#12473;&#12479;&#12452;&#12523;&#12434;&#21462;&#12426;&#20837;&#12428;&#12427;&#12392;<br/>&#24605;&#12387;&#12390;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:01:15.481" end="00:01:19.481">&#12391;&#12418;&#23455;&#38555;&#12399;&#12289;1&#24180;&#30446;&#12399;&#65297;&#12388;&#12375;&#12363;WordCamp&#12364;<br/>&#12354;&#12426;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:01:19.481" end="00:01:22.791">&#65298;&#12388;&#30446;&#12399;&#12383;&#12375;&#12363;&#12450;&#12523;&#12476;&#12531;&#12481;&#12531;&#12391;&#34892;&#12431;&#12428;<br/>&#12381;&#12398;&#24460;&#12289;&#36556;&#36947;&#12395;&#12398;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:01:22.791" end="00:01:25.501">&#12469;&#12531;&#12501;&#12521;&#12531;&#12471;&#12473;&#12467;&#12399;&#12289;&#12356;&#12388;&#12418;&#33258;&#20998;&#12395;&#12392;&#12387;&#12390;<br/>&#12392;&#12390;&#12418;&#22823;&#20107;&#12394;&#22580;&#25152;&#12394;&#12435;&#12391;&#12377;&#12290;</p>
+            <p begin="00:01:25.501" end="00:01:28.321">&#20840;&#12390;&#12398;WordCamp&#12458;&#12540;&#12460;&#12490;&#12452;&#12470;&#12540;&#12395;&#12392;&#12387;&#12390;<br/>&#24863;&#35613;&#12377;&#12409;&#12365;&#12371;&#12392;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:01:28.321" end="00:01:30.981">&#12371;&#12428;&#12364;WordCamp&#12434;&#22987;&#12417;&#12383;&#25237;&#31295;&#12391;&#12377;&#12290;</p>
+            <p begin="00:01:30.981" end="00:01:33.321">WordCamp San Francisco&#12391;&#12399;&#12394;&#12367;&#12289;<br/>&#12383;&#12384;&#12398;WordCamp&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:01:33.321" end="00:01:34.611">&#65297;&#22238;&#30446;&#12384;&#12387;&#12383;&#12398;&#12391;&#12290;</p>
+            <p begin="00:01:34.611" end="00:01:38.207">&#12371;&#12358;&#12356;&#12358;&#25237;&#31295;&#12387;&#12390;&#12405;&#12388;&#12358;<br/>&#65297;&#12534;&#26376;&#20197;&#19978;&#21069;&#12395;&#12377;&#12427;&#12418;&#12398;&#12391;&#12377;&#12369;&#12393;</p>
+            <p begin="00:01:38.207" end="00:01:39.943">&#65299;&#36913;&#38291;&#21322;&#21069;&#12395;&#12289;&#12371;&#12435;&#12394;&#12371;&#12392;&#26360;&#12356;&#12390;&#12414;&#12375;&#12383;</p>
+            <p begin="00:01:39.943" end="00:01:42.171">&#12300;&#22580;&#25152;&#12418;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#12418;&#27770;&#12414;&#12387;&#12390;&#12414;&#12379;&#12435;&#65281;&#12301;</p>
+            <p begin="00:01:42.733" end="00:01:43.563">&#65288;&#20250;&#22580;&#12289;&#31505;&#12356;&#65289;</p>
+            <p begin="00:01:43.721" end="00:01:46.051">&#27770;&#12414;&#12387;&#12390;&#12383;&#12398;&#12399;&#26085;&#20184;&#12384;&#12369;&#12391;&#12289;<br/>&#20182;&#12399;&#12289;&#12381;&#12398;&#26178;&#28857;&#12363;&#12425;&#27770;&#12417;&#12427;&#12388;&#12418;&#12426;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:01:46.051" end="00:01:49.531">&#12354;&#12392;&#12399;&#12289;BarCamp&#12398;&#24418;&#24335;&#12391;&#12420;&#12429;&#12358;&#12289;<br/>&#12392;&#12356;&#12358;&#12371;&#12392;&#12384;&#12369;</p>
+            <p begin="00:01:49.531" end="00:01:53.531">&#12381;&#12375;&#12390;&#12289;&#25104;&#12375;&#36930;&#12370;&#12414;&#12375;&#12383;&#65281;<br/>&#12469;&#12531;&#12501;&#12521;&#12531;&#12471;&#12473;&#12467;&#12398;&#32032;&#25973;&#12394;&#20250;&#22580;&#12395;&#38598;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:01:53.531" end="00:01:55.941">&#12381;&#12398;&#21517;&#12418;<br/>&#12300;&#12473;&#12454;&#12455;&#12487;&#12451;&#12483;&#12471;&#12517;&#12539;&#12450;&#12513;&#12522;&#12459;&#12531;&#12539;&#12511;&#12517;&#12540;&#12472;&#12483;&#12463;&#12507;&#12540;&#12523;&#12301;</p>
+            <p begin="00:01:56.872" end="00:02:00.022">&#12371;&#12428;&#12391;&#12377;&#12290;<br/>&#12377;&#12372;&#12367;&#12377;&#12390;&#12365;&#12394;&#38899;&#38911;&#12471;&#12473;&#12486;&#12512;&#12364;&#35211;&#12360;&#12414;&#12377;&#12397;&#12290;</p>
+            <p begin="00:02:00.982" end="00:02:04.022">&#23567;&#12373;&#12394;&#12503;&#12525;&#12472;&#12455;&#12463;&#12479;&#12540;&#12364;&#12289;<br/>&#12527;&#12452;&#12516;&#12540;&#12391;&#12388;&#12426;&#19979;&#12370;&#12425;&#12428;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:02:04.022" end="00:02:06.202">&#12356;&#12429;&#12356;&#12429;&#33258;&#21069;&#12391;&#29992;&#24847;&#12375;&#12414;&#12375;&#12383;&#12290;<br/>&#12452;&#12531;&#12479;&#12540;&#12493;&#12483;&#12488;&#12392;&#12363;&#12290;</p>
+            <p begin="00:02:06.202" end="00:02:08.552">&#12354;&#12392;&#12289;&#24038;&#19978;&#12395;&#25159;&#39080;&#27231;&#12364;&#12354;&#12427;&#12398;&#35211;&#12360;&#12414;&#12377;&#12363;&#65311;</p>
+            <p begin="00:02:08.552" end="00:02:11.162">&#12456;&#12450;&#12467;&#12531;&#12364;&#27927;&#32244;&#12373;&#12428;&#12390;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:02:11.162" end="00:02:15.162">&#19968;&#30058;&#19981;&#28288;&#12384;&#12387;&#12383;&#12398;&#12399;&#12289;<br/>&#26144;&#20687;&#12420;&#38899;&#38911;&#12391;&#12418;&#20309;&#12391;&#12418;&#12394;&#12367;</p>
+            <p begin="00:02:15.162" end="00:02:17.412">&#12418;&#12385;&#12429;&#12435;&#12496;&#12540;&#12505;&#12461;&#12517;&#12540;&#12418;&#36949;&#12356;&#12414;&#12377;&#12290;<br/>&#12392;&#12387;&#12390;&#12418;&#33391;&#12363;&#12387;&#12383;&#12391;&#12377;&#65281;</p>
+            <p begin="00:02:17.412" end="00:02:18.682">&#26885;&#23376;&#12391;&#12377;&#65281;</p>
+            <p begin="00:02:19.049" end="00:02:21.149">&#12415;&#12394;&#12373;&#12435;&#12289;&#12356;&#12356;&#26885;&#23376;&#12395;&#24231;&#12387;&#12390;&#12414;&#12377;&#12424;&#12397;&#12290;</p>
+            <p begin="00:02:21.149" end="00:02:22.229">&#24863;&#35613;&#12375;&#12390;&#19979;&#12373;&#12356;&#12397;&#12290;</p>
+            <p begin="00:02:24.283" end="00:02:26.123">&#20309;&#24180;&#12418;&#12383;&#12387;&#12390;&#12289;WordCamp San Francisco&#12399;<br/>&#26412;&#24403;&#12395;&#25104;&#38263;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:02:26.123" end="00:02:28.743">&#12511;&#12483;&#12471;&#12519;&#12531;&#12539;&#12505;&#12452;&#12391;&#34892;&#12358;&#12398;&#12399;&#65303;&#24180;&#30446;&#12391;&#12377;&#12290;<br/>&#12381;&#12375;&#12390;</p>
+            <p begin="00:02:28.743" end="00:02:30.003">&#12383;&#12367;&#12373;&#12435;&#12398;&#12469;&#12531;&#12464;&#12521;&#12473;&#12364;&#12354;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:02:30.969" end="00:02:32.399">&#12414;&#12384;&#12414;&#12384;&#12383;&#12367;&#12373;&#12435;&#12398;&#12469;&#12531;&#12464;&#12521;&#12473;</p>
+            <p begin="00:02:34.274" end="00:02:36.074">&#12415;&#12390;&#19979;&#12373;&#12356;&#12289;&#12469;&#12531;&#12464;&#12521;&#12473;&#12375;&#12390;&#12427;&#20154;&#12290;</p>
+            <p begin="00:02:36.074" end="00:02:38.644">WordCamp San Francisco&#12392;&#12469;&#12531;&#12464;&#12521;&#12473;&#12392;&#12399;&#20309;&#12363;&#12290;</p>
+            <p begin="00:02:38.644" end="00:02:40.374">Google&#12464;&#12521;&#12473;&#12398;&#20154;&#12384;&#12387;&#12390;&#12356;&#12414;&#12377;&#65281;</p>
+            <p begin="00:02:42.729" end="00:02:45.599">&#20170;&#12414;&#12391;&#12356;&#12429;&#12435;&#12394;&#12503;&#12521;&#12483;&#12488;&#12501;&#12457;&#12540;&#12512;&#12364;<br/>&#25104;&#38263;&#12375;&#12289;&#12394;&#12367;&#12394;&#12387;&#12390;&#12356;&#12365;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:02:45.599" end="00:02:49.359">&#12381;&#12375;&#12390;&#12522;&#12540;&#12489;&#38283;&#30330;&#32773;&#12398;&#12504;&#12450;&#12473;&#12479;&#12452;&#12523;&#12418;<br/>&#25104;&#38263;&#12375;&#12289;&#12394;&#12367;&#12394;&#12387;&#12390;&#12356;&#12365;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:02:56.856" end="00:02:59.776">&#38598;&#12414;&#12387;&#12390;&#12289;&#12496;&#12540;&#12505;&#12461;&#12517;&#12540;&#12420;&#12469;&#12521;&#12480;&#12434;<br/>&#39135;&#12409;&#12383;&#12426;&#12375;&#12414;&#12375;&#12383;</p>
+            <p begin="00:02:59.776" end="00:03:01.126">&#12371;&#12398;&#20154;&#12383;&#12385;&#12415;&#12383;&#12356;&#12395;&#12290;</p>
+            <p begin="00:03:02.141" end="00:03:04.011">&#12467;&#12511;&#12483;&#12463;&#12415;&#12383;&#12356;&#12394;&#26360;&#20307;&#12418;&#30331;&#22580;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:03:06.039" end="00:03:08.159">&#12525;&#12508;&#12483;&#12488;&#12398;&#21442;&#21152;&#32773;&#12418;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:03:08.159" end="00:03:10.379">&#20170;&#24180;&#12399;&#24184;&#12356;&#12289;&#20154;&#38291;&#12398;&#12466;&#12452;&#12522;&#12540;&#12364;&#26469;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:03:10.379" end="00:03:13.239">&#12383;&#12406;&#12435;&#19968;&#38542;&#12363;&#12425;&#35251;&#12390;&#12427;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;<br/>&#12300;&#12371;&#12435;&#12395;&#12385;&#12399;&#12466;&#12452;&#12522;&#12540;&#12289;1&#38542;&#12398;&#12363;&#12383;&#12301;</p>
+            <p begin="00:03:13.239" end="00:03:14.739">&#12392;&#12395;&#12363;&#12367;&#20154;&#38291;&#12364;&#12365;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:03:14.739" end="00:03:17.309">&#20840;&#12390;&#12364;&#20840;&#12390;&#12289;&#20449;&#12376;&#12425;&#12428;&#12394;&#12356;&#12371;&#12392;&#12391;&#12377;&#12364;</p>
+            <p begin="00:03:17.309" end="00:03:20.779">&#65303;&#24180;&#38291;&#12511;&#12483;&#12471;&#12519;&#12531;&#12505;&#12452;&#12391;&#12420;&#12426;&#12392;&#12370;&#12383;&#12398;&#12391;&#12377;&#12290;</p>
+            <p begin="00:03:21.670" end="00:03:24.480">&#12411;&#12429;&#33510;&#12367;&#12289;&#28107;&#12375;&#12356;&#12362;&#30693;&#12425;&#12379;&#12391;&#12377;&#12364;</p>
+            <p begin="00:03:24.480" end="00:03:27.620">&#12371;&#12371;&#12391;&#12452;&#12505;&#12531;&#12488;&#12434;&#12377;&#12427;&#12398;&#12399;&#12289;&#20170;&#22238;&#12391;&#26368;&#24460;&#12391;&#12377;&#12290;</p>
+            <p begin="00:03:29.808" end="00:03:31.318">&#31169;&#12383;&#12385;&#12395;&#12399;&#25163;&#29421;&#12395;&#12394;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:03:31.318" end="00:03:33.828">&#31354;&#24109;&#12364;&#12414;&#12387;&#12383;&#12367;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</p>
+            <p begin="00:03:33.828" end="00:03:36.018">1&#38542;&#12418;&#28288;&#24109;&#12384;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:03:37.398" end="00:03:38.778">&#12391;&#12418;&#12491;&#12517;&#12540;&#12473;&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;</p>
+            <p begin="00:03:38.778" end="00:03:41.038">&#12371;&#12371;&#25968;&#24180;&#12289;&#12458;&#12531;&#12521;&#12452;&#12531;&#12391;&#12418;&#12458;&#12501;&#12521;&#12452;&#12531;&#12391;&#12418;<br/>&#35441;&#12375;&#12390;&#26469;&#12383;&#12371;&#12392;&#12391;</p>
+            <p begin="00:03:41.038" end="00:03:43.308">&#20803;&#12398;WordCamp San Francisco&#12398;<br/>&#12424;&#12358;&#12394;&#12418;&#12398;&#12391;&#12289;</p>
+            <p begin="00:03:43.308" end="00:03:46.708">&#21517;&#21069;&#12289;&#26085;&#26178;&#12289;&#22580;&#25152;&#12399;&#30906;&#23450;&#12375;&#12390;&#12394;&#12356;&#12398;&#12391;&#12377;&#12364;</p>
+            <p begin="00:03:47.898" end="00:03:49.318">&#26469;&#24180;&#12420;&#12427;&#12398;&#12399;....</p>
+            <p begin="00:03:49.992" end="00:03:52.302">&#20206;&#12395;&#12300;WordCamp US&#12301;&#12392;&#21628;&#12406;&#12371;&#12392;&#12395;&#12375;&#12414;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:03:52.443" end="00:03:55.123">WordCamp San Francisco&#12398;<br/>&#12424;&#12358;&#12394;&#12418;&#12398;&#12434;&#12420;&#12426;&#12414;&#12377;&#12290;</p>
+            <p begin="00:03:55.123" end="00:03:56.723">&#65297;&#30058;&#12398;WordCamp&#12289;&#12392;&#12356;&#12358;&#12424;&#12358;&#12394;&#12290;</p>
+            <p begin="00:03:56.723" end="00:03:59.013">&#37117;&#24066;&#12372;&#12392;&#12398;WordCamp&#12398;&#12373;&#12425;&#12395;&#21069;&#12398;&#12424;&#12358;&#12394;&#12290;</p>
+            <p begin="00:03:59.013" end="00:04:02.373">&#20808;&#39366;&#32773;&#12391;&#12354;&#12427;WordCamp Europe&#12398;&#12424;&#12358;&#12395;&#12289;</p>
+            <p begin="00:04:02.373" end="00:04:04.843">&#19990;&#30028;&#20013;&#12398;&#20154;&#12293;&#12434;&#38598;&#12417;&#12427;&#12452;&#12505;&#12531;&#12488;&#12434;&#12420;&#12426;&#12414;&#12377;&#12290;</p>
+            <p begin="00:04:04.843" end="00:04:06.733">&#12381;&#12375;&#12390;&#23569;&#12375;&#22823;&#12365;&#12367;&#12290;</p>
+            <p begin="00:04:06.874" end="00:04:08.984">&#35441;&#12364;&#25147;&#12426;&#12414;&#12377;&#12364;&#12289;<br/>&#12371;&#12371;&#12391;&#12399;&#29190;&#30330;&#12379;&#12435;&#12400;&#12363;&#12426;&#12398;&#20154;&#12391;&#12377;&#12290;</p>
+            <p begin="00:04:08.984" end="00:04:11.604">&#28779;&#28797;&#22577;&#30693;&#22120;&#12364;&#40180;&#12425;&#12394;&#12367;&#12390;&#24184;&#12356;&#12391;&#12377;&#12290;</p>
+            <p begin="00:04:13.441" end="00:04:16.131">&#12418;&#12387;&#12392;&#12383;&#12367;&#12373;&#12435;&#12398;&#37096;&#23627;&#12364;&#12354;&#12387;&#12390;&#12356;&#12356;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:04:16.131" end="00:04:20.721">&#12418;&#12387;&#12392;&#12383;&#12367;&#12373;&#12435;&#12398;<br/>&#35611;&#28436;&#12289;&#30331;&#22727;&#32773;&#12289;&#21442;&#21152;&#32773;&#12289;&#12354;&#12425;&#12422;&#12427;&#12371;&#12392;&#65281;</p>
+            <p begin="00:04:20.721" end="00:04:24.231">&#12381;&#12371;&#12391;&#26469;&#24180;&#12289;&#12383;&#12417;&#12375;&#12395;&#12393;&#12358;&#12394;&#12427;&#12363;&#12420;&#12387;&#12390;&#12415;&#12414;&#12377;&#12290;</p>
+            <p begin="00:04:24.231" end="00:04:27.331">&#21517;&#21069;&#12289;&#22580;&#25152;&#12289;&#26085;&#31243;&#12399;&#26410;&#23450;&#12391;&#12377;&#65281;</p>
+            <p begin="00:04:29.695" end="00:04:33.055">&#27598;&#24180;&#12362;&#35441;&#12375;&#12390;&#12356;&#12427;&#12371;&#12392;&#12398;&#65297;&#12388;&#12399;&#12289;<br/>&#35519;&#26619;&#12395;&#12388;&#12356;&#12390;&#12391;&#12377;&#12290;</p>
+            <p begin="00:04:33.055" end="00:04:36.375">&#20170;&#24180;&#12399;33,000&#20197;&#19978;&#12398;&#22238;&#31572;&#12434;&#24471;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:04:36.375" end="00:04:39.055">&#26412;&#24403;&#12395;&#39514;&#12356;&#12383;&#12435;&#12391;&#12377;&#12369;&#12393;</p>
+            <p begin="00:04:39.055" end="00:04:43.055">&#12381;&#12435;&#12394;&#12395;&#23459;&#20253;&#12375;&#12390;&#12383;&#12431;&#12369;&#12376;&#12419;&#12394;&#12367;&#12390;&#12289;<br/>WordPress.org&#12398;&#12488;&#12483;&#12503;&#12395;&#12522;&#12531;&#12463;&#12434;&#36028;&#12387;&#12390;&#12383;&#12384;&#12369;&#12391;&#12377;&#12290;</p>
+            <p begin="00:04:43.055" end="00:04:46.291">&#65297;&#12388;&#12289;&#39514;&#12363;&#12378;&#12395;&#12356;&#12425;&#12428;&#12394;&#12356;&#12371;&#12392;&#12399;</p>
+            <p begin="00:04:46.291" end="00:04:48.807">&#12392;&#12390;&#12418;&#22269;&#38555;&#30340;&#12394;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:04:48.807" end="00:04:52.765">&#12384;&#12356;&#12383;&#12356;2/3&#12363;&#12289;3/4&#12368;&#12425;&#12356;&#12398;&#22238;&#31572;&#12399;<br/>&#12450;&#12513;&#12522;&#12459;&#22269;&#22806;&#12363;&#12425;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:04:54.036" end="00:04:57.946">WordPress&#12398;&#27508;&#21490;&#12395;&#12362;&#12356;&#12390;<br/>2014&#24180;&#12399;&#36578;&#27231;&#12398;&#24180;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:04:58.236" end="00:05:01.616">&#20309;&#21313;&#24180;&#12363;&#32076;&#12387;&#12383;&#12425;&#12289;<br/>&#20170;&#24180;&#12398;&#12371;&#12392;&#12434;&#24605;&#12356;&#20986;&#12377;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
+        </div>
+        <div>
+            <p begin="00:05:01.926" end="00:05:03.916">2014&#24180;&#12399;&#21021;&#12417;&#12390;&#12289;</p>
+            <p begin="00:05:03.916" end="00:05:07.056">&#33521;&#35486;&#29256;&#20197;&#22806;&#12398;&#12480;&#12454;&#12531;&#12525;&#12540;&#12489;&#25968;&#12364;<br/>&#33521;&#35486;&#29256;&#12434;&#19978;&#22238;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:05:08.226" end="00:05:09.015">&#12399;&#12376;&#12417;&#12390;&#12391;&#12377;&#12290;</p>
+            <p begin="00:05:09.235" end="00:05:10.834">&#25293;&#25163;</p>
+            <p begin="00:05:14.644" end="00:05:17.443">&#26152;&#26085;&#12398;&#12493;&#12452;&#12471;&#12531;&#12398;&#12503;&#12524;&#12476;&#12531;&#12434;&#32884;&#12356;&#12383;&#12363;&#12383;&#12399;<br/>&#12372;&#23384;&#30693;&#12391;&#12377;&#12364;</p>
+            <p begin="00:05:17.443" end="00:05:19.933">&#19990;&#30028;&#12398;&#12383;&#12387;&#12383;10&#65285;&#12364;&#33521;&#35486;&#35441;&#32773;&#12391;&#12289;</p>
+            <p begin="00:05:19.933" end="00:05:22.273">&#12383;&#12387;&#12383;5%&#12398;&#31532;&#19968;&#35328;&#35486;&#12364;&#12289;&#33521;&#35486;&#12392;&#12356;&#12358;&#35441;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:05:22.503" end="00:05:23.609">&#12394;&#12398;&#12391;&#26178;&#38291;&#12434;&#12363;&#12369;&#12390;&#12289;</p>
+            <p begin="00:05:24.779" end="00:05:26.127">&#26412;&#24403;&#12395;&#26395;&#12435;&#12391;&#12356;&#12427;&#12371;&#12392;&#12391;&#12377;&#12364;</p>
+            <p begin="00:05:26.257" end="00:05:29.075">WordPress&#12398;&#21033;&#29992;&#32773;&#12434;<br/>&#12371;&#12428;&#12392;&#21516;&#12376;&#12395;&#12375;&#12383;&#12356;&#12391;&#12377;&#12290;</p>
+            <p begin="00:05:29.075" end="00:05:31.093">&#12356;&#12388;&#12398;&#26085;&#12363;&#12289;&#22269;&#38555;&#21270;&#12398;&#35441;&#12434;&#12377;&#12427;&#12392;&#12365;&#12399;&#12289;</p>
+            <p begin="00:05:31.093" end="00:05:34.073">&#33521;&#35486;&#12434;&#20182;&#12398;&#35328;&#35486;&#12395;&#32763;&#35379;&#12377;&#12427;&#12289;<br/>&#12392;&#12356;&#12358;&#12384;&#12369;&#12391;&#12399;&#12394;&#12367;</p>
+            <p begin="00:05:34.073" end="00:05:37.056">&#20013;&#22269;&#35486;&#12289;&#12525;&#12471;&#12450;&#35486;&#12289;&#26085;&#26412;&#35486;&#12391;&#12503;&#12521;&#12464;&#12452;&#12531;&#12434;&#20316;&#12387;&#12390;&#12289;</p>
+            <p begin="00:05:37.056" end="00:05:38.939">&#33521;&#35486;&#12395;&#32763;&#35379;&#12375;&#30452;&#12377;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:05:38.939" end="00:05:41.373">&#12414;&#12384;&#27083;&#24819;&#12391;&#12375;&#12363;&#12394;&#12356;&#12391;&#12377;&#12364;&#12290;</p>
+            <p begin="00:05:42.213" end="00:05:45.743">&#12424;&#12367;&#35441;&#12373;&#12428;&#12427;&#12371;&#12392;&#12392;&#35328;&#12360;&#12400;<br/>WordPress&#12434;CMS&#12392;&#12375;&#12390;&#20351;&#12358;&#12371;&#12392;&#12395;&#12388;&#12356;&#12390;&#12391;&#12377;&#12290;</p>
+            <p begin="00:05:45.983" end="00:05:48.893">WordPress&#12434;CMS&#12392;&#12375;&#12390;&#20351;&#12387;&#12390;&#12356;&#12427;&#20154;&#12399;&#12356;&#12414;&#12377;&#12363;&#65311;</p>
+            <p begin="00:05:50.047" end="00:05:51.377">&#12411;&#12412;&#20840;&#21729;&#12391;&#12377;&#12397;&#12290;</p>
+            <p begin="00:05:51.377" end="00:05:55.017">&#12372;&#23384;&#12376;&#12394;&#12356;&#12392;&#24605;&#12356;&#12414;&#12377;&#12364;<br/>&#12371;&#12398;&#21106;&#21512;&#12399;&#27598;&#24180;&#12289;&#28187;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:05:56.787" end="00:05:58.457">&#12391;&#12399;&#20309;&#12364;&#22679;&#12360;&#12390;&#12427;&#12398;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:05:58.906" end="00:06:00.969">&#38754;&#30333;&#12356;&#12398;&#12391;&#12377;&#12369;&#12393;</p>
+            <p begin="00:06:00.969" end="00:06:04.582">&#12300;&#20027;&#12395;CMS&#12392;&#12375;&#12390;&#20351;&#12358;&#12301;<br/>&#12392;&#22238;&#31572;&#12375;&#12383;&#20154;&#12398;&#21106;&#21512;&#12364;&#28187;&#12387;&#12383;&#24433;&#38911;&#12391;</p>
+            <p begin="00:06:04.582" end="00:06:09.136">&#12371;&#12398;&#20154;&#12383;&#12385;&#12399;&#12300;&#24517;&#12378;CMS&#12392;&#12375;&#12390;&#20351;&#12358;&#12301;<br/>&#12414;&#12383;&#12399;&#12300;&#21322;&#12293;&#12301;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:09.358" end="00:06:11.306">&#12502;&#12525;&#12464;&#12418;&#28187;&#12387;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:06:11.356" end="00:06:12.829">&#20195;&#12431;&#12426;&#12395;&#12289;&#12450;&#12503;&#12522;&#12465;&#12540;&#12471;&#12519;&#12531;&#12539;&#12503;&#12521;&#12483;&#12488;&#12501;&#12457;&#12540;&#12512;&#12392;&#12375;&#12390;<br/>&#20351;&#12387;&#12390;&#12356;&#12427;&#20154;&#12364;&#22679;&#12360;&#12390;&#12427;&#12398;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:12.829" end="00:06:14.492">&#12371;&#12428;&#12364;&#12471;&#12455;&#12450;&#12434;&#22890;&#12387;&#12390;&#12356;&#12427;&#12398;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:14.632" end="00:06:17.156">&#12414;&#12384;&#23569;&#12394;&#12356;&#12391;&#12377;&#12364;&#12289;&#22679;&#12360;&#22987;&#12417;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:06:17.866" end="00:06:20.026">&#12371;&#12428;&#12395;&#12388;&#12356;&#12390;&#12399;&#12289;&#24460;&#12411;&#12393;&#12373;&#12425;&#12395;&#12362;&#35441;&#12375;&#12375;&#12414;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:06:20.106" end="00:06:22.596">&#12411;&#12363;&#12395;&#23305;&#12375;&#12356;&#12371;&#12392;&#12392;&#12356;&#12360;&#12400;&#12289;</p>
+            <p begin="00:06:22.596" end="00:06:24.543">&#22238;&#31572;&#32773;&#12398;1/4&#12364;&#12289;</p>
+            <p begin="00:06:25.073" end="00:06:26.850">WordPress&#12391;&#12501;&#12523;&#12479;&#12452;&#12512;&#12398;&#29983;&#35336;&#12434;&#12383;&#12390;&#12390;&#12356;&#12427;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:27.020" end="00:06:29.797">7,539&#20154;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:30.937" end="00:06:31.878">&#65288;&#21475;&#31515;&#65289;</p>
+            <p begin="00:06:31.968" end="00:06:33.069">&#26412;&#24403;&#12395;&#65281;</p>
+            <p begin="00:06:33.299" end="00:06:37.352">&#31777;&#21336;&#12395;&#12356;&#12360;&#12400;&#12289;&#24180;&#38291;10&#20740;US&#12489;&#12523;&#20197;&#19978;&#12398;<br/>&#32076;&#28168;&#21177;&#26524;&#12392;&#12356;&#12358;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:37.392" end="00:06:38.605">&#26412;&#24403;&#12395;&#12377;&#12372;&#12356;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:38.605" end="00:06:42.541">&#12452;&#12531;&#12479;&#12540;&#12493;&#12483;&#12488;&#26989;&#30028;&#12398;&#22823;&#20225;&#26989;&#12398;<br/>&#24467;&#26989;&#21729;&#25968;&#12424;&#12426;&#12418;&#22810;&#12356;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:42.707" end="00:06:44.089">&#12383;&#12414;&#12370;&#12383;&#12418;&#12398;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:44.089" end="00:06:46.621">&#38750;&#24120;&#12395;&#35463;&#12426;&#12395;&#24605;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:06:46.871" end="00:06:49.249">&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;&#12392;&#12375;&#12390;&#36012;&#20219;&#12364;&#12354;&#12427;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:06:49.419" end="00:06:51.087">&#12371;&#12428;&#12399;&#12388;&#12414;&#12426;&#12289;</p>
+            <p begin="00:06:51.087" end="00:06:53.798">WordCamp San Francisco&#12398;&#21442;&#21152;&#32773;&#12398;<br/>&#65303;&#12316;&#65304;&#20493;&#12398;&#20154;&#12364;</p>
+            <p begin="00:06:53.798" end="00:06:56.851">&#12525;&#12540;&#12531;&#12398;&#25903;&#25173;&#12356;&#12420;&#12289;&#23478;&#26063;&#12434;&#39135;&#12409;&#12373;&#12379;&#12390;&#12422;&#12367;&#12371;&#12392;</p>
+            <p begin="00:07:00.260" end="00:07:02.780">&#12300;&#12356;&#12356;&#12371;&#12392;&#12301;&#12392;&#12300;&#24746;&#12356;&#12371;&#12392;&#12301;&#12399;&#12289;<br/>&#12411;&#12412;&#22793;&#21270;&#12394;&#12375;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:06:56.851" end="00:06:59.592">&#23376;&#12393;&#12418;&#12434;&#23398;&#26657;&#12434;&#36890;&#12431;&#12379;&#12427;&#12398;&#12434;<br/>WordPress&#12391;&#12420;&#12387;&#12390;&#12427;&#12435;&#12391;&#12377;&#12290;</p>
+            <p begin="00:07:02.780" end="00:07:05.150">&#12415;&#12394;&#12373;&#12435;&#12364;&#22909;&#12365;&#12394;&#12398;&#12399;<br/>&#12300;&#31777;&#21336;&#12373;&#12301;&#12300;&#12503;&#12521;&#12464;&#12452;&#12531;&#12301;&#12300;&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;&#12301;</p>
+            <p begin="00:07:05.150" end="00:07:08.280">&#23244;&#12356;&#12394;&#12398;&#12399;<br/>&#12300;&#12503;&#12521;&#12464;&#12452;&#12531;&#12301;&#12300;&#12486;&#12540;&#12510;&#12301;&#12300;&#12450;&#12483;&#12503;&#12487;&#12540;&#12488;&#12301;</p>
+            <p begin="00:07:08.650" end="00:07:10.090">&#65288;&#20250;&#22580;&#12289;&#31505;&#12356;&#65289;</p>
+            <p begin="00:07:10.740" end="00:07:12.830">&#12371;&#12398;&#65299;&#24180;&#38291;&#12398;&#22238;&#31572;&#12391;&#12377;&#12290;</p>
+            <p begin="00:07:12.830" end="00:07:14.390">&#12503;&#12521;&#12464;&#12452;&#12531;&#12399;&#23569;&#12375;&#12510;&#12471;&#12395;&#12394;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:07:14.820" end="00:07:16.490">&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;&#12399;&#12356;&#12414;&#12384;&#12395;&#20154;&#27671;&#12391;&#12377;&#12290;</p>
+            <p begin="00:07:16.820" end="00:07:18.380">&#12356;&#12367;&#12388;&#12469;&#12452;&#12488;&#12434;&#20316;&#12387;&#12383;&#12363;&#32862;&#12356;&#12383;&#12425;</p>
+            <p begin="00:07:18.380" end="00:07:21.510">&#12383;&#12387;&#12383;&#65297;&#20154;&#12384;&#12369;</p>
+            <p begin="00:07:21.510" end="00:07:24.430">50&#19975;&#12316;100&#19975;&#12398;&#12469;&#12452;&#12488;&#12434;&#20316;&#12387;&#12383;&#12392;&#12356;&#12358;&#20154;&#12364;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:07:24.430" end="00:07:30.120">&#12300;&#65297;&#12388;&#12384;&#12369;&#12301;&#12392;&#12356;&#12358;&#20154;&#12399;6%</p>
+            <p begin="00:07:30.540" end="00:07:32.680">WordPress&#12399;&#12289;CMS&#30028;&#12398;&#12503;&#12522;&#12531;&#12464;&#12523;&#12474;&#12392;&#35328;&#12360;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:07:32.680" end="00:07:34.997">&#38283;&#12369;&#12383;&#12425;&#26368;&#24460;&#12289;&#12420;&#12417;&#12425;&#12428;&#12394;&#12356;&#12290;</p>
+            <p begin="00:07:34.997" end="00:07:35.994">&#65288;&#20250;&#22580;&#12289;&#31505;&#12356;&#65289;</p>
+            <p begin="00:07:37.004" end="00:07:39.631">&#12381;&#12428;&#12363;&#12425;&#12377;&#12372;&#12356;&#12392;&#24605;&#12387;&#12383;&#12398;&#12364;&#12289;91%&#12398;&#12469;&#12452;&#12488;&#12399;</p>
+            <p begin="00:07:39.631" end="00:07:41.731">200&#26178;&#38291;&#20197;&#20869;&#12391;&#23436;&#25104;&#12375;&#12383;&#12392;&#12356;&#12358;&#12371;&#12392;&#12391;&#12377;&#12290;</p>
+            <p begin="00:07:42.550" end="00:07:45.170">&#12383;&#12367;&#12373;&#12435;&#12398;&#12469;&#12452;&#12488;&#12364;&#12289;&#12373;&#12425;&#12395;<br/>&#31777;&#21336;&#12395;&#20316;&#12425;&#12428;&#12390;&#12356;&#12427;&#12392;&#12356;&#12358;&#12371;&#12392;&#12371;&#12381;</p>
+            <p begin="00:07:45.260" end="00:07:46.846">&#20182;&#12398;&#12503;&#12521;&#12483;&#12488;&#12501;&#12457;&#12540;&#12512;&#12392;&#12398;&#36949;&#12356;&#12391;&#12377;&#12290;</p>
+            <p begin="00:07:47.016" end="00:07:47.912">&#12383;&#12392;&#12360;&#12400;&#12289;</p>
+            <p begin="00:07:47.982" end="00:07:49.590">&#12452;&#12531;&#12473;&#12488;&#12540;&#12523;&#12377;&#12427;&#12398;&#12395;&#33707;&#22823;&#12394;&#12467;&#12473;&#12488;&#12364;&#12363;&#12363;&#12427;&#12392;&#12363;&#12289;</p>
+            <p begin="00:07:49.590" end="00:07:51.500">&#65299;&#24180;&#12383;&#12387;&#12383;&#12425;&#33192;&#22823;&#12394;&#12450;&#12483;&#12503;&#12464;&#12524;&#12540;&#12489;&#12364;&#24517;&#35201;<br/>&#12394;&#12435;&#12390;&#12371;&#12392;&#12399;&#12289;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;</p>
+            <p begin="00:07:51.500" end="00:07:55.220">&#26412;&#24403;&#12395;&#12377;&#12368;&#20986;&#26469;&#19978;&#12364;&#12387;&#12390;&#12289;<br/>&#12375;&#12363;&#12418;&#24120;&#12395;&#26368;&#26032;&#12394;&#12435;&#12391;&#12377;&#12290;</p>
+            <p begin="00:07:56.313" end="00:08:00.523">&#12372;&#23384;&#30693;&#12398;&#12424;&#12358;&#12395;&#12289;&#21435;&#24180;&#12398;WordCamp&#12399;<br/>10&#26376;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:00.523" end="00:08:02.093">&#65303;&#26376;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:02.713" end="00:08:04.413">&#12394;&#12398;&#12391;&#12289;&#21435;&#24180;&#12398;WordCamp&#12363;&#12425;</p>
+            <p begin="00:08:04.463" end="00:08:06.983">&#12371;&#12428;&#12418;&#12399;&#12376;&#12417;&#12390;&#12398;&#12371;&#12392;&#12391;&#12377;&#12364;&#12289;</p>
+            <p begin="00:08:06.983" end="00:08:10.473">5&#22238;&#12398;&#12513;&#12472;&#12515;&#12540;&#12522;&#12522;&#12540;&#12473;&#12434;&#34892;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:11.123" end="00:08:14.143">&#65288;&#25293;&#25163;&#65289;</p>
+            <p begin="00:08:17.693" end="00:08:20.313">&#12458;&#12473;&#12459;&#12540;&#12289;&#12505;&#12452;&#12471;&#12540;&#12289;&#12497;&#12540;&#12459;&#12540;&#12289;&#12473;&#12511;&#12473;&#12289;&#12505;&#12491;&#12540;&#12290;</p>
+            <p begin="00:08:20.589" end="00:08:23.189">&#65301;&#12388;&#12398;&#12513;&#12472;&#12515;&#12540;&#12522;&#12522;&#12540;&#12473;&#12391;&#12289;&#12375;&#12363;&#12418;&#65297;&#12388;&#12399;<br/>WordCamp&#12398;&#32716;&#26085;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:23.429" end="00:08:25.019">&#12377;&#12409;&#12426;&#36796;&#12415;&#12391;&#12377;&#12397;</p>
+            <p begin="00:08:25.059" end="00:08:27.746">&#12418;&#12358;&#65297;&#12388;&#12354;&#12426;&#12414;&#12377;&#12289;&#12418;&#12358;&#12377;&#12368;4.1&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;</p>
+            <p begin="00:08:28.366" end="00:08:30.006">&#12371;&#12428;&#12425;&#12398;&#12522;&#12522;&#12540;&#12473;&#12399;&#20869;&#23481;&#12418;&#12426;&#12384;&#12367;&#12373;&#12435;&#12391;&#12289;</p>
+            <p begin="00:08:30.006" end="00:08:33.506">&#12402;&#12392;&#12388;&#12378;&#12388;&#25391;&#12426;&#36820;&#12387;&#12390;&#12289;<br/>&#12415;&#12394;&#12373;&#12435;&#12392;&#19968;&#32210;&#12395;&#24863;&#35613;&#12375;&#12383;&#12356;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:08:33.566" end="00:08:36.236">3.6&#12391;&#12399;&#12289;&#12522;&#12532;&#12451;&#12472;&#12519;&#12531;&#12398;UI&#12434;&#12420;&#12426;&#30452;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:36.236" end="00:08:38.316">&#25237;&#31295;&#12398;&#12525;&#12483;&#12463;&#12434;&#25913;&#21892;&#12375;&#12390;&#12289;</p>
+            <p begin="00:08:38.316" end="00:08:40.276">Twenty Thirteen&#12398;&#12486;&#12540;&#12510;&#12364;&#12354;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:40.466" end="00:08:41.862">3.7&#12391;&#12399;&#33258;&#21205;&#12450;&#12483;&#12503;&#12487;&#12540;&#12488;&#12364;&#23455;&#35013;&#12373;&#12428;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:41.862" end="00:08:45.968">&#12371;&#12398;&#65300;&#12316;&#65301;&#24180;&#12395;&#23455;&#35013;&#12373;&#12428;&#12383;&#27231;&#33021;&#12398;&#12394;&#12363;&#12391;&#12418;<br/>&#26368;&#12418;&#37325;&#35201;&#12394;&#12418;&#12398;&#12391;&#12377;&#12290;</p>
+            <p begin="00:08:45.968" end="00:08:48.745">&#12497;&#12473;&#12527;&#12540;&#12489;&#12434;&#33391;&#12367;&#12375;&#12390;&#12289;&#22269;&#38555;&#21270;&#12418;&#25913;&#21892;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:48.745" end="00:08:52.063">3.8&#12399;&#33258;&#20998;&#12364;&#12522;&#12540;&#12489;&#12384;&#12387;&#12383;&#12435;&#12391;&#12377;&#12369;&#12393;&#12289;<br/>&#12356;&#12429;&#12435;&#12394;&#12418;&#12398;&#12364;&#12366;&#12387;&#12375;&#12426;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:52.063" end="00:08:53.565">Twenty Fourteen&#12486;&#12540;&#12510;&#12364;&#12354;&#12387;&#12383;&#12375;&#12289;</p>
+            <p begin="00:08:53.565" end="00:08:55.129">&#12459;&#12521;&#12540;&#12473;&#12461;&#12540;&#12512;&#12364;&#12399;&#12376;&#12417;&#12390;&#23566;&#20837;&#12373;&#12428;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:08:55.129" end="00:08:56.693">&#26032;&#12375;&#12356;&#12486;&#12540;&#12510;&#12502;&#12521;&#12454;&#12470;&#12289;</p>
+            <p begin="00:08:56.693" end="00:08:57.913">&#31649;&#29702;&#30011;&#38754;&#12364;MP6&#12487;&#12470;&#12452;&#12531;&#12395;&#22793;&#26356;&#12290;</p>
+            <p begin="00:08:57.913" end="00:09:01.003">WordPress&#21490;&#19978;&#12399;&#12376;&#12417;&#12390;<br/>&#31649;&#29702;&#30011;&#38754;&#12434;&#23436;&#20840;&#12524;&#12473;&#12509;&#12531;&#12471;&#12502;&#12395;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:09:01.003" end="00:09:04.373">&#12479;&#12503;&#12524;&#12483;&#12488;&#12420;&#12473;&#12510;&#12507;&#12391;&#25805;&#20316;&#12391;&#12365;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:04.453" end="00:09:06.223">&#65288;&#25293;&#25163;&#65289;</p>
             <p begin="00:09:08.683" end="00:09:09.676">I was really into that,</p>
             <p begin="00:09:09.756" end="00:09:12.589">I was like hell or high water, <br/>we're going to get this in.</p>
-            <p begin="00:09:12.799" end="00:09:14.543">3.9 we focused a lot on the WYSIWYG,</p>
-            <p begin="00:09:14.543" end="00:09:16.363">we got drag and drop images in there,</p>
-            <p begin="00:09:16.363" end="00:09:18.373">previews of the galleries, </p>
-            <p begin="00:09:18.373" end="00:09:21.063">and overall just allowing you<br/>to edit images</p>
-            <p begin="00:09:21.063" end="00:09:21.970">a lot better.</p>
-            <p begin="00:09:21.970" end="00:09:23.880">And finally with 4.0, our most recent,</p>
-            <p begin="00:09:23.880" end="00:09:25.550">we redid the media library,</p>
-            <p begin="00:09:25.550" end="00:09:26.800">had rich embeds,</p>
-            <p begin="00:09:26.800" end="00:09:29.590">the new plugin browser, <br/>which I'm a huge fan of,</p>
-            <p begin="00:09:29.590" end="00:09:31.130">and the improvements to the editor,</p>
-            <p begin="00:09:31.130" end="00:09:34.480">which made it, in my opinion, <br/>much easier to write long posts.</p>
-            <p begin="00:09:34.480" end="00:09:37.160">I've actually been on a personal quest where</p>
-            <p begin="00:09:37.160" end="00:09:38.960">I had a 39-day streak, </p>
-            <p begin="00:09:39.060" end="00:09:40.810">I posted every single day,</p>
-            <p begin="00:09:41.680" end="00:09:43.056">I'm on new one now,</p>
-            <p begin="00:09:43.156" end="00:09:45.172"> I had like 12 days,<br/>yesterday I missed it so</p>
-            <p begin="00:09:45.242" end="00:09:46.784">So I'll start again tomorrow. </p>
-            <p begin="00:09:46.784" end="00:09:47.776">But, it's kinda neat.</p>
-            <p begin="00:09:47.806" end="00:09:49.880">And actually if you run Jetpack or<br/>WordPress.com, </p>
-            <p begin="00:09:50.010" end="00:09:51.700">you now get a notification for how many days you</p>
-            <p begin="00:09:51.700" end="00:09:53.160">have a posting streak for.</p>
-            <p begin="00:09:53.160" end="00:09:55.380">Which is kind of a fun feature<br/>if any of you</p>
-            <p begin="00:09:55.380" end="00:09:57.297">would like to try to beat my 39.</p>
-            <p begin="00:09:57.857" end="00:09:59.587">I saw Tony here somewhere, Tony is working</p>
-            <p begin="00:09:59.587" end="00:10:01.577">on it as well. He's doing a month of blogging.</p>
-            <p begin="00:10:02.447" end="00:10:03.637">(screen cuts out briefly)</p>
-            <p begin="00:10:04.087" end="00:10:05.073">There we go! </p>
-            <p begin="00:10:06.063" end="00:10:07.857">I was like aww, please<br/>not another fire alarm.</p>
-            <p begin="00:10:08.167" end="00:10:09.511">(laughter)</p>
-            <p begin="00:10:10.271" end="00:10:12.376">You guys are just so hot.</p>
-            <p begin="00:10:12.643" end="00:10:14.643">Tore the building up.</p>
-            <p begin="00:10:15.608" end="00:10:18.358">Besides myself we had seven release leads.</p>
-            <p begin="00:10:18.708" end="00:10:20.038">And actually, a few of them are here in the room.</p>
-            <p begin="00:10:20.158" end="00:10:22.518">So, John, Aaron, Mark, Dion, Helen, Mike, Andrew</p>
-            <p begin="00:10:22.728" end="00:10:23.768">can you stand up?</p>
-            <p begin="00:10:25.567" end="00:10:30.813">There we go. We got Mark there, there's Aaron,</p>
-            <p begin="00:10:30.813" end="00:10:34.310">Oh, Helen right over there!</p>
-            <p begin="00:10:34.710" end="00:10:36.427">(applause)</p>
-            <p begin="00:10:39.357" end="00:10:41.465">Being a release lead is VERY difficult, </p>
-            <p begin="00:10:41.595" end="00:10:42.815">I'm sure all of these folks can attest.</p>
-            <p begin="00:10:43.055" end="00:10:46.045">And it's something that <br/>we've even had people do twice</p>
-            <p begin="00:10:46.065" end="00:10:48.515">Andy on this list did it twice in this period.</p>
-            <p begin="00:10:48.875" end="00:10:52.305">We also have had a variety of new<br/>contributors to WordPress</p>
-            <p begin="00:10:52.305" end="00:10:54.015">in a variety of ways.</p>
-            <p begin="00:10:54.095" end="00:10:56.305">When I say your name, please stand up if<br/>you're here.</p>
-            <p begin="00:10:56.305" end="00:10:58.372">Rachel and Ryan have been working on<br/>the API</p>
-            <p begin="00:10:58.482" end="00:11:00.152">Janneke on WYSIWYG,</p>
-            <p begin="00:11:00.457" end="00:11:01.467">Eric on media,</p>
-            <p begin="00:11:01.517" end="00:11:02.867">Mel on design,</p>
-            <p begin="00:11:02.957" end="00:11:05.187">Takashi is now designing TWO primary themes,</p>
-            <p begin="00:11:05.257" end="00:11:08.137">and then Weston on customizer,</p>
-            <p begin="00:11:08.157" end="00:11:08.940">and finally Kim on docs,</p>
-            <p begin="00:11:09.343" end="00:11:10.877">if you're all here please stand up. </p>
-            <p begin="00:11:10.947" end="00:11:12.410">Round of applause for y'all. </p>
-            <p begin="00:11:12.520" end="00:11:14.293">(crowd cheering)</p>
-            <p begin="00:11:21.303" end="00:11:23.234">Weston, I was liking your tweets <br/>about the API too,</p>
-            <p begin="00:11:23.264" end="00:11:24.655">and the node stuff.</p>
-            <p begin="00:11:25.385" end="00:11:27.876">Also finally this year we added <br/>5 new committers</p>
-            <p begin="00:11:28.946" end="00:11:31.196">Konstantin, Boone, Gary, Jeremy, and Aaron</p>
-            <p begin="00:11:31.476" end="00:11:32.586">They all here?</p>
-            <p begin="00:11:33.292" end="00:11:34.515">Put your hands in the air, </p>
-            <p begin="00:11:34.715" end="00:11:35.664">wave 'em like you just don't care.. </p>
-            <p begin="00:11:35.684" end="00:11:36.443">WHOAAA!!!</p>
-            <p begin="00:11:36.613" end="00:11:38.375">How are you hiding down there?</p>
-            <p begin="00:11:38.445" end="00:11:40.207">(applause)</p>
-            <p begin="00:11:43.787" end="00:11:47.242">I can confirm that we're going to let<br/>Gary out of the cage soon.</p>
-            <p begin="00:11:47.402" end="00:11:48.417">(laughter)</p>
+            <p begin="00:09:12.799" end="00:09:14.543">3.9&#12399;WYSIWYG&#12456;&#12487;&#12451;&#12479;&#12395;&#27880;&#21147;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:09:14.543" end="00:09:16.363">&#12452;&#12513;&#12540;&#12472;&#12398;&#12489;&#12521;&#12483;&#12464;&#65286;&#12489;&#12525;&#12483;&#12503;</p>
+            <p begin="00:09:16.363" end="00:09:18.373">&#12462;&#12515;&#12521;&#12522;&#12540;&#12398;&#12503;&#12524;&#12499;&#12517;&#12540;&#12289;</p>
+            <p begin="00:09:18.373" end="00:09:21.750">&#30011;&#20687;&#12398;&#32232;&#38598;&#12364;&#21487;&#33021;&#12395;&#12394;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:09:21.750" end="00:09:23.880">&#12381;&#12375;&#12390;&#26368;&#26032;&#12398;4.0</p>
+            <p begin="00:09:23.880" end="00:09:25.550">&#12513;&#12487;&#12451;&#12450;&#12521;&#12452;&#12502;&#12521;&#12522;&#12434;&#20316;&#12426;&#30452;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:09:25.550" end="00:09:26.800">&#12513;&#12487;&#12451;&#12450;&#12398;&#25407;&#20837;&#12364;&#12522;&#12483;&#12481;&#12395;&#12290;</p>
+            <p begin="00:09:26.800" end="00:09:29.590">&#26032;&#12375;&#12356;&#12503;&#12521;&#12464;&#12452;&#12531;&#12502;&#12521;&#12454;&#12470;&#12289;&#12371;&#12428;&#12399;&#12377;&#12372;&#12367;&#27005;&#12375;&#12356;&#12391;&#12377;&#12290;</p>
+            <p begin="00:09:29.590" end="00:09:31.130">&#12456;&#12487;&#12451;&#12479;&#12398;&#25913;&#21892;&#12290;</p>
+            <p begin="00:09:31.130" end="00:09:34.480">&#12371;&#12428;&#12399;&#12289;&#20491;&#20154;&#30340;&#12395;&#12399;<br/>&#38263;&#25991;&#12434;&#12363;&#12367;&#12398;&#12434;&#12424;&#12426;&#27005;&#12395;&#12375;&#12383;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:34.480" end="00:09:37.160">&#23455;&#12399;&#12289;&#20491;&#20154;&#30340;&#12394;&#25361;&#25126;&#12434;&#12375;&#12390;&#12356;&#12390;&#12289;</p>
+            <p begin="00:09:37.160" end="00:09:40.920">&#12356;&#12414;&#12414;&#12391;&#12398;&#26368;&#38263;39&#26085;&#38291;&#12289;<br/>&#27598;&#26085;&#25237;&#31295;&#12434;&#32154;&#12369;&#12390;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:09:40.920" end="00:09:43.056">&#20170;&#12414;&#12383;&#12289;&#35352;&#37682;&#26356;&#26032;&#12375;&#12424;&#12358;&#12392;&#12375;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:43.156" end="00:09:45.172">12&#26085;&#12367;&#12425;&#12356;&#32154;&#12356;&#12383;&#12398;&#12395;&#12289;&#12365;&#12398;&#12358;&#25244;&#12369;&#12385;&#12419;&#12387;&#12383;&#12435;&#12391;&#12377;&#12290;</p>
+            <p begin="00:09:45.242" end="00:09:46.784">&#12414;&#12383;&#26126;&#26085;&#12363;&#12425;&#26360;&#12365;&#22987;&#12417;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:46.784" end="00:09:47.776">&#12385;&#12419;&#12435;&#12392;&#12289;&#12420;&#12387;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:47.806" end="00:09:50.330">&#12418;&#12375;Jetpack&#12363;WordPress.com&#12434;&#20351;&#12387;&#12390;&#12383;&#12425;&#12289;</p>
+            <p begin="00:09:50.330" end="00:09:52.854">&#20309;&#26085;&#25237;&#31295;&#12364;&#32154;&#12356;&#12390;&#12356;&#12427;&#12363;&#12289;&#30693;&#12425;&#12379;&#12390;&#12367;&#12428;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:52.854" end="00:09:54.628">&#12371;&#12428;&#12399;&#27005;&#12375;&#12356;&#27231;&#33021;&#12391;&#12377;&#12424;&#12290;</p>
+            <p begin="00:09:54.628" end="00:09:57.342">&#12418;&#12375;&#31169;&#12398;&#12418;&#12387;&#12390;&#12427;39&#26085;&#38291;&#12398;&#35352;&#37682;&#12434;<br/>&#30772;&#12429;&#12358;&#12392;&#12377;&#12427;&#12394;&#12425;&#12397;&#12290;</p>
+            <p begin="00:09:57.342" end="00:09:59.787">&#12488;&#12491;&#12540;&#12364;&#12393;&#12371;&#12363;&#12395;&#12356;&#12383;&#12392;&#24605;&#12356;&#12414;&#12377;&#12364;&#12289;<br/>&#24444;&#12364;&#25361;&#25126;&#12375;&#12390;&#12383;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:09:59.787" end="00:10:01.577">&#24444;&#12399;1&#12534;&#26376;&#12420;&#12387;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:10:02.447" end="00:10:03.637">&#65288;&#12473;&#12463;&#12522;&#12540;&#12531;&#12398;&#19981;&#37117;&#21512;&#65289;</p>
+            <p begin="00:10:04.087" end="00:10:05.073">&#38972;&#12416;&#12424;&#12289;</p>
+            <p begin="00:10:06.063" end="00:10:07.857">&#12393;&#12358;&#12363;&#12414;&#12383;&#28779;&#28797;&#22577;&#30693;&#22120;&#12364;&#40180;&#12426;&#12414;&#12379;&#12435;&#12424;&#12358;&#12395;&#12290;</p>
+            <p begin="00:10:08.167" end="00:10:09.511">&#65288;&#20250;&#22580;&#12289;&#31505;&#12356;&#65289;</p>
+            <p begin="00:10:10.271" end="00:10:12.376">&#12415;&#12394;&#12373;&#12435;&#12289;&#12507;&#12483;&#12488;&#12391;&#12377;&#12363;&#12425;&#65281;</p>
+            <p begin="00:10:12.643" end="00:10:14.643">&#24314;&#29289;&#12434;&#12371;&#12431;&#12377;&#12367;&#12425;&#12356;&#12290;</p>
+            <p begin="00:10:15.608" end="00:10:18.358">&#33258;&#20998;&#12398;&#20182;&#12395;&#12289;&#65303;&#20154;&#12398;&#12522;&#12522;&#12540;&#12473;&#12398;&#12522;&#12540;&#12480;&#12540;&#12364;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:10:18.708" end="00:10:20.038">&#20309;&#20154;&#12363;&#12399;&#12371;&#12398;&#37096;&#23627;&#12395;&#23621;&#12414;&#12377;&#12290;</p>
+            <p begin="00:10:20.158" end="00:10:22.518">&#12472;&#12519;&#12531;&#12289;&#12450;&#12540;&#12525;&#12531;&#12289;&#12510;&#12540;&#12463;&#12289;&#12487;&#12451;&#12458;&#12531;&#12289;<br/>&#12504;&#12524;&#12531;&#12289;&#12510;&#12452;&#12463;&#12289;&#12450;&#12531;&#12489;&#12522;&#12517;&#12540;</p>
+            <p begin="00:10:22.728" end="00:10:23.768">&#31435;&#12385;&#19978;&#12364;&#12387;&#12390;&#19979;&#12373;&#12356;&#12290;</p>
+            <p begin="00:10:25.567" end="00:10:29.853">&#12399;&#12356;&#12289;&#12510;&#12540;&#12463;&#12399;&#12354;&#12381;&#12371;&#12289;&#12450;&#12540;&#12525;&#12531;&#12399;&#12354;&#12381;&#12371;&#12289;</p>
+            <p begin="00:10:30.813" end="00:10:33.320">&#12362;&#12540;&#12504;&#12524;&#12531;&#12289;&#12381;&#12371;&#12395;&#12356;&#12383;&#12435;&#12384;&#12397;&#65281;</p>
+            <p begin="00:10:34.710" end="00:10:36.427">&#65288;&#25293;&#25163;&#65289;</p>
+            <p begin="00:10:39.357" end="00:10:41.465">&#12522;&#12522;&#12540;&#12473;&#12522;&#12540;&#12480;&#12540;&#12434;&#12420;&#12427;&#12398;&#12399;&#12289;&#26412;&#24403;&#12395;&#22823;&#22793;&#12391;&#12377;&#12290;</p>
+            <p begin="00:10:41.595" end="00:10:42.815">&#12371;&#12398;&#20154;&#12383;&#12385;&#12364;&#35388;&#26126;&#12391;&#12377;&#12290;</p>
+            <p begin="00:10:43.055" end="00:10:46.045">&#65298;&#22238;&#12420;&#12387;&#12383;&#12402;&#12392;&#12418;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:10:46.065" end="00:10:48.515">&#12450;&#12531;&#12487;&#12451;&#12399;&#12371;&#12398;&#26399;&#38291;&#12395;&#65298;&#22238;&#12420;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:10:48.875" end="00:10:51.715">&#12414;&#12383;&#12289;&#27096;&#12293;&#12394;&#26032;&#12375;&#12356;WordPress&#12467;&#12531;&#12488;&#12522;&#12499;&#12517;&#12540;&#12479;&#12540;&#12434;&#12289;</p>
+            <p begin="00:10:51.715" end="00:10:54.015">&#27096;&#12293;&#12394;&#26041;&#27861;&#12391;&#36814;&#12360;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:10:54.095" end="00:10:56.305">&#21517;&#21069;&#12434;&#35328;&#12387;&#12383;&#12425;&#12289;&#12356;&#12427;&#20154;&#12399;&#31435;&#12385;&#19978;&#12364;&#12387;&#12390;&#19979;&#12373;&#12356;&#12397;&#12290;</p>
+            <p begin="00:10:56.305" end="00:10:58.372">&#12524;&#12452;&#12481;&#12455;&#12523;&#12392;&#12521;&#12452;&#12450;&#12531;&#12399;&#12289;API&#12395;&#25658;&#12431;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:10:58.482" end="00:11:00.152">&#12516;&#12490;&#12459;&#12399;WYSIWYG&#12456;&#12487;&#12451;&#12479;</p>
+            <p begin="00:11:00.457" end="00:11:01.467">&#12456;&#12522;&#12483;&#12463;&#12399;&#12513;&#12487;&#12451;&#12450;</p>
+            <p begin="00:11:01.517" end="00:11:02.867">&#12513;&#12523;&#12399;&#12487;&#12470;&#12452;&#12531;</p>
+            <p begin="00:11:02.957" end="00:11:05.167">&#12479;&#12459;&#12471;&#12399;&#65298;&#12388;&#12418;&#12289;&#27161;&#28310;&#12486;&#12540;&#12510;&#12434;&#12487;&#12470;&#12452;&#12531;&#12375;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:11:05.167" end="00:11:07.547">&#12454;&#12455;&#12473;&#12488;&#12531;&#12399;&#12289;&#12459;&#12473;&#12479;&#12510;&#12452;&#12470;&#12540;</p>
+            <p begin="00:11:07.547" end="00:11:08.940">&#12461;&#12512;&#12399;&#12489;&#12461;&#12517;&#12513;&#12531;&#12488;</p>
+            <p begin="00:11:09.343" end="00:11:10.877">&#12415;&#12435;&#12394;&#12289;&#12356;&#12383;&#12425;&#31435;&#12387;&#12390;&#19979;&#12373;&#12356;&#65281;</p>
+            <p begin="00:11:10.947" end="00:11:12.410">&#12415;&#12394;&#12373;&#12435;&#12398;&#12383;&#12417;&#12398;&#25293;&#25163;&#12391;&#12377;&#65281;</p>
+            <p begin="00:11:12.520" end="00:11:14.293">&#65288;&#20250;&#22580;&#12289;&#25293;&#25163;&#21917;&#37319;&#65289;</p>
+            <p begin="00:11:21.303" end="00:11:23.234">&#12454;&#12455;&#12473;&#12488;&#12531;&#12289;API&#12395;&#12388;&#12356;&#12390;&#12398;&#12484;&#12452;&#12540;&#12488;&#12418;&#12424;&#12363;&#12387;&#12383;&#12391;&#12377;&#12290;</p>
+            <p begin="00:11:23.264" end="00:11:24.655">&#12354;&#12392;Node&#12395;&#12388;&#12356;&#12390;&#12290;</p>
+            <p begin="00:11:25.385" end="00:11:27.876">&#20170;&#24180;&#12289;5&#20154;&#12398;&#12354;&#12425;&#12383;&#12394;&#12467;&#12511;&#12483;&#12479;&#12540;&#12364;&#21152;&#12431;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:11:28.596" end="00:11:31.196">&#12467;&#12531;&#12473;&#12479;&#12531;&#12486;&#12451;&#12531;&#12289;&#12502;&#12540;&#12531;&#12289;&#12466;&#12452;&#12522;&#12540;&#12289;<br/>&#12472;&#12455;&#12524;&#12511;&#12540;&#12289;&#12450;&#12540;&#12525;&#12531;&#12391;&#12377;&#12290;</p>
+            <p begin="00:11:31.476" end="00:11:32.586">&#12356;&#12414;&#12377;&#12363;&#65311;</p>
+            <p begin="00:11:33.292" end="00:11:34.505">&#25163;&#12434;&#25369;&#12370;&#12390;&#12290;</p>
+            <p begin="00:11:34.515" end="00:11:35.664">&#12373;&#12426;&#12370;&#12394;&#12367;&#12391;&#12356;&#12356;&#12398;&#12391;</p>
+            <p begin="00:11:35.684" end="00:11:36.443">&#12362;&#12540;&#65281;</p>
+            <p begin="00:11:36.613" end="00:11:38.375">&#12393;&#12358;&#12420;&#12387;&#12390;&#19979;&#12395;&#38560;&#12428;&#12390;&#12427;&#12398;&#65311;</p>
+            <p begin="00:11:38.445" end="00:11:40.207">&#65288;&#25293;&#25163;&#65289;</p>
+            <p begin="00:11:43.787" end="00:11:47.242">&#31169;&#12383;&#12385;&#12399;&#12289;&#12466;&#12452;&#12522;&#12540;&#12434;<br/>&#12399;&#12420;&#12367;&#12459;&#12468;&#12363;&#12425;&#20986;&#12377;&#12371;&#12392;&#12434;&#12362;&#32004;&#26463;&#12375;&#12414;&#12377;&#12290;</p>
+            <p begin="00:11:47.402" end="00:11:48.417">&#65288;&#31505;&#12356;&#65289;</p>
             <p begin="00:11:48.867" end="00:11:50.044">He's been in there for..</p>
-            <p begin="00:11:50.124" end="00:11:51.544">also, if you notice this,</p>
-            <p begin="00:11:53.023" end="00:11:54.753">We have about half looking left, </p>
-            <p begin="00:11:54.823" end="00:11:56.043">half looking right...</p>
-            <p begin="00:11:56.183" end="00:11:57.763">And then Andy is just straight on.</p>
-            <p begin="00:11:57.813" end="00:11:59.683">Staring right into your soul.</p>
-            <p begin="00:12:01.408" end="00:12:03.428">Kim is the only one<br/>looking fully forward there.</p>
-            <p begin="00:12:03.568" end="00:12:04.968">So I think that means she's the new Andy.</p>
-            <p begin="00:12:06.028" end="00:12:09.118">But here, kinda everyone <br/>is looking right at the camera.</p>
-            <p begin="00:12:09.168" end="00:12:11.196">So maybe there's something there,<br/>that's the trick to getting commits.</p>
-            <p begin="00:12:11.286" end="00:12:12.474">(laughter)</p>
-            <p begin="00:12:13.744" end="00:12:14.823">Update your Gravatar.</p>
-            <p begin="00:12:16.080" end="00:12:22.157">All in all, we had 785 contributors<br/>over those five releases.</p>
-            <p begin="00:12:25.587" end="00:12:27.384">(applause)</p>
-            <p begin="00:12:31.724" end="00:12:33.793">Including one that we bamboozled,<br/></p>
-            <p begin="00:12:33.843" end="00:12:35.352">into leading another release.</p>
-            <p begin="00:12:35.432" end="00:12:36.732">John are you here?</p>
-            <p begin="00:12:37.642" end="00:12:38.669">Hey John.</p>
-            <p begin="00:12:38.749" end="00:12:40.446">(applause)</p>
-            <p begin="00:12:45.296" end="00:12:47.448">John will be leading release version 4.1, </p>
-            <p begin="00:12:47.548" end="00:12:49.630">which is actually coming out on December 10th.</p>
-            <p begin="00:12:49.710" end="00:12:51.753">So, thank you very much.</p>
-            <p begin="00:12:51.803" end="00:12:53.463">Other big thing over the past few years,</p>
-            <p begin="00:12:53.463" end="00:12:55.403">is that the usage of WordPress has grown a ton.</p>
-            <p begin="00:12:55.403" end="00:12:59.233">We now power over 23% of websites.</p>
-            <p begin="00:13:00.723" end="00:13:02.433">(applause)</p>
-            <p begin="00:13:05.833" end="00:13:07.233">To put that in perspective,</p>
-            <p begin="00:13:07.453" end="00:13:11.739">from 2013-2014, we grew the equivalent <br/>of two Drupal market shares.</p>
-            <p begin="00:13:11.889" end="00:13:13.295">(laughter)</p>
-            <p begin="00:13:18.055" end="00:13:19.741">Activity across the board was up, </p>
-            <p begin="00:13:19.741" end="00:13:21.247">plugins were a huge boost,</p>
-            <p begin="00:13:21.407" end="00:13:26.643">We had over 6,400 added <br/>for a total of 34,000 plugins in the repository.</p>
-            <p begin="00:13:26.963" end="00:13:29.493">In activity we reached 1 million commits,</p>
-            <p begin="00:13:29.673" end="00:13:32.853">Actually have brought you <br/>the millionth commit here</p>
-            <p begin="00:13:32.973" end="00:13:36.406">Otto decided to make a Pluginception.<br/></p>
-            <p begin="00:13:36.526" end="00:13:38.239">Thought that was a very clever name</p>
-            <p begin="00:13:38.279" end="00:13:40.313">We're going to have to talk about<br/>that donate link though.</p>
-            <p begin="00:13:40.313" end="00:13:42.803">But this was the millionth commit <br/>that we had, it was a fun joke.</p>
-            <p begin="00:13:42.883" end="00:13:46.353">I love our funny commits, like Helen's song <br/>and things like that.</p>
+            <p begin="00:11:50.124" end="00:11:51.544">&#12362;&#27671;&#12389;&#12365;&#12363;&#12418;&#12375;&#12428;&#12414;&#12379;&#12435;&#12364;&#12289;</p>
+            <p begin="00:11:53.023" end="00:11:55.903">&#21491;&#21521;&#12365;&#12398;&#20154;&#12392;&#24038;&#21521;&#12365;&#12398;&#20154;&#12364;&#21322;&#12293;&#12391;&#12377;&#12290;</p>
+            <p begin="00:11:55.903" end="00:11:57.763">&#12450;&#12531;&#12489;&#12522;&#12517;&#12540;&#12384;&#12369;&#30495;&#12387;&#12377;&#12368;&#21069;&#12416;&#12356;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:11:57.813" end="00:11:59.683">&#24515;&#12434;&#12398;&#12382;&#12365;&#36796;&#12435;&#12391;&#12414;&#12377;&#12290;</p>
+            <p begin="00:12:01.408" end="00:12:03.428">&#26032;&#12467;&#12531;&#12488;&#12522;&#12499;&#12517;&#12540;&#12479;&#12540;&#12398;&#20013;&#12391;&#12399;<br/>&#12461;&#12512;&#12384;&#12369;&#12385;&#12419;&#12435;&#12392;&#21069;&#12434;&#21521;&#12356;&#12390;&#12414;&#12377;&#12290;</p>
+            <p begin="00:12:03.568" end="00:12:04.968">&#12394;&#12398;&#12391;&#12461;&#12512;&#12364;&#12289;&#26032;&#12383;&#12394;&#12450;&#12531;&#12487;&#12451;&#12392;&#12394;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
+            <p begin="00:12:06.028" end="00:12:09.118">&#12391;&#12418;&#12491;&#12517;&#12540;&#12467;&#12511;&#12483;&#12479;&#12540;&#12383;&#12385;&#12399;<br/>&#20840;&#21729;&#12414;&#12387;&#12377;&#12368;&#12459;&#12513;&#12521;&#35251;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:12:09.168" end="00:12:11.196">&#12371;&#12398;&#20154;&#12383;&#12385;&#12395;&#12399;&#12467;&#12511;&#12483;&#12488;&#12377;&#12427;&#12488;&#12522;&#12483;&#12463;&#12434;&#25345;&#12387;&#12390;&#12427;&#12435;&#12391;&#12377;&#12397;</p>
+            <p begin="00:12:11.286" end="00:12:12.474">&#65288;&#31505;&#12356;&#65289;</p>
+            <p begin="00:12:13.744" end="00:12:14.823">Gravatar&#26356;&#26032;&#12375;&#12390;&#19979;&#12373;&#12356;&#12290;</p>
+            <p begin="00:12:16.080" end="00:12:22.157">&#12371;&#12398;5&#22238;&#12398;&#12522;&#12522;&#12540;&#12473;&#12391;&#12289;<br/>&#12354;&#12431;&#12379;&#12390;785&#20154;&#12398;&#12467;&#12531;&#12488;&#12522;&#12499;&#12517;&#12540;&#12479;&#12540;&#12364;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:12:25.587" end="00:12:27.384">&#65288;&#25293;&#25163;&#65289;</p>
+            <p begin="00:12:31.724" end="00:12:33.793">&#65297;&#12388;&#12399;&#12289;&#39449;&#12373;&#12428;&#12390;&#12289;</p>
+            <p begin="00:12:33.843" end="00:12:35.352">&#20182;&#12398;&#12522;&#12522;&#12540;&#12473;&#12434;&#12377;&#12427;&#12399;&#12417;&#12395;&#12394;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:12:35.432" end="00:12:36.732">&#12472;&#12519;&#12531;&#12399;&#12289;&#12356;&#12427;&#65311;</p>
+            <p begin="00:12:37.642" end="00:12:38.669">&#12504;&#12452;&#12289;&#12472;&#12519;&#12531;&#65281;</p>
+            <p begin="00:12:38.749" end="00:12:40.446">&#65288;&#25293;&#25163;&#65289;</p>
+            <p begin="00:12:45.296" end="00:12:47.448">&#12472;&#12519;&#12531;&#12399;4.1&#12398;&#12522;&#12540;&#12480;&#12540;&#12398;&#20104;&#23450;&#12391;&#12377;&#12290;</p>
+            <p begin="00:12:47.548" end="00:12:49.630">&#65297;&#65298;&#26376;&#65297;&#65296;&#26085;&#12395;&#12522;&#12522;&#12540;&#12473;&#20104;&#23450;&#12391;&#12377;&#12290;</p>
+            <p begin="00:12:49.710" end="00:12:51.753">&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:12:51.803" end="00:12:53.463">&#12411;&#12363;&#12395;&#36942;&#21435;&#25968;&#24180;&#12391;&#22823;&#12365;&#12394;&#12371;&#12392;</p>
+            <p begin="00:12:53.463" end="00:12:55.403">WordPress&#12398;&#21033;&#29992;&#25968;&#12398;&#20280;&#12403;&#12364;&#12418;&#12398;&#12377;&#12372;&#12356;&#12391;&#12377;&#12290;</p>
+            <p begin="00:12:55.403" end="00:12:59.233">&#12454;&#12455;&#12454;&#12469;&#12452;&#12488;&#12398;&#12358;&#12385;23%&#12391;&#21205;&#12356;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+            <p begin="00:13:00.723" end="00:13:02.433">&#65288;&#25293;&#25163;&#65289;</p>
+            <p begin="00:13:05.313" end="00:13:07.233">&#12371;&#12398;&#35222;&#28857;&#12363;&#12425;&#35328;&#12358;&#12392;&#12289;</p>
+            <p begin="00:13:07.453" end="00:13:11.739">&#21435;&#24180;&#12363;&#12425;&#20170;&#24180;&#12391;&#12289;Drupal&#12398;&#12471;&#12455;&#12450;&#12398;&#65298;&#20493;&#12395;&#12394;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:13:11.889" end="00:13:13.295">&#65288;&#20250;&#22580;&#12289;&#31505;&#12356;&#65289;</p>
+            <p begin="00:13:18.055" end="00:13:19.741">&#36562;&#20006;&#12415;&#27963;&#21205;&#12399;&#12289;&#26368;&#39640;&#12391;&#12375;&#12383;&#12290;</p>
+            <p begin="00:13:19.741" end="00:13:21.247">&#12503;&#12521;&#12464;&#12452;&#12531;&#12398;&#21152;&#36895;&#12399;&#12377;&#12372;&#12363;&#12387;&#12383;&#12391;&#12377;&#12290;</p>
+            <p begin="00:13:21.407" end="00:13:23.652">6,400&#20197;&#19978;&#12398;&#12503;&#12521;&#12464;&#12452;&#12531;&#12364;&#36861;&#21152;&#12373;&#12428;&#12390;&#12289;<br/></p>
+            <p begin="00:13:23.652" end="00:13:26.797">&#21512;&#35336;34,000&#12364;&#12524;&#12509;&#12472;&#12488;&#12522;&#12395;&#12354;&#12426;&#12414;&#12377;&#12290;</p>
+            <p begin="00:13:26.797" end="00:13:29.493">&#27963;&#21205;&#12391;&#12356;&#12358;&#12392;100&#19975;&#12467;&#12511;&#12483;&#12488;&#12395;&#36948;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:13:29.673" end="00:13:32.853">&#12371;&#12428;&#12399;100&#19975;&#12467;&#12511;&#12483;&#12488;&#30446;&#12398;&#12418;&#12398;&#12391;&#12377;&#12290;</p>
+            <p begin="00:13:32.973" end="00:13:36.406">&#12458;&#12483;&#12488;&#12540;&#12399;&#12289;&#12300;&#12503;&#12521;&#12464;&#12452;&#12531;&#12475;&#12503;&#12471;&#12519;&#12531;&#12301;&#12434;<br/>&#20316;&#12427;&#12371;&#12392;&#12395;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:13:36.526" end="00:13:38.239">&#27671;&#12398;&#21033;&#12356;&#12383;&#21517;&#21069;&#12384;&#12392;&#24605;&#12356;&#12414;&#12375;&#12383;&#12290;</p>
+            <p begin="00:13:38.279" end="00:13:40.313">&#12489;&#12493;&#12540;&#12471;&#12519;&#12531;&#12522;&#12531;&#12463;&#12418;&#12354;&#12426;&#12414;&#12377;&#12290;</p>
+            <p begin="00:13:40.313" end="00:13:42.803">&#12371;&#12428;&#12364;100&#19975;&#22238;&#30446;&#12398;&#12467;&#12511;&#12483;&#12488;&#12391;&#12377;&#12290;<br/>&#12362;&#12418;&#12375;&#12429;&#12493;&#12479;&#12392;&#12375;&#12390;&#12397;&#12290;</p>
+            <p begin="00:13:42.883" end="00:13:46.353">&#12362;&#12418;&#12375;&#12429;&#12467;&#12511;&#12483;&#12488;&#22823;&#22909;&#12365;&#12391;&#12377;&#12290;<br/>&#12504;&#12524;&#12531;&#12398;&#27468;&#12415;&#12383;&#12356;&#12394;&#12398;&#12392;&#12363;&#12290;</p>
             <p begin="00:13:46.403" end="00:13:47.363">We get some good ones in there.</p>
-            <p begin="00:13:47.423" end="00:13:49.053">Themes also were huge </p>
+            <p begin="00:13:47.423" end="00:13:49.053">&#12486;&#12540;&#12510;&#12418;&#12377;&#12372;&#12367;&#12383;&#12367;&#12373;&#12435;&#12391;&#12377;&#12290;</p>
             <p begin="00:13:49.113" end="00:13:52.073">and this is a real testament<br/>to the work of the Theme Review Team.</p>
             <p begin="00:13:52.343" end="00:13:55.059">We had over 684 Themes added<br/></p>
             <p begin="00:13:55.199" end="00:13:57.425">Think about that, that's 2 a day</p>
