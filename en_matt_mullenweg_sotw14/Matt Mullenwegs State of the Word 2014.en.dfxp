@@ -1,0 +1,1097 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en">
+    <head>
+        <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+            <ttm:title/>
+            <ttm:description/>
+            <ttm:copyright/>
+        </metadata>
+        <styling>
+            <style xml:id="amara-style" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:backgroundColor="transparent" tts:textOutline="black 1px 0px" tts:textAlign="center"/>
+        </styling>
+        <layout>
+            <region xml:id="bottom" style="amara-style" tts:extent="100% 20%" tts:origin="0 80%"/>
+            <region xml:id="top" style="amara-style" tts:extent="100% 20%" tts:origin="0 0" tts:textAlign="center"/>
+        </layout>
+    </head>
+    <body region="bottom">
+        <div>
+            <p begin="00:00:04.051" end="00:00:06.431">Good morning, everybody!</p>
+            <p begin="00:00:07.091" end="00:00:09.951">Glad to see you all fully recovered from<br/>the party last night.</p>
+            <p begin="00:00:10.739" end="00:00:12.649">A party so good it broke the plumbing.</p>
+            <p begin="00:00:14.371" end="00:00:15.941">I don't know what that means...</p>
+            <p begin="00:00:15.941" end="00:00:19.290">You guys are full of it. No, I'm kidding.</p>
+            <p begin="00:00:19.790" end="00:00:21.629">Just kidding!</p>
+            <p begin="00:00:22.179" end="00:00:25.529">I am very proud and honored and privileged to <br/>be in front of you this morning</p>
+            <p begin="00:00:25.989" end="00:00:28.990">at the 9th WordCamp San Francisco.</p>
+            <p begin="00:00:28.990" end="00:00:30.621">(crowd cheering) </p>
+            <p begin="00:00:30.621" end="00:00:33.422">(applause)</p>
+            <p begin="00:00:34.602" end="00:00:35.915">Eleven years ago, </p>
+            <p begin="00:00:35.915" end="00:00:39.328">when WordPress started,<br/>co-founded it with Mike Little,</p>
+            <p begin="00:00:39.328" end="00:00:41.693">no idea that it would ever be like this</p>
+            <p begin="00:00:41.693" end="00:00:46.723">and this is, I think, officially, the largest<br/>WordCamp San Francisco we've ever had.</p>
+            <p begin="00:00:46.723" end="00:00:50.023">With the three ticket releases selling out<br/>same day, each time.</p>
+            <p begin="00:00:50.023" end="00:00:52.952">So, you guys were good at <br/>clicking that button really fast.</p>
+            <p begin="00:00:52.952" end="00:00:54.251">(laughter)</p>
+            <p begin="00:00:54.931" end="00:00:56.423">All over the world this year.. </p>
+            <p begin="00:00:56.423" end="00:00:58.387">Oh! my name is <br/>Matt Mullenweg by the way, it's nice to meet you.</p>
+            <p begin="00:00:58.387" end="00:00:59.651">(laughter)</p>
+            <p begin="00:01:00.131" end="00:01:01.103">All over the world this year</p>
+            <p begin="00:01:01.103" end="00:01:04.255">There are now going to be 81 WordCamps in 2014</p>
+            <p begin="00:01:04.255" end="00:01:06.037">More than one per week</p>
+            <p begin="00:01:06.317" end="00:01:07.627">It's funny because </p>
+            <p begin="00:01:07.627" end="00:01:11.277">the first WordCamp we intended <br/>to be a template for others</p>
+            <p begin="00:01:12.977" end="00:01:16.309">That other people would sort of take it<br/>BarCamp style and start making them</p>
+            <p begin="00:01:16.309" end="00:01:19.245">but in fact, the first year<br/>there was just one WordCamp</p>
+            <p begin="00:01:19.245" end="00:01:20.701">and then it really started to pick up, with</p>
+            <p begin="00:01:20.701" end="00:01:22.899">the second one I believe <br/>coming in Argentina.</p>
+            <p begin="00:01:22.899" end="00:01:25.689">San Francisco has always held a special <br/>place in my heart though,</p>
+            <p begin="00:01:25.689" end="00:01:28.799">for those of your who are WordCamp organizers,<br/>you'll appreciate this.</p>
+            <p begin="00:01:28.799" end="00:01:31.019">This is the post which started WordCamp.</p>
+            <p begin="00:01:31.019" end="00:01:33.709">It wasn't called WordCamp San Francisco, <br/>it was just called WordCamp</p>
+            <p begin="00:01:33.709" end="00:01:34.729"> because there was only one.</p>
+            <p begin="00:01:34.729" end="00:01:36.605">But basically a month before, </p>
+            <p begin="00:01:36.935" end="00:01:38.481">posted less than a month before,</p>
+            <p begin="00:01:38.481" end="00:01:40.359">about three and a half weeks before, I said</p>
+            <p begin="00:01:40.359" end="00:01:42.109">We don't have a venue, a schedule... </p>
+            <p begin="00:01:42.109" end="00:01:43.529">(laughter)</p>
+            <p begin="00:01:44.049" end="00:01:44.839">All we have is a date,</p>
+            <p begin="00:01:44.839" end="00:01:46.479">but we'll figure it out between now and then</p>
+            <p begin="00:01:46.689" end="00:01:49.645">and "BarCamp-style" was <br/>code phrase for last minute,</p>
+            <p begin="00:01:50.285" end="00:01:50.951">and we did.</p>
+            <p begin="00:01:50.951" end="00:01:53.639">We came together in a <br/>very cute venue in San Francisco</p>
+            <p begin="00:01:53.639" end="00:01:55.749">called the "Swedish American Music Hall".</p>
+            <p begin="00:01:57.319" end="00:01:59.899">That was it, you could see our A/V system <br/>was very sophisticated then. </p>
+            <p begin="00:02:00.749" end="00:02:03.939">The wire like hanging down<br/>going to a little projector</p>
+            <p begin="00:02:03.939" end="00:02:06.969">We kinda had to bring everything in, <br/>including internet..</p>
+            <p begin="00:02:06.969" end="00:02:09.219"> and you notice the fan in the corner there? </p>
+            <p begin="00:02:09.559" end="00:02:11.639">The A/C system was very sophisticated.</p>
+            <p begin="00:02:11.639" end="00:02:14.999">And the number one complaint though, was<br/>not about the A/V, about the anything</p>
+            <p begin="00:02:14.999" end="00:02:17.019">certainly not about the barbeque, <br/>it was very good,</p>
+            <p begin="00:02:17.399" end="00:02:19.215">it was about the chairs! </p>
+            <p begin="00:02:19.545" end="00:02:21.031">So I hope as you sit in these comfortable chairs,</p>
+            <p begin="00:02:21.031" end="00:02:22.353">that you appreciate it.</p>
+            <p begin="00:02:22.433" end="00:02:23.505">(laughter)</p>
+            <p begin="00:02:24.525" end="00:02:26.252">Over the years, it's really grown. </p>
+            <p begin="00:02:26.252" end="00:02:28.299">We've now been in Mission Bay for 7 years.</p>
+            <p begin="00:02:28.299" end="00:02:30.307">And there's been lots of sunglasses</p>
+            <p begin="00:02:31.317" end="00:02:32.857">lots more sunglasses</p>
+            <p begin="00:02:32.857" end="00:02:33.747">(laughter)</p>
+            <p begin="00:02:34.297" end="00:02:36.087">See that guy right there with sunglasses?</p>
+            <p begin="00:02:36.127" end="00:02:38.867">What is it about WordCamp San Francisco<br/>and sunglasses?</p>
+            <p begin="00:02:38.867" end="00:02:40.975">We even had Google Glasses!</p>
+            <p begin="00:02:40.975" end="00:02:41.783">(laughter)</p>
+            <p begin="00:02:42.623" end="00:02:45.253">We've seen the rise and fall of different platforms</p>
+            <p begin="00:02:45.303" end="00:02:49.146">We've seen the growth and regression of<br/>lead developer's hair...</p>
+            <p begin="00:02:49.256" end="00:02:50.641">(laughter)</p>
+            <p begin="00:02:50.921" end="00:02:53.156">(applause)</p>
+            <p begin="00:02:57.046" end="00:02:58.483">We've gathered around and ate barbeque</p>
+            <p begin="00:02:58.483" end="00:03:01.603">or sometimes salad <br/>as these odd people are doing.</p>
+            <p begin="00:03:02.233" end="00:03:04.673">We've got Comic Sans on stage.</p>
+            <p begin="00:03:05.913" end="00:03:08.243">We even have had robots attend.</p>
+            <p begin="00:03:08.283" end="00:03:10.373">Luckily this year, we have Gary in person.</p>
+            <p begin="00:03:10.373" end="00:03:13.283">I think he's downstairs actually. <br/>Hello Gary, downstairs.</p>
+            <p begin="00:03:13.283" end="00:03:14.593">But we got him in person.</p>
+            <p begin="00:03:14.593" end="00:03:17.629">But all in all, it's been a pretty incredible run.</p>
+            <p begin="00:03:17.889" end="00:03:20.225">7 years now at Mission Bay.</p>
+            <p begin="00:03:20.665" end="00:03:23.703">So, it's bittersweet, and it's with some sadness</p>
+            <p begin="00:03:23.703" end="00:03:26.645">that I tell you that this will be our LAST EVER</p>
+            <p begin="00:03:26.645" end="00:03:27.537">event here.</p>
+            <p begin="00:03:27.687" end="00:03:29.579">(silence)</p>
+            <p begin="00:03:29.909" end="00:03:31.093">We've outgrown it. </p>
+            <p begin="00:03:31.263" end="00:03:33.537">I mean, there was<br/>not an empty seat in this whole house,</p>
+            <p begin="00:03:33.687" end="00:03:35.245">and I expect that downstairs is similarly full.</p>
+            <p begin="00:03:37.063" end="00:03:38.531">But I have something new to announce,</p>
+            <p begin="00:03:38.531" end="00:03:41.101">something we've been talking about on and<br/>off for a few years</p>
+            <p begin="00:03:41.101" end="00:03:43.381">and much like the original WordCamp San Francisco</p>
+            <p begin="00:03:43.381" end="00:03:46.871">it doesn't entirely have a name,<br/>a date, or a place yet.</p>
+            <p begin="00:03:48.331" end="00:03:49.612">Next year we're going to do a WordCamp..</p>
+            <p begin="00:03:49.612" end="00:03:51.913">let's call it US, just as a placeholder.</p>
+            <p begin="00:03:52.733" end="00:03:54.666">So, taking kind of what do in San Francisco</p>
+            <p begin="00:03:54.846" end="00:03:56.626">which has the first WordCamp, </p>
+            <p begin="00:03:57.076" end="00:03:59.146">the WordCamp before we put cities after the name</p>
+            <p begin="00:03:59.266" end="00:04:02.406">and sort of what was pioneered by WordCamp Europe, </p>
+            <p begin="00:04:02.446" end="00:04:05.386">try to do an event that brings people from all over the world together </p>
+            <p begin="00:04:05.606" end="00:04:06.626">and is a bit bigger.</p>
+            <p begin="00:04:06.886" end="00:04:08.612">Again, we're bursting at the seams here. </p>
+            <p begin="00:04:08.662" end="00:04:11.368">Literally I'm glad there's no fire inspectors here. </p>
+            <p begin="00:04:13.266" end="00:04:16.216">I think we can do something that has a <br/>bit more room</p>
+            <p begin="00:04:16.296" end="00:04:17.759">for more presentations,</p>
+            <p begin="00:04:17.829" end="00:04:18.841"> more people, </p>
+            <p begin="00:04:19.041" end="00:04:21.053">more exhibitors, more everything!</p>
+            <p begin="00:04:21.053" end="00:04:22.580">So, we're going to try this </p>
+            <p begin="00:04:22.580" end="00:04:24.457">uh, next year and we'll see how it goes.</p>
+            <p begin="00:04:24.537" end="00:04:25.373">And like it says, </p>
+            <p begin="00:04:25.373" end="00:04:28.639">name, location, and date to be determined.</p>
+            <p begin="00:04:29.629" end="00:04:33.156">One thing that we do every year is talk a little<br/>about the survey.</p>
+            <p begin="00:04:33.266" end="00:04:36.476">And this year, we had over 33,000 responses</p>
+            <p begin="00:04:36.476" end="00:04:38.606">to the survey, which kind of blew me away.</p>
+            <p begin="00:04:39.296" end="00:04:40.636">Again we don't really promote it that much</p>
+            <p begin="00:04:40.636" end="00:04:42.976">we just put a link<br/>at the top of WordPress.org.</p>
+            <p begin="00:04:43.416" end="00:04:45.946">One thing that won't be surprising<br/>to many of you is that</p>
+            <p begin="00:04:46.166" end="00:04:48.096">is very international,<br/>about two-thirds, about</p>
+            <p begin="00:04:48.096" end="00:04:51.326">actually three-quarters<br/>of the survey responses</p>
+            <p begin="00:04:51.326" end="00:04:52.696">were from people outside the US.</p>
+            <p begin="00:04:54.036" end="00:04:56.396">And 2014 was actually a milestone year</p>
+            <p begin="00:04:56.396" end="00:04:58.066">for WordPress in this regard. </p>
+            <p begin="00:04:58.236" end="00:04:59.676">I think that we will look back</p>
+            <p begin="00:04:59.896" end="00:05:01.846">in the decades to come,<br/></p>
+            <p begin="00:05:01.926" end="00:05:03.916">as 2014 the first year</p>
+            <p begin="00:05:03.916" end="00:05:05.536">that non-English downloads<br/></p>
+            <p begin="00:05:05.536" end="00:05:07.176">surpassed English downloads</p>
+            <p begin="00:05:08.226" end="00:05:09.015">for the first time.</p>
+            <p begin="00:05:09.235" end="00:05:10.834">(applause)</p>
+            <p begin="00:05:14.644" end="00:05:17.443">This makes sense, for those of you who were at<br/>Nacin's presentation yesterday.</p>
+            <p begin="00:05:17.443" end="00:05:19.933">He talked about how only 10% of the<br/>world speaks English, and</p>
+            <p begin="00:05:19.933" end="00:05:22.273">only 5% of the world as their first language</p>
+            <p begin="00:05:22.503" end="00:05:23.609">so, over time, </p>
+            <p begin="00:05:24.779" end="00:05:26.127">I really hope that </p>
+            <p begin="00:05:26.257" end="00:05:29.075">the usage of WordPress mirrors that,</p>
+            <p begin="00:05:29.075" end="00:05:31.783">and that someday, when we talk about<br/>internationalization, it won't just be about</p>
+            <p begin="00:05:31.783" end="00:05:34.073">English being translated to other countries</p>
+            <p begin="00:05:34.073" end="00:05:35.976">but figuring out how to take plugins </p>
+            <p begin="00:05:35.976" end="00:05:36.675">in Chinese</p>
+            <p begin="00:05:36.675" end="00:05:37.281">in Russian</p>
+            <p begin="00:05:37.281" end="00:05:37.937">in Japanese.</p>
+            <p begin="00:05:38.167" end="00:05:39.363">and translate them back<br/>to English.</p>
+            <p begin="00:05:40.303" end="00:05:41.373">That's the plan at least.</p>
+            <p begin="00:05:42.213" end="00:05:45.743">One of the things we also talk about a lot<br/>is WordPress usage as a CMS.</p>
+            <p begin="00:05:45.983" end="00:05:48.893">In fact, who here uses WordPress as a CMS?</p>
+            <p begin="00:05:50.047" end="00:05:51.377">Pretty much everyone.</p>
+            <p begin="00:05:51.377" end="00:05:55.017">What you might not know is that's been<br/>declining every year.</p>
+            <p begin="00:05:56.787" end="00:05:58.457">But what's taken its place?</p>
+            <p begin="00:05:58.906" end="00:06:00.969">So it's kinda interesting to see this</p>
+            <p begin="00:06:00.969" end="00:06:03.072">because what has started to eat away</p>
+            <p begin="00:06:03.072" end="00:06:04.786">at people using WordPress<br/>mostly as a CMS, </p>
+            <p begin="00:06:04.786" end="00:06:07.550">so they use as a CMS all the time,</p>
+            <p begin="00:06:07.670" end="00:06:09.248">or about half the time.</p>
+            <p begin="00:06:09.358" end="00:06:11.306">Blog has also been declining.</p>
+            <p begin="00:06:11.356" end="00:06:12.829">But people using it as an app framework<br/></p>
+            <p begin="00:06:12.829" end="00:06:14.492">is starting to take a share away from that.</p>
+            <p begin="00:06:14.632" end="00:06:17.156">So, it is the early days still, but it <br/>is starting to pick up,</p>
+            <p begin="00:06:17.866" end="00:06:20.026">and I'm going to talk about this more<br/>a little bit later.</p>
+            <p begin="00:06:20.106" end="00:06:23.086">Other stat I was really excited about is<br/>now a full quarter of the people</p>
+            <p begin="00:06:23.086" end="00:06:24.543">who answered the survey </p>
+            <p begin="00:06:25.073" end="00:06:26.850">make their full time living from WordPress.</p>
+            <p begin="00:06:27.020" end="00:06:29.797">That was 7,539 people.</p>
+            <p begin="00:06:30.937" end="00:06:31.878">(whistle)</p>
+            <p begin="00:06:31.968" end="00:06:33.069">Yeah right? </p>
+            <p begin="00:06:33.299" end="00:06:37.352">That represents easily over a billion dollars<br/>in economic activity per year.</p>
+            <p begin="00:06:37.392" end="00:06:38.605">That's really amazing,</p>
+            <p begin="00:06:38.605" end="00:06:40.101">That's bigger than the employee counts<br/></p>
+            <p begin="00:06:40.101" end="00:06:42.467">of many of the large internet giants.</p>
+            <p begin="00:06:42.707" end="00:06:44.089">So this really blew me away,</p>
+            <p begin="00:06:44.089" end="00:06:46.621"> and something that I'm extremely proud of.</p>
+            <p begin="00:06:46.871" end="00:06:49.249">Also, sort of speaks to our <br/>responsibility as a community</p>
+            <p begin="00:06:49.419" end="00:06:50.697">That there's now</p>
+            <p begin="00:06:50.717" end="00:06:51.568">you know, </p>
+            <p begin="00:06:51.708" end="00:06:54.419">something 7-8 times the size<br/>of WordCamp San Francisco,</p>
+            <p begin="00:06:54.809" end="00:06:57.052">of people who pay their mortgages<br/>and feed their families</p>
+            <p begin="00:07:00.260" end="00:07:02.780">The good and the bad is<br/>pretty much the same.</p>
+            <p begin="00:06:57.052" end="00:06:59.592">and send their kids to school<br/>with WordPress.</p>
+            <p begin="00:07:02.780" end="00:07:05.150">You guys love that it's easy, plugins, <br/>and community.</p>
+            <p begin="00:07:05.150" end="00:07:06.560">You hate the plugins,</p>
+            <p begin="00:07:06.560" end="00:07:08.650"> the themes, and the updates.</p>
+            <p begin="00:07:08.650" end="00:07:10.090">(laughter)</p>
+            <p begin="00:07:10.740" end="00:07:12.830">These are actually the last three years<br/>of answers.</p>
+            <p begin="00:07:12.830" end="00:07:14.390">Plugins have gotten a little bit better.</p>
+            <p begin="00:07:14.820" end="00:07:16.490">But you still love community.</p>
+            <p begin="00:07:16.820" end="00:07:18.380">We asked how many sites people built</p>
+            <p begin="00:07:18.380" end="00:07:21.510">and actually the survey respondents alone<br/>were responsible for </p>
+            <p begin="00:07:21.510" end="00:07:24.430">somewhere between half a million<br/>and a million sites,</p>
+            <p begin="00:07:24.430" end="00:07:27.770">with only I think it was 6% saying that</p>
+            <p begin="00:07:27.770" end="00:07:30.540">they had only built one site<br/>with WordPress.</p>
+            <p begin="00:07:30.540" end="00:07:32.680">So, WordPress is like<br/>the Pringles of CMS's,</p>
+            <p begin="00:07:32.680" end="00:07:34.997">once you pop you just can't stop.</p>
+            <p begin="00:07:34.997" end="00:07:35.994">(laughter)</p>
+            <p begin="00:07:37.004" end="00:07:39.631">And also, what I thought was cool <br/>was 91% of these sites,</p>
+            <p begin="00:07:39.631" end="00:07:41.731">took less than 200 hours to build.</p>
+            <p begin="00:07:42.550" end="00:07:45.170">So, a lot of these sites that are being <br/>built are much easier</p>
+            <p begin="00:07:45.260" end="00:07:46.846">this isn't a platform where </p>
+            <p begin="00:07:47.016" end="00:07:47.912">you know, </p>
+            <p begin="00:07:47.982" end="00:07:49.590"> it costs a hundred grand to install it</p>
+            <p begin="00:07:49.590" end="00:07:51.500">and then a hundred grand to upgrade it<br/>three years later.</p>
+            <p begin="00:07:51.500" end="00:07:53.360">I mean, it's really something you can get out quickly</p>
+            <p begin="00:07:53.360" end="00:07:55.130">and stay up to date easily.</p>
+            <p begin="00:07:56.313" end="00:07:58.413">Now, those of you know, we also didn't</p>
+            <p begin="00:07:58.413" end="00:08:00.743">do a WordCamp in October last year.</p>
+            <p begin="00:08:00.823" end="00:08:02.093">We did it in July. </p>
+            <p begin="00:08:02.713" end="00:08:04.413">so, since the last WordCamp,</p>
+            <p begin="00:08:04.463" end="00:08:06.983">I didn't believe this when I first saw it either,</p>
+            <p begin="00:08:06.983" end="00:08:10.473">We've had 5 major releases of WordPress.</p>
+            <p begin="00:08:11.123" end="00:08:14.143">(applause)</p>
+            <p begin="00:08:17.693" end="00:08:20.313">Oscar, Basie, Parker, Smith, and Benny.</p>
+            <p begin="00:08:20.589" end="00:08:23.189">Five major releases, now granted, one was<br/>the day after WordCamp.</p>
+            <p begin="00:08:23.429" end="00:08:25.019">So, kinda slipped in there,</p>
+            <p begin="00:08:25.059" end="00:08:27.746">but we have one more, coming in 4.1.</p>
+            <p begin="00:08:28.366" end="00:08:30.006">These releases had a ton of stuff, and</p>
+            <p begin="00:08:30.006" end="00:08:33.506">I didn't really appreciate it until I actually went back, <br/>so I'd like to do that with you all.</p>
+            <p begin="00:08:33.566" end="00:08:36.236">We redid the revisions UI, in 3.6</p>
+            <p begin="00:08:36.236" end="00:08:38.316">We introduced a better post locking,</p>
+            <p begin="00:08:38.316" end="00:08:40.276">and the Twenty Thirteen Theme.</p>
+            <p begin="00:08:40.466" end="00:08:41.862">3.7 we had auto-updates,</p>
+            <p begin="00:08:41.862" end="00:08:44.828">which is one of the most significant<br/>features we've introduced</p>
+            <p begin="00:08:44.828" end="00:08:46.246">in the past four or five years.</p>
+            <p begin="00:08:46.246" end="00:08:48.745">Made passwords better, and <br/>improved global stuff.</p>
+            <p begin="00:08:48.745" end="00:08:52.063">3.8 which I actually personally led, was<br/>chock full of things,</p>
+            <p begin="00:08:52.063" end="00:08:53.565">We had the Twenty Fourteen theme,</p>
+            <p begin="00:08:53.565" end="00:08:55.129">Colour Schemes for the first time,</p>
+            <p begin="00:08:55.129" end="00:08:56.693">a new theme browser,</p>
+            <p begin="00:08:56.693" end="00:08:57.913">the MP6 redesign,</p>
+            <p begin="00:08:57.913" end="00:08:59.613">and for the first time in history we made</p>
+            <p begin="00:08:59.613" end="00:09:01.293">WordPress's admin fully responsive.</p>
+            <p begin="00:09:01.293" end="00:09:04.373">So it worked on tablets and phones.</p>
+            <p begin="00:09:04.453" end="00:09:06.223">(applause)</p>
+            <p begin="00:09:08.683" end="00:09:09.676">I was really into that,</p>
+            <p begin="00:09:09.756" end="00:09:12.589">I was like hell or high water, <br/>we're going to get this in.</p>
+            <p begin="00:09:12.799" end="00:09:14.543">3.9 we focused a lot on the WYSIWYG,</p>
+            <p begin="00:09:14.543" end="00:09:16.363">we got drag and drop images in there,</p>
+            <p begin="00:09:16.363" end="00:09:18.373">previews of the galleries, </p>
+            <p begin="00:09:18.373" end="00:09:21.063">and overall just allowing you<br/>to edit images</p>
+            <p begin="00:09:21.063" end="00:09:21.970">a lot better.</p>
+            <p begin="00:09:21.970" end="00:09:23.880">And finally with 4.0, our most recent,</p>
+            <p begin="00:09:23.880" end="00:09:25.550">we redid the media library,</p>
+            <p begin="00:09:25.550" end="00:09:26.800">had rich embeds,</p>
+            <p begin="00:09:26.800" end="00:09:29.590">the new plugin browser, <br/>which I'm a huge fan of,</p>
+            <p begin="00:09:29.590" end="00:09:31.130">and the improvements to the editor,</p>
+            <p begin="00:09:31.130" end="00:09:34.480">which made it, in my opinion, <br/>much easier to write long posts.</p>
+            <p begin="00:09:34.480" end="00:09:37.160">I've actually been on a personal quest where</p>
+            <p begin="00:09:37.160" end="00:09:38.960">I had a 39-day streak, </p>
+            <p begin="00:09:39.060" end="00:09:40.810">I posted every single day,</p>
+            <p begin="00:09:41.680" end="00:09:43.056">I'm on new one now,</p>
+            <p begin="00:09:43.156" end="00:09:45.172"> I had like 12 days,<br/>yesterday I missed it so</p>
+            <p begin="00:09:45.242" end="00:09:46.784">So I'll start again tomorrow. </p>
+            <p begin="00:09:46.784" end="00:09:47.776">But, it's kinda neat.</p>
+            <p begin="00:09:47.806" end="00:09:49.880">And actually if you run Jetpack or<br/>WordPress.com, </p>
+            <p begin="00:09:50.010" end="00:09:51.700">you now get a notification for how many days you</p>
+            <p begin="00:09:51.700" end="00:09:53.160">have a posting streak for.</p>
+            <p begin="00:09:53.160" end="00:09:55.380">Which is kind of a fun feature<br/>if any of you</p>
+            <p begin="00:09:55.380" end="00:09:57.297">would like to try to beat my 39.</p>
+            <p begin="00:09:57.857" end="00:09:59.587">I saw Tony here somewhere, Tony is working</p>
+            <p begin="00:09:59.587" end="00:10:01.577">on it as well. He's doing a month of blogging.</p>
+            <p begin="00:10:02.447" end="00:10:03.637">(screen cuts out briefly)</p>
+            <p begin="00:10:04.087" end="00:10:05.073">There we go! </p>
+            <p begin="00:10:06.063" end="00:10:07.857">I was like aww, please<br/>not another fire alarm.</p>
+            <p begin="00:10:08.167" end="00:10:09.511">(laughter)</p>
+            <p begin="00:10:10.271" end="00:10:12.376">You guys are just so hot.</p>
+            <p begin="00:10:12.643" end="00:10:14.643">Tore the building up.</p>
+            <p begin="00:10:15.608" end="00:10:18.358">Besides myself we had seven release leads.</p>
+            <p begin="00:10:18.708" end="00:10:20.038">And actually, a few of them are here in the room.</p>
+            <p begin="00:10:20.158" end="00:10:22.518">So, John, Aaron, Mark, Dion, Helen, Mike, Andrew</p>
+            <p begin="00:10:22.728" end="00:10:23.768">can you stand up?</p>
+            <p begin="00:10:25.567" end="00:10:30.813">There we go. We got Mark there, there's Aaron,</p>
+            <p begin="00:10:30.813" end="00:10:34.310">Oh, Helen right over there!</p>
+            <p begin="00:10:34.710" end="00:10:36.427">(applause)</p>
+            <p begin="00:10:39.357" end="00:10:41.465">Being a release lead is VERY difficult, </p>
+            <p begin="00:10:41.595" end="00:10:42.815">I'm sure all of these folks can attest.</p>
+            <p begin="00:10:43.055" end="00:10:46.045">And it's something that <br/>we've even had people do twice</p>
+            <p begin="00:10:46.065" end="00:10:48.515">Andy on this list did it twice in this period.</p>
+            <p begin="00:10:48.875" end="00:10:52.305">We also have had a variety of new<br/>contributors to WordPress</p>
+            <p begin="00:10:52.305" end="00:10:54.015">in a variety of ways.</p>
+            <p begin="00:10:54.095" end="00:10:56.305">When I say your name, please stand up if<br/>you're here.</p>
+            <p begin="00:10:56.305" end="00:10:58.372">Rachel and Ryan have been working on<br/>the API</p>
+            <p begin="00:10:58.482" end="00:11:00.152">Janneke on WYSIWYG,</p>
+            <p begin="00:11:00.457" end="00:11:01.467">Eric on media,</p>
+            <p begin="00:11:01.517" end="00:11:02.867">Mel on design,</p>
+            <p begin="00:11:02.957" end="00:11:05.187">Takashi is now designing TWO primary themes,</p>
+            <p begin="00:11:05.257" end="00:11:08.137">and then Weston on customizer,</p>
+            <p begin="00:11:08.157" end="00:11:08.940">and finally Kim on docs,</p>
+            <p begin="00:11:09.343" end="00:11:10.877">if you're all here please stand up. </p>
+            <p begin="00:11:10.947" end="00:11:12.410">Round of applause for y'all. </p>
+            <p begin="00:11:12.520" end="00:11:14.293">(crowd cheering)</p>
+            <p begin="00:11:21.303" end="00:11:23.234">Weston, I was liking your tweets <br/>about the API too,</p>
+            <p begin="00:11:23.264" end="00:11:24.655">and the node stuff.</p>
+            <p begin="00:11:25.385" end="00:11:27.876">Also finally this year we added <br/>5 new committers</p>
+            <p begin="00:11:28.946" end="00:11:31.196">Konstantin, Boone, Gary, Jeremy, and Aaron</p>
+            <p begin="00:11:31.476" end="00:11:32.586">They all here?</p>
+            <p begin="00:11:33.292" end="00:11:34.515">Put your hands in the air, </p>
+            <p begin="00:11:34.715" end="00:11:35.664">wave 'em like you just don't care.. </p>
+            <p begin="00:11:35.684" end="00:11:36.443">WHOAAA!!!</p>
+            <p begin="00:11:36.613" end="00:11:38.375">How are you hiding down there?</p>
+            <p begin="00:11:38.445" end="00:11:40.207">(applause)</p>
+            <p begin="00:11:43.787" end="00:11:47.242">I can confirm that we're going to let<br/>Gary out of the cage soon.</p>
+            <p begin="00:11:47.402" end="00:11:48.417">(laughter)</p>
+            <p begin="00:11:48.867" end="00:11:50.044">He's been in there for..</p>
+            <p begin="00:11:50.124" end="00:11:51.544">also, if you notice this,</p>
+            <p begin="00:11:53.023" end="00:11:54.753">We have about half looking left, </p>
+            <p begin="00:11:54.823" end="00:11:56.043">half looking right...</p>
+            <p begin="00:11:56.183" end="00:11:57.763">And then Andy is just straight on.</p>
+            <p begin="00:11:57.813" end="00:11:59.683">Staring right into your soul.</p>
+            <p begin="00:12:01.408" end="00:12:03.428">Kim is the only one<br/>looking fully forward there.</p>
+            <p begin="00:12:03.568" end="00:12:04.968">So I think that means she's the new Andy.</p>
+            <p begin="00:12:06.028" end="00:12:09.118">But here, kinda everyone <br/>is looking right at the camera.</p>
+            <p begin="00:12:09.168" end="00:12:11.196">So maybe there's something there,<br/>that's the trick to getting commits.</p>
+            <p begin="00:12:11.286" end="00:12:12.474">(laughter)</p>
+            <p begin="00:12:13.744" end="00:12:14.823">Update your Gravatar.</p>
+            <p begin="00:12:16.080" end="00:12:22.157">All in all, we had 785 contributors<br/>over those five releases.</p>
+            <p begin="00:12:25.587" end="00:12:27.384">(applause)</p>
+            <p begin="00:12:31.724" end="00:12:33.793">Including one that we bamboozled,<br/></p>
+            <p begin="00:12:33.843" end="00:12:35.352">into leading another release.</p>
+            <p begin="00:12:35.432" end="00:12:36.732">John are you here?</p>
+            <p begin="00:12:37.642" end="00:12:38.669">Hey John.</p>
+            <p begin="00:12:38.749" end="00:12:40.446">(applause)</p>
+            <p begin="00:12:45.296" end="00:12:47.448">John will be leading release version 4.1, </p>
+            <p begin="00:12:47.548" end="00:12:49.630">which is actually coming out on December 10th.</p>
+            <p begin="00:12:49.710" end="00:12:51.753">So, thank you very much.</p>
+            <p begin="00:12:51.803" end="00:12:53.463">Other big thing over the past few years,</p>
+            <p begin="00:12:53.463" end="00:12:55.403">is that the usage of WordPress has grown a ton.</p>
+            <p begin="00:12:55.403" end="00:12:59.233">We now power over 23% of websites.</p>
+            <p begin="00:13:00.723" end="00:13:02.433">(applause)</p>
+            <p begin="00:13:05.833" end="00:13:07.233">To put that in perspective,</p>
+            <p begin="00:13:07.453" end="00:13:11.739">from 2013-2014, we grew the equivalent <br/>of two Drupal market shares.</p>
+            <p begin="00:13:11.889" end="00:13:13.295">(laughter)</p>
+            <p begin="00:13:18.055" end="00:13:19.741">Activity across the board was up, </p>
+            <p begin="00:13:19.741" end="00:13:21.247">plugins were a huge boost,</p>
+            <p begin="00:13:21.407" end="00:13:26.643">We had over 6,400 added <br/>for a total of 34,000 plugins in the repository.</p>
+            <p begin="00:13:26.963" end="00:13:29.493">In activity we reached 1 million commits,</p>
+            <p begin="00:13:29.673" end="00:13:32.853">Actually have brought you <br/>the millionth commit here</p>
+            <p begin="00:13:32.973" end="00:13:36.406">Otto decided to make a Pluginception.<br/></p>
+            <p begin="00:13:36.526" end="00:13:38.239">Thought that was a very clever name</p>
+            <p begin="00:13:38.279" end="00:13:40.313">We're going to have to talk about<br/>that donate link though.</p>
+            <p begin="00:13:40.313" end="00:13:42.803">But this was the millionth commit <br/>that we had, it was a fun joke.</p>
+            <p begin="00:13:42.883" end="00:13:46.353">I love our funny commits, like Helen's song <br/>and things like that.</p>
+            <p begin="00:13:46.403" end="00:13:47.363">We get some good ones in there.</p>
+            <p begin="00:13:47.423" end="00:13:49.053">Themes also were huge </p>
+            <p begin="00:13:49.113" end="00:13:52.073">and this is a real testament<br/>to the work of the Theme Review Team.</p>
+            <p begin="00:13:52.343" end="00:13:55.059">We had over 684 Themes added<br/></p>
+            <p begin="00:13:55.199" end="00:13:57.425">Think about that, that's 2 a day</p>
+            <p begin="00:13:57.805" end="00:13:59.824">And in terms of theme commits, </p>
+            <p begin="00:13:59.874" end="00:14:01.453">we had over 10,000 commits</p>
+            <p begin="00:14:01.453" end="00:14:03.806">In fact, a full third of all the commits </p>
+            <p begin="00:14:04.006" end="00:14:05.269">to themes in history</p>
+            <p begin="00:14:05.269" end="00:14:07.113">happened within the last 12 months</p>
+            <p begin="00:14:07.363" end="00:14:09.933">So a round of applause for our <br/>Theme Review Team and folks there</p>
+            <p begin="00:14:09.933" end="00:14:13.933">(Applause)</p>
+            <p begin="00:14:16.668" end="00:14:18.278">We didn't slack on the mobile apps either. </p>
+            <p begin="00:14:18.278" end="00:14:19.778">And especially on iOS</p>
+            <p begin="00:14:19.778" end="00:14:22.558">We went from 3 releases a year to 8 releases</p>
+            <p begin="00:14:22.558" end="00:14:23.638">in the past 12 months</p>
+            <p begin="00:14:23.638" end="00:14:25.908">for 16 total across Android and iOS</p>
+            <p begin="00:14:26.588" end="00:14:28.228">We focused a lot on these</p>
+            <p begin="00:14:28.228" end="00:14:30.628">We've improved the stability, the release cadance</p>
+            <p begin="00:14:30.628" end="00:14:34.288">And also we stopped spending so much time in some of the older platforms</p>
+            <p begin="00:14:35.238" end="00:14:37.328">There's no longer an official Nokia app</p>
+            <p begin="00:14:37.388" end="00:14:38.964">or Blackberry app</p>
+            <p begin="00:14:38.984" end="00:14:40.560"> or Windows Phone app.</p>
+            <p begin="00:14:40.720" end="00:14:44.008">Sorry, both of the Windows Phone users.</p>
+            <p begin="00:14:44.098" end="00:14:45.988">(Audience Laughs)</p>
+            <p begin="00:14:46.705" end="00:14:49.915">Actually in our stats there's 30 people <br/>still running the Nokia one</p>
+            <p begin="00:14:49.985" end="00:14:51.905">I don't know who those 30 people are, but...</p>
+            <p begin="00:14:52.495" end="00:14:53.355">This is a big deal.</p>
+            <p begin="00:14:53.375" end="00:14:56.085">Obviously, I don't think many people would argue </p>
+            <p begin="00:14:56.085" end="00:14:58.285">that there are going to be <br/>more phones in the future</p>
+            <p begin="00:14:58.285" end="00:14:59.185">rather than fewer</p>
+            <p begin="00:14:59.185" end="00:15:01.725">In fact, this year another cool milestone, </p>
+            <p begin="00:15:01.725" end="00:15:06.885">there are now more mobile phones on Earth <br/>than there are human beings</p>
+            <p begin="00:15:08.035" end="00:15:09.765">Beginning of the Singularity</p>
+            <p begin="00:15:12.955" end="00:15:15.005">The attention we've put into <br/>mobile is very, very important</p>
+            <p begin="00:15:15.075" end="00:15:17.615">That, I think, will continue <br/>to be a very strong theme</p>
+            <p begin="00:15:18.105" end="00:15:19.905">Also, finally, following up from last year.</p>
+            <p begin="00:15:19.905" end="00:15:22.175">You know, on stage, on this very stage last year </p>
+            <p begin="00:15:22.175" end="00:15:24.835">we announced developer.wordpress.org <br/>with the code reference</p>
+            <p begin="00:15:24.955" end="00:15:28.795">I'm proud to say some time between <br/>then and now it launched.</p>
+            <p begin="00:15:29.565" end="00:15:31.475">Wasn't that week like we hoped, but now</p>
+            <p begin="00:15:31.475" end="00:15:34.825">if you type in developer.wordpress.org <br/>it'll redirect you to this</p>
+            <p begin="00:15:34.825" end="00:15:37.305">and you can now have a great code reference.</p>
+            <p begin="00:15:38.285" end="00:15:39.805">But y'all didn't come to know all that</p>
+            <p begin="00:15:39.805" end="00:15:42.305">you came to know what's coming next.</p>
+            <p begin="00:15:43.375" end="00:15:46.728">So here, actually, right now here at WordCamp </p>
+            <p begin="00:15:46.788" end="00:15:49.911">we have over 100 Meetup <br/>and WordCamp organizers</p>
+            <p begin="00:15:50.291" end="00:15:52.715">Please stand up if you organize<br/>a WordCamp or a Meetup.</p>
+            <p begin="00:15:52.955" end="00:15:53.985">Or ideally both</p>
+            <p begin="00:15:54.938" end="00:15:56.668">Look around this room.</p>
+            <p begin="00:15:56.995" end="00:15:59.895">(Audience applause)</p>
+            <p begin="00:16:02.515" end="00:16:04.525">Stay up, stay up, stay up.</p>
+            <p begin="00:16:06.894" end="00:16:09.730">Organizing a Meetup is one <br/>of the hardest things to do</p>
+            <p begin="00:16:09.730" end="00:16:11.106">in terms of contributing to WordPress</p>
+            <p begin="00:16:11.386" end="00:16:13.714">Every single month you have <br/>gotta come up with new stuff.</p>
+            <p begin="00:16:13.774" end="00:16:17.314">It is, I'm sure you can all attest to that, like it's not the easiest job in the World, </p>
+            <p begin="00:16:17.314" end="00:16:18.914">but I think it is one of the most impactful.</p>
+            <p begin="00:16:18.914" end="00:16:21.724">Because these monthly things that bring the community together</p>
+            <p begin="00:16:21.724" end="00:16:24.964">As we saw on the list, community <br/>is one of the most important things</p>
+            <p begin="00:16:24.964" end="00:16:26.824">So I want to personally thank <br/>each and every one of you</p>
+            <p begin="00:16:26.824" end="00:16:28.824">I really appreciate it.</p>
+            <p begin="00:16:28.960" end="00:16:30.870">(Audience applause)</p>
+            <p begin="00:16:35.092" end="00:16:38.212">Obviously, there's, <br/>100 Meetup organizers here</p>
+            <p begin="00:16:38.212" end="00:16:39.742">Over 100 rather</p>
+            <p begin="00:16:39.742" end="00:16:42.082">They're representing 21 countries </p>
+            <p begin="00:16:42.082" end="00:16:43.872">Here at WordCamp San Francisco</p>
+            <p begin="00:16:43.872" end="00:16:47.802">International has been a really big theme <br/>of both our previous releases</p>
+            <p begin="00:16:47.802" end="00:16:49.022">and what's coming.</p>
+            <p begin="00:16:49.202" end="00:16:52.442">Now, there's a lot of different ways to think about Internationalization.</p>
+            <p begin="00:16:52.642" end="00:16:54.902">Of course there's language, <br/>but there's also things like</p>
+            <p begin="00:16:55.362" end="00:16:56.448">the Time Zones, </p>
+            <p begin="00:16:56.628" end="00:16:57.762">the date formats</p>
+            <p begin="00:16:58.022" end="00:16:59.416"> and the settings</p>
+            <p begin="00:16:59.416" end="00:17:00.812">which right now are kinda a per-site thing</p>
+            <p begin="00:17:01.192" end="00:17:03.772">and you set them on install,<br/>it's hard to change them later.</p>
+            <p begin="00:17:03.772" end="00:17:05.372">Are going to become a lot more personal</p>
+            <p begin="00:17:05.452" end="00:17:07.562">So, I think there will be a time in the future when</p>
+            <p begin="00:17:07.652" end="00:17:09.642">some of these might even be per user</p>
+            <p begin="00:17:09.642" end="00:17:12.682">And we have to tackle all the things that <br/>Andy talked about in his presentation</p>
+            <p begin="00:17:12.682" end="00:17:13.572">around Internationalization. </p>
+            <p begin="00:17:13.682" end="00:17:15.412">About what to do if someone leaves a comment</p>
+            <p begin="00:17:16.142" end="00:17:17.872">in Japanese and then <br/>I get the comment notification.</p>
+            <p begin="00:17:18.052" end="00:17:19.532">I should get that in English</p>
+            <p begin="00:17:19.852" end="00:17:22.202">So things like that are really important.</p>
+            <p begin="00:17:22.342" end="00:17:24.182">One of the things that <br/>I am excited to announce is that</p>
+            <p begin="00:17:24.182" end="00:17:26.392">we have been in testing with language packs</p>
+            <p begin="00:17:26.392" end="00:17:29.072">for a few of our key plugins: <br/>BBPress, BuddyPress, Akismet</p>
+            <p begin="00:17:29.372" end="00:17:31.662">We're going to be expanding that in early 2015.</p>
+            <p begin="00:17:32.022" end="00:17:33.515">So the promise of language packs, </p>
+            <p begin="00:17:33.875" end="00:17:35.728">those of you who are not familiar yet,</p>
+            <p begin="00:17:35.728" end="00:17:37.582">the idea that if you're a plugin or theme author</p>
+            <p begin="00:17:38.312" end="00:17:40.912">your theme or plugin can both be translated </p>
+            <p begin="00:17:40.982" end="00:17:44.912">and also have the description and everything <br/>translated into lots of different languages</p>
+            <p begin="00:17:44.912" end="00:17:47.722">without you necessarily having <br/>to speak those languages</p>
+            <p begin="00:17:47.722" end="00:17:50.392">or be a bottleneck for them,<br/>is finally coming to fruition</p>
+            <p begin="00:17:50.392" end="00:17:51.892">We've been doing a ton of work</p>
+            <p begin="00:17:51.892" end="00:17:53.402">This is a lot of behind-the-scenes stuff.</p>
+            <p begin="00:17:53.402" end="00:17:56.922">But, I think it's going to be one of the most impactful for WordPress' growth</p>
+            <p begin="00:17:56.922" end="00:17:58.332">over the next decade</p>
+            <p begin="00:17:58.632" end="00:18:01.562">Which is also why I'm excited to finally announce</p>
+            <p begin="00:18:02.882" end="00:18:05.562">That we're going to have a fully localized Plugin and Theme directory</p>
+            <p begin="00:18:05.622" end="00:18:09.252">on all of the language subdomains and on December 10th</p>
+            <p begin="00:18:09.252" end="00:18:11.302">in WordPress 4.1 on the dashboard</p>
+            <p begin="00:18:12.062" end="00:18:13.202">(Audience applause)</p>
+            <p begin="00:18:19.460" end="00:18:22.130">What this means is that you'll be able<br/>to go to your dashboard</p>
+            <p begin="00:18:22.130" end="00:18:23.650">Let's say you installed in Spanish</p>
+            <p begin="00:18:23.650" end="00:18:26.120">You'll be able to type whatever you're looking for</p>
+            <p begin="00:18:26.120" end="00:18:28.570">You'll be able to type "anti-spam" in Spanish.</p>
+            <p begin="00:18:28.570" end="00:18:31.540">I don't know how to say that. <br/>Does anyone...Spanish?</p>
+            <p begin="00:18:32.040" end="00:18:34.400">"Anti-spamo?" I don't think so.</p>
+            <p begin="00:18:34.639" end="00:18:36.509">(Laughter)</p>
+            <p begin="00:18:38.989" end="00:18:40.539">We'll work on that one.</p>
+            <p begin="00:18:42.159" end="00:18:45.209">And you'll be able to get a list of all the plugins<br/>that have that available.</p>
+            <p begin="00:18:45.209" end="00:18:47.619">And all the descriptions will be translated.</p>
+            <p begin="00:18:47.619" end="00:18:50.209">There will be local reviews, <br/>there will be local support forums</p>
+            <p begin="00:18:50.209" end="00:18:52.239">Basically, everything that you've come to expect </p>
+            <p begin="00:18:52.239" end="00:18:55.089">from the English wordpress.org will be available</p>
+            <p begin="00:18:55.089" end="00:18:57.749">This is actually really fascinating to me, <br/>because if you look at it</p>
+            <p begin="00:18:57.749" end="00:19:00.889">One of the amazing reasons that people adopt WordPress today</p>
+            <p begin="00:19:00.889" end="00:19:03.809">is the 34,000 Plugins and thousands of Themes </p>
+            <p begin="00:19:03.809" end="00:19:07.809">But these don't exist if English is not your primary language for the most part</p>
+            <p begin="00:19:08.539" end="00:19:11.109">There's for example, the Plugin Directory doesn't translate descriptions</p>
+            <p begin="00:19:11.319" end="00:19:15.589">So you have to -- maybe you can find it <br/>and it'll include a language</p>
+            <p begin="00:19:15.589" end="00:19:18.729">so it'll work in your locale --- <br/>but even the discovery process</p>
+            <p begin="00:19:18.729" end="00:19:22.579">is hugely prohibitive to people.</p>
+            <p begin="00:19:22.579" end="00:19:25.479">And if WordPress is gonna be a global and truly inclusive,</p>
+            <p begin="00:19:25.479" end="00:19:28.299">It means it's not just available<br/>to people in English</p>
+            <p begin="00:19:28.299" end="00:19:32.299">It means that the other 95% of the world for whom<br/>English is not their first language</p>
+            <p begin="00:19:32.299" end="00:19:35.499">Is just as important to have an amazing experience.</p>
+            <p begin="00:19:35.499" end="00:19:37.129">So, keep an eye out for that. </p>
+            <p begin="00:19:37.759" end="00:19:39.043">I think that it will..... </p>
+            <p begin="00:19:39.453" end="00:19:43.574">Well, it's kinda interesting now that we're having sort of these anchor WordCamps</p>
+            <p begin="00:19:43.574" end="00:19:44.664">You know there'll be one in Europe</p>
+            <p begin="00:19:44.664" end="00:19:45.634">One in America</p>
+            <p begin="00:19:45.640" end="00:19:48.240">I imagine there'll be ones in Asia <br/>and Africa in the future.</p>
+            <p begin="00:19:48.310" end="00:19:49.662">Sort of pancontinental</p>
+            <p begin="00:19:49.772" end="00:19:52.549">and we'll have these 3 or 4 events per year. </p>
+            <p begin="00:19:52.549" end="00:19:55.009">and each one I could see kind of having its own thing.</p>
+            <p begin="00:19:55.104" end="00:19:56.424">Meaning, like it's own set of contributors,</p>
+            <p begin="00:19:56.454" end="00:19:57.349">own set of core committers,</p>
+            <p begin="00:19:57.349" end="00:19:58.689">own set of plugin developers</p>
+            <p begin="00:20:00.250" end="00:20:01.720">We have the potential</p>
+            <p begin="00:20:01.720" end="00:20:02.620">doing things from the web</p>
+            <p begin="00:20:02.620" end="00:20:05.730">for WordPress to be a truly global experience.</p>
+            <p begin="00:20:06.020" end="00:20:07.650">Related to all the work we've been doing on</p>
+            <p begin="00:20:07.710" end="00:20:08.660">plugins and themes,</p>
+            <p begin="00:20:08.660" end="00:20:10.180">I know we have a few plugin and theme authors</p>
+            <p begin="00:20:10.180" end="00:20:11.630">here in the audience.</p>
+            <p begin="00:20:11.630" end="00:20:13.240">We're finally going to be adding</p>
+            <p begin="00:20:13.240" end="00:20:14.270">better stats for y'all.</p>
+            <p begin="00:20:14.969" end="00:20:17.559">(applause)</p>
+            <p begin="00:20:18.903" end="00:20:19.963">(Ton Ton Ton......)</p>
+            <p begin="00:20:19.963" end="00:20:20.473">Maybe not!</p>
+            <p begin="00:20:20.583" end="00:20:21.683">Ok there it is!</p>
+            <p begin="00:20:22.126" end="00:20:23.766">It's like, maybe we're not?!</p>
+            <p begin="00:20:25.031" end="00:20:27.391">This is actually being actively worked on right now. </p>
+            <p begin="00:20:29.659" end="00:20:32.724">We've been doing a cleanup <br/>of our entire stats system</p>
+            <p begin="00:20:32.724" end="00:20:33.522">And actually we've been finding some</p>
+            <p begin="00:20:33.522" end="00:20:35.752">pretty interesting data about it.</p>
+            <p begin="00:20:35.752" end="00:20:37.542">Which brings us to what I'd like to highlight </p>
+            <p begin="00:20:37.542" end="00:20:39.862">as one of the biggest challenges <br/>in the WordPress world.</p>
+            <p begin="00:20:39.882" end="00:20:41.872">Today and going forward.</p>
+            <p begin="00:20:43.461" end="00:20:44.581">This is a pie chart</p>
+            <p begin="00:20:44.581" end="00:20:47.591">of the different versions of WordPress.</p>
+            <p begin="00:20:47.591" end="00:20:48.531">And as you can see,</p>
+            <p begin="00:20:48.531" end="00:20:51.681">Only about 25% is on our latest release 4.0.</p>
+            <p begin="00:20:51.681" end="00:20:55.691">Now I should say that this is infinitely better than it was before.</p>
+            <p begin="00:20:55.691" end="00:20:58.511">It used to be we basically only get new installs</p>
+            <p begin="00:20:58.511" end="00:21:00.541">in a very small percentage of all installs upgrading.</p>
+            <p begin="00:21:00.541" end="00:21:01.941">People would basically do one click</p>
+            <p begin="00:21:01.958" end="00:21:03.698">and be stuck on it forever.</p>
+            <p begin="00:21:04.538" end="00:21:06.338">But still, as you can see there's</p>
+            <p begin="00:21:06.338" end="00:21:10.908">I mean, there's a full third that still doesn't have the full mp6 redesign yet.</p>
+            <p begin="00:21:11.068" end="00:21:12.128">I feel bad for those people!</p>
+            <p begin="00:21:12.378" end="00:21:13.198">(laughter)</p>
+            <p begin="00:21:13.698" end="00:21:14.798">So working on this </p>
+            <p begin="00:21:14.798" end="00:21:16.418">is one of the most important things</p>
+            <p begin="00:21:16.418" end="00:21:17.818">we're gonna be able to do. </p>
+            <p begin="00:21:17.818" end="00:21:19.881">And actually, we have a lot of partners</p>
+            <p begin="00:21:19.881" end="00:21:21.425">and sponsors to WordCamp San Francisco here</p>
+            <p begin="00:21:21.535" end="00:21:24.395">that we're gonna be working <br/>with to help us with this</p>
+            <p begin="00:21:24.395" end="00:21:25.325">and that's the web post.</p>
+            <p begin="00:21:25.395" end="00:21:26.775">As you know, a lot of major web posts</p>
+            <p begin="00:21:26.775" end="00:21:29.805">have introduced auto major version upgrades</p>
+            <p begin="00:21:29.915" end="00:21:31.675">So meaning that, you know,</p>
+            <p begin="00:21:31.675" end="00:21:33.995">you can be on the beach in Jamaica</p>
+            <p begin="00:21:34.095" end="00:21:36.985">and even if major release of WordPress comes out,</p>
+            <p begin="00:21:37.135" end="00:21:39.275">you will be upgraded when you get back.</p>
+            <p begin="00:21:39.305" end="00:21:42.065">This is really, really important 'cos when you think about it,</p>
+            <p begin="00:21:42.735" end="00:21:45.885">even the whole concept of the version numbers that we have is a little bit archaic</p>
+            <p begin="00:21:45.915" end="00:21:48.615">It kinda goes back to the days <br/>of Shrink Wrap Software.</p>
+            <p begin="00:21:48.975" end="00:21:52.155">When you login to Facebook or Twitter,</p>
+            <p begin="00:21:52.155" end="00:21:53.265">or for that matter,</p>
+            <p begin="00:21:53.265" end="00:21:55.745">when you login to, you know, Squarespace</p>
+            <p begin="00:21:55.745" end="00:21:56.875">or Wiggio or Wix, </p>
+            <p begin="00:21:56.875" end="00:21:58.805">you don't think what version you're using.</p>
+            <p begin="00:21:58.805" end="00:21:59.555">Actually I take that back</p>
+            <p begin="00:21:59.555" end="00:22:00.565">With Squarespace you do,</p>
+            <p begin="00:22:00.615" end="00:22:01.575">but with others you don't!</p>
+            <p begin="00:22:01.655" end="00:22:02.755">(laughter)</p>
+            <p begin="00:22:02.755" end="00:22:04.095">They don't even really talk about versions</p>
+            <p begin="00:22:04.095" end="00:22:05.085">You just get that day's version.</p>
+            <p begin="00:22:05.085" end="00:22:09.365">You get October 26th's version of whatever software you're using.</p>
+            <p begin="00:22:09.465" end="00:22:12.115">And that is our goal for WordPress as well.</p>
+            <p begin="00:22:12.265" end="00:22:15.435">You know, as you saw updates as one of the things <br/>that people weren't happy about</p>
+            <p begin="00:22:15.645" end="00:22:18.765">Our vision is to have kinda like Chrome. </p>
+            <p begin="00:22:18.765" end="00:22:20.410">You know, where you just login </p>
+            <p begin="00:22:20.410" end="00:22:22.380">and just in the background it silently</p>
+            <p begin="00:22:22.380" end="00:22:24.040">All updated, all your plugins work,</p>
+            <p begin="00:22:24.110" end="00:22:25.690"> everything works, nothing breaks.</p>
+            <p begin="00:22:26.230" end="00:22:28.290">And the host have been the pioneers of this.</p>
+            <p begin="00:22:29.490" end="00:22:31.340">So already I know for a fact </p>
+            <p begin="00:22:31.420" end="00:22:33.350">GoDaddy, Bluehost and a few others</p>
+            <p begin="00:22:33.350" end="00:22:34.920">have been autoupgrading people.</p>
+            <p begin="00:22:35.820" end="00:22:37.590">We're gonna start another way of better stats</p>
+            <p begin="00:22:37.590" end="00:22:39.340">Start working with lists with these folks.</p>
+            <p begin="00:22:39.394" end="00:22:40.544">And so here are the sites </p>
+            <p begin="00:22:40.583" end="00:22:42.133">that are on older versions</p>
+            <p begin="00:22:42.545" end="00:22:44.135">Can you use your support resources?</p>
+            <p begin="00:22:44.169" end="00:22:46.569">Or your direct contact you have over these customers?</p>
+            <p begin="00:22:46.635" end="00:22:48.645">to help them get on with the latest and greatest</p>
+            <p begin="00:22:48.680" end="00:22:49.570">Benefits everyone.</p>
+            <p begin="00:22:49.608" end="00:22:50.418">Benefits WordPress.</p>
+            <p begin="00:22:50.821" end="00:22:52.713">because they're seeing all the new cool stuff</p>
+            <p begin="00:22:52.713" end="00:22:53.873">we've been working on.</p>
+            <p begin="00:22:55.027" end="00:22:55.937">Even if it's the platform</p>
+            <p begin="00:22:55.990" end="00:22:57.630">because they're not comparing </p>
+            <p begin="00:22:57.630" end="00:22:59.000">a 4-year old version of WordPress </p>
+            <p begin="00:22:59.000" end="00:23:01.110">to today's version of Squarespace.</p>
+            <p begin="00:23:01.220" end="00:23:03.360">Benefits the host because these old versions </p>
+            <p begin="00:23:03.360" end="00:23:04.510">are ticking time bombs.</p>
+            <p begin="00:23:04.899" end="00:23:05.549">You know,</p>
+            <p begin="00:23:05.649" end="00:23:07.159">You don't update software on the internet</p>
+            <p begin="00:23:07.159" end="00:23:08.799">pretty soon something will happen to it.</p>
+            <p begin="00:23:08.799" end="00:23:09.459">It will get hacked,</p>
+            <p begin="00:23:09.459" end="00:23:10.899">the plugin will get out of date, something like that.</p>
+            <p begin="00:23:10.899" end="00:23:13.969">And so these hosts being on the <br/>latest and greatest versions</p>
+            <p begin="00:23:14.389" end="00:23:17.499">is that, I think in the long term lower their support</p>
+            <p begin="00:23:17.619" end="00:23:18.669">and things overall</p>
+            <p begin="00:23:18.669" end="00:23:22.669">because... Does anyone know <br/>who's ever had a WordPress site hacked here?</p>
+            <p begin="00:23:23.435" end="00:23:23.875">Yeah.</p>
+            <p begin="00:23:25.415" end="00:23:26.945">It's a pain, isn't it?</p>
+            <p begin="00:23:27.352" end="00:23:28.752">And in fact, to be honest,</p>
+            <p begin="00:23:28.752" end="00:23:29.932">if you're not pretty savvy, </p>
+            <p begin="00:23:29.932" end="00:23:33.012">you're not gonna be able to clean it up <br/>in way you won't get reinfected.</p>
+            <p begin="00:23:33.077" end="00:23:35.817">I mean, these guys... Hackers they sneak in our...</p>
+            <p begin="00:23:36.737" end="00:23:38.017">They sneak in, you know,</p>
+            <p begin="00:23:38.017" end="00:23:39.947">backdoors, they put things in hidden files,</p>
+            <p begin="00:23:39.947" end="00:23:41.737">they're very sneaky about<br/>how they put things there,</p>
+            <p begin="00:23:41.737" end="00:23:44.797">so you might think that you've updated <br/>the major sites that curing it.</p>
+            <p begin="00:23:44.797" end="00:23:46.277">Still... there's a problem there. </p>
+            <p begin="00:23:46.937" end="00:23:48.887">You really need systems level access,</p>
+            <p begin="00:23:48.887" end="00:23:51.447">and maybe a little command line <br/>to do that right.</p>
+            <p begin="00:23:52.537" end="00:23:55.957">The other thing that's been <br/>pretty notable about WordPress in the past</p>
+            <p begin="00:23:56.053" end="00:23:58.643">is our relationship with PHP.</p>
+            <p begin="00:23:59.073" end="00:24:01.033">Some might call it controversial at times,</p>
+            <p begin="00:24:01.403" end="00:24:05.733">most notably we've decided not there was a go PHP thing that happened.</p>
+            <p begin="00:24:05.863" end="00:24:06.973">And we said that</p>
+            <p begin="00:24:07.083" end="00:24:09.533">there's so many of our users who are on<br/>older versions of PHP </p>
+            <p begin="00:24:09.563" end="00:24:10.553">and we're gonna keep supporting those.</p>
+            <p begin="00:24:10.773" end="00:24:13.933">And in fact, to this day we support<br/>back to the 5.2?</p>
+            <p begin="00:24:14.853" end="00:24:16.083">And core WordPress.</p>
+            <p begin="00:24:16.523" end="00:24:17.633">And when we look at the stats, </p>
+            <p begin="00:24:17.633" end="00:24:19.003">we still have millions of sites</p>
+            <p begin="00:24:19.003" end="00:24:21.153">on these older versions of PHP.</p>
+            <p begin="00:24:22.043" end="00:24:22.523">But....</p>
+            <p begin="00:24:23.691" end="00:24:26.091">and thinking what can we do with the WordPress...</p>
+            <p begin="00:24:26.091" end="00:24:27.801">with the broader PHP community </p>
+            <p begin="00:24:27.931" end="00:24:29.461"> to help make the situation better.</p>
+            <p begin="00:24:29.461" end="00:24:32.401">Cos I'm sure just like us not being happy <br/>about people being on older versions, </p>
+            <p begin="00:24:32.401" end="00:24:33.761">they aren't happy about it either.</p>
+            <p begin="00:24:34.155" end="00:24:36.305">We're gonna start using our relationship with hosts</p>
+            <p begin="00:24:36.485" end="00:24:39.985">to help get everyone <br/>on PHP 5.5 or above.</p>
+            <p begin="00:24:40.574" end="00:24:42.514">(applause)</p>
+            <p begin="00:24:47.522" end="00:24:48.822">The update system for WordPress</p>
+            <p begin="00:24:48.822" end="00:24:50.942">since we're PHP and MySQL versions using </p>
+            <p begin="00:24:50.942" end="00:24:52.172">so we're able to use this to...</p>
+            <p begin="00:24:52.172" end="00:24:52.712">Again</p>
+            <p begin="00:24:52.712" end="00:24:54.392">Hosts with lists</p>
+            <p begin="00:24:54.692" end="00:24:57.092">Maybe they don't even remember <br/>that there's a server some place</p>
+            <p begin="00:24:57.092" end="00:24:58.122">so things like that.</p>
+            <p begin="00:24:58.122" end="00:24:59.352">Actually I have a dreamhost account</p>
+            <p begin="00:24:59.352" end="00:25:01.132">that was still on PHP 5.2</p>
+            <p begin="00:25:01.132" end="00:25:02.852">for one of my installs.</p>
+            <p begin="00:25:04.232" end="00:25:05.692">These sorts of things, you know,</p>
+            <p begin="00:25:05.692" end="00:25:07.322">people just forget about it or they don't notice</p>
+            <p begin="00:25:07.322" end="00:25:08.942">or something doesn't get upgraded </p>
+            <p begin="00:25:08.942" end="00:25:10.642">or you locked a version of PHP because </p>
+            <p begin="00:25:10.642" end="00:25:12.752">you use the setting in the control panel<br/>that you forgot about.</p>
+            <p begin="00:25:13.399" end="00:25:14.649">Lost of people who... </p>
+            <p begin="00:25:14.649" end="00:25:15.869">would be perfectly happy </p>
+            <p begin="00:25:15.869" end="00:25:17.889">I mean, WordPress works perfectly <br/>as you see with these new versions</p>
+            <p begin="00:25:18.971" end="00:25:20.851">And also there's lots of performance increase </p>
+            <p begin="00:25:20.851" end="00:25:22.411">in the last few major releases of PHP.</p>
+            <p begin="00:25:22.486" end="00:25:23.996">I think we can have a big impact there. </p>
+            <p begin="00:25:24.126" end="00:25:27.216">I mean, certainly on 23% of the web</p>
+            <p begin="00:25:27.863" end="00:25:29.053">we can start to work... </p>
+            <p begin="00:25:29.083" end="00:25:30.993">our partners and the folks who are part of the WordPress ecosystem</p>
+            <p begin="00:25:31.063" end="00:25:32.093">to make this better.</p>
+            <p begin="00:25:33.513" end="00:25:34.913">So, I'm excited about this </p>
+            <p begin="00:25:34.913" end="00:25:38.034">and hopefully it will bring us a bit closer <br/>to the broader PHP world.</p>
+            <p begin="00:25:38.254" end="00:25:39.564">that I know some of you aren't.</p>
+            <p begin="00:25:40.485" end="00:25:42.185">Well the other cool things coming this year</p>
+            <p begin="00:25:42.471" end="00:25:44.491">is 2015 theme.</p>
+            <p begin="00:25:44.881" end="00:25:46.061">Have you all seen this yet?</p>
+            <p begin="00:25:46.628" end="00:25:48.248">It is gorgeous.</p>
+            <p begin="00:25:49.372" end="00:25:52.472">A little contrast, there's actually 2 colors on there.</p>
+            <p begin="00:25:52.918" end="00:25:54.688">This isn't the best screen for showing these things </p>
+            <p begin="00:25:54.818" end="00:25:57.678">Well the exciting thing about <br/>2015 is that it's actually</p>
+            <p begin="00:25:57.768" end="00:25:58.858">our 5th year in a row</p>
+            <p begin="00:25:58.928" end="00:26:00.838">releasing a new default theme every year.</p>
+            <p begin="00:26:00.956" end="00:26:02.446">Which is the number of years</p>
+            <p begin="00:26:02.461" end="00:26:03.931">that Kubrick was in core.</p>
+            <p begin="00:26:04.403" end="00:26:06.023">(laughter)</p>
+            <p begin="00:26:06.588" end="00:26:07.898">We said we're gonna fix that,</p>
+            <p begin="00:26:07.898" end="00:26:08.508">we did!</p>
+            <p begin="00:26:08.886" end="00:26:09.606">(laughter)</p>
+            <p begin="00:26:09.796" end="00:26:11.826">And I think the new default theme program</p>
+            <p begin="00:26:11.845" end="00:26:13.255">is actually pretty successful.</p>
+            <p begin="00:26:13.425" end="00:26:15.255">Again, our guidelines,</p>
+            <p begin="00:26:15.352" end="00:26:16.822">our theme for everyone</p>
+            <p begin="00:26:16.822" end="00:26:18.922">is not to create someone that's <br/>a perfect teaching theme,</p>
+            <p begin="00:26:18.942" end="00:26:19.952">or perfect base theme,</p>
+            <p begin="00:26:19.962" end="00:26:21.372">There's things like underscores for that.</p>
+            <p begin="00:26:21.499" end="00:26:24.319">But to create something that <br/>shows off what WordPress can do</p>
+            <p begin="00:26:24.376" end="00:26:26.256">and it's different from the year before.</p>
+            <p begin="00:26:26.439" end="00:26:27.929">So this year we're focusing almost on </p>
+            <p begin="00:26:27.959" end="00:26:29.129">a book-like typography</p>
+            <p begin="00:26:29.150" end="00:26:30.470">and a book-like feel.</p>
+            <p begin="00:26:30.825" end="00:26:31.845">So it has a...</p>
+            <p begin="00:26:32.140" end="00:26:33.330">you know, kind of a left menu,</p>
+            <p begin="00:26:33.330" end="00:26:35.700">you can have a big hire navigation there. </p>
+            <p begin="00:26:35.919" end="00:26:36.689">Who knows? </p>
+            <p begin="00:26:36.689" end="00:26:38.939">We might even use it for a <br/>WordPress book that we put out there.</p>
+            <p begin="00:26:39.379" end="00:26:42.169">One of the other things that's been<br/>kinda interesting in the past</p>
+            <p begin="00:26:42.169" end="00:26:46.019">probably a year or so is the experiments that <br/>WordPress has been doing with Git. </p>
+            <p begin="00:26:46.044" end="00:26:47.194">in GitHub.</p>
+            <p begin="00:26:47.341" end="00:26:49.881">In fact, moving some things like all of the mobile apps</p>
+            <p begin="00:26:49.881" end="00:26:51.501">are now developed entirely on GitHub.</p>
+            <p begin="00:26:52.039" end="00:26:53.559">Who here uses GitHub by the way?</p>
+            <p begin="00:26:54.779" end="00:26:56.069">Well that's all the hands.</p>
+            <p begin="00:26:59.260" end="00:27:01.070">Little thing to announce (not a huge thing)</p>
+            <p begin="00:27:01.070" end="00:27:02.990">but we're gonna start doing something experimental.</p>
+            <p begin="00:27:03.297" end="00:27:05.297">which is looking at the Pull Requests </p>
+            <p begin="00:27:05.567" end="00:27:07.337">that come to the official WordPress repository</p>
+            <p begin="00:27:07.745" end="00:27:08.475">on Github</p>
+            <p begin="00:27:08.790" end="00:27:10.890">and try to integrate this with our normal workflows. </p>
+            <p begin="00:27:10.983" end="00:27:12.883">So now, as of today</p>
+            <p begin="00:27:13.246" end="00:27:14.746">you'll be able to submit a Pull Request</p>
+            <p begin="00:27:14.746" end="00:27:15.766">to WordPress repository</p>
+            <p begin="00:27:15.816" end="00:27:17.996">and that will not go into a blackhole.</p>
+            <p begin="00:27:18.316" end="00:27:20.726">(applause)</p>
+            <p begin="00:27:25.139" end="00:27:26.469">Today plus a few days.</p>
+            <p begin="00:27:26.813" end="00:27:27.883">(laughter)</p>
+            <p begin="00:27:28.378" end="00:27:30.648">It doesn't say by the end of it <br/>either so I got a little excited.</p>
+            <p begin="00:27:30.756" end="00:27:32.466">Well these next things I'm really excited about</p>
+            <p begin="00:27:32.587" end="00:27:33.317">Sorry.</p>
+            <p begin="00:27:35.297" end="00:27:38.877">You might remember last year I was on stage<br/>I talked about mp6. </p>
+            <p begin="00:27:39.067" end="00:27:42.757">And how one of the things that made the<br/>mp6 program successful.</p>
+            <p begin="00:27:43.117" end="00:27:47.097">And in fact, we try to use it as a model for <br/>other plugin 1st release development we've been doing</p>
+            <p begin="00:27:47.121" end="00:27:49.981">Was that the team very tightly communicated.</p>
+            <p begin="00:27:50.088" end="00:27:51.808">And we used Skype to do that.</p>
+            <p begin="00:27:52.507" end="00:27:55.117">Skype was fantastic, 'cos of a lot of the team dev,</p>
+            <p begin="00:27:55.150" end="00:27:56.820">a fast asynchronous channel </p>
+            <p begin="00:27:56.850" end="00:27:58.920">with which they could kind of<br/>keep up with each other</p>
+            <p begin="00:27:58.952" end="00:28:00.532">but a ton of downsides too.</p>
+            <p begin="00:28:00.675" end="00:28:02.765">Which I thought about, but are still true.</p>
+            <p begin="00:28:04.423" end="00:28:06.003">Skype kinda sucks on mole.</p>
+            <p begin="00:28:06.019" end="00:28:07.399">To be perfectly honest.</p>
+            <p begin="00:28:07.709" end="00:28:09.849">And this was before the latest redesign they did</p>
+            <p begin="00:28:09.849" end="00:28:10.989">that didn't make anything better.</p>
+            <p begin="00:28:11.667" end="00:28:13.397">(laughter)</p>
+            <p begin="00:28:14.913" end="00:28:15.773">It wasn't archived or</p>
+            <p begin="00:28:15.773" end="00:28:16.683">publicly accessible</p>
+            <p begin="00:28:16.839" end="00:28:18.299">Like the log wasn't really searchable</p>
+            <p begin="00:28:18.399" end="00:28:21.809">They just exist on a few people's hard drives and then they might be gone forever.</p>
+            <p begin="00:28:22.628" end="00:28:23.478">So a decade from now</p>
+            <p begin="00:28:23.478" end="00:28:26.008">and Siobhan has been working on the next version of the WordPress book</p>
+            <p begin="00:28:26.028" end="00:28:28.408">We're gonna have trouble finding that stuff.</p>
+            <p begin="00:28:28.488" end="00:28:30.108">That's ok, I'll save them for you.</p>
+            <p begin="00:28:31.756" end="00:28:33.996">Actually we have a problem with IRC too.</p>
+            <p begin="00:28:34.049" end="00:28:36.629">but one of the things I'm excited to announce </p>
+            <p begin="00:28:36.864" end="00:28:39.524">and THIS IS happening as of today.</p>
+            <p begin="00:28:40.017" end="00:28:41.277">Is that for the first time</p>
+            <p begin="00:28:41.305" end="00:28:43.115">we're gonna experiment in 11 years.</p>
+            <p begin="00:28:43.135" end="00:28:45.936">We're not using IRC as our <br/>primary communication method.</p>
+            <p begin="00:28:48.180" end="00:28:52.050">We're gonna try a little tool from a company here in San Francisco called Slack.</p>
+            <p begin="00:28:52.981" end="00:28:54.921">(applause)</p>
+            <p begin="00:28:58.118" end="00:28:59.908">Some of you might have not used Slack before</p>
+            <p begin="00:28:59.968" end="00:29:01.168">This is what it looks like.</p>
+            <p begin="00:29:01.257" end="00:29:02.727">In fact, it supports color schemes</p>
+            <p begin="00:29:02.727" end="00:29:05.397">I've got an mp6-looking colors scheme on here. </p>
+            <p begin="00:29:05.397" end="00:29:07.697">Comes in kind of a funny-looking <br/>eggplant, by default.</p>
+            <p begin="00:29:08.830" end="00:29:11.600">But how Slack works is that you can have channels</p>
+            <p begin="00:29:11.670" end="00:29:14.300">prefix with hashes kinda like IRC </p>
+            <p begin="00:29:14.842" end="00:29:16.952">As of these will all be our channels.</p>
+            <p begin="00:29:17.041" end="00:29:18.142">So kind of a....</p>
+            <p begin="00:29:18.142" end="00:29:20.731">everyone that's part of the WordPress<br/>community will come in there</p>
+            <p begin="00:29:20.781" end="00:29:23.060">so instead of having to do like, Wordpress-dev</p>
+            <p begin="00:29:23.080" end="00:29:24.480">we can just do </p>
+            <p begin="00:29:24.510" end="00:29:25.785">the things on the left.</p>
+            <p begin="00:29:25.905" end="00:29:27.240">Sorry, we have a naming scheme</p>
+            <p begin="00:29:27.270" end="00:29:29.443">I didn't want to mess it up <br/>by saying anything wrong.</p>
+            <p begin="00:29:29.793" end="00:29:32.936">Teams can now use this to <br/>communicate with each other</p>
+            <p begin="00:29:32.984" end="00:29:34.860">and this will all be searchable </p>
+            <p begin="00:29:34.880" end="00:29:35.929">and part of the normal thing.</p>
+            <p begin="00:29:35.959" end="00:29:37.118">We're doing integrations. </p>
+            <p begin="00:29:37.118" end="00:29:40.098">You can see wordpress.org commits <br/>are coming to the meta channel.</p>
+            <p begin="00:29:40.278" end="00:29:41.598">Also things like </p>
+            <p begin="00:29:42.168" end="00:29:45.632">if a ticket is mentioned in Slack,</p>
+            <p begin="00:29:45.666" end="00:29:47.172">we'll link that from track.</p>
+            <p begin="00:29:47.402" end="00:29:48.606">So there'll be integration between the 2</p>
+            <p begin="00:29:48.606" end="00:29:52.066">we'll basically have like a 2-way communication mechanism going between them.</p>
+            <p begin="00:29:53.146" end="00:29:56.625">This will be available to every single user<br/>of wordpress.org</p>
+            <p begin="00:29:57.234" end="00:29:59.490">Normally, Slack you have to be part of a company</p>
+            <p begin="00:29:59.490" end="00:30:01.026">or have a company email address.</p>
+            <p begin="00:30:01.026" end="00:30:03.413">We've made it so every single person <br/>will be able to sign up.</p>
+            <p begin="00:30:03.463" end="00:30:04.877">And of my favorite things about it</p>
+            <p begin="00:30:04.927" end="00:30:07.091">is that it works on every device.</p>
+            <p begin="00:30:08.581" end="00:30:10.997">Yes, I'm excited about that too.</p>
+            <p begin="00:30:11.007" end="00:30:12.827">You'll be able to keep up with Wordpress chats</p>
+            <p begin="00:30:12.827" end="00:30:14.447">no matter where you are in the world.</p>
+            <p begin="00:30:14.617" end="00:30:16.527">Has anyone ever tried to run IRC on their phone?</p>
+            <p begin="00:30:16.587" end="00:30:17.827">(laughter)</p>
+            <p begin="00:30:18.417" end="00:30:19.821">The core contributors! </p>
+            <p begin="00:30:19.941" end="00:30:21.107">You had to, right?</p>
+            <p begin="00:30:21.837" end="00:30:24.495">So, starting right now, wait till after the talk</p>
+            <p begin="00:30:24.545" end="00:30:26.213">but you can go to chat.wordpress.org</p>
+            <p begin="00:30:26.243" end="00:30:28.041">And it'll redirect you to a page <br/></p>
+            <p begin="00:30:28.111" end="00:30:30.240">to toss you a little bit about the benefits</p>
+            <p begin="00:30:30.370" end="00:30:33.230">We've decided to do this first non-IRC<br/>experiment with Slack </p>
+            <p begin="00:30:33.278" end="00:30:36.408">As opposed to any of the <br/>other number systems out there.</p>
+            <p begin="00:30:36.500" end="00:30:38.430">And so the things we're excited about using.</p>
+            <p begin="00:30:39.402" end="00:30:41.482">Actually, Automattic's been using Slack </p>
+            <p begin="00:30:41.522" end="00:30:42.782">entirely for a few months</p>
+            <p begin="00:30:42.792" end="00:30:44.442">and it's been transformative for the company.</p>
+            <p begin="00:30:44.832" end="00:30:45.982">(inaudible)</p>
+            <p begin="00:30:46.002" end="00:30:47.003">have the pings,</p>
+            <p begin="00:30:47.003" end="00:30:48.043">the mobile apps,</p>
+            <p begin="00:30:48.798" end="00:30:49.888">the channels,</p>
+            <p begin="00:30:50.121" end="00:30:51.311">the search is actually a killer,</p>
+            <p begin="00:30:51.593" end="00:30:53.113">it includes animated gifs</p>
+            <p begin="00:30:53.489" end="00:30:55.689">(laughter)</p>
+            <p begin="00:30:55.848" end="00:30:57.578">(applause)</p>
+            <p begin="00:30:59.867" end="00:31:02.997">We need the animated gif of me going...<br/>(moving left to right) </p>
+            <p begin="00:31:03.053" end="00:31:04.773">(laughter)</p>
+            <p begin="00:31:05.155" end="00:31:06.625">Turn off the gifs?</p>
+            <p begin="00:31:06.711" end="00:31:08.021">We'll turn that back off. </p>
+            <p begin="00:31:08.089" end="00:31:08.899">(laughter)</p>
+            <p begin="00:31:08.983" end="00:31:10.593">We should turn off giphy, though.</p>
+            <p begin="00:31:11.266" end="00:31:13.156">It also has a number of commands.</p>
+            <p begin="00:31:13.213" end="00:31:14.723">One of which is the giphy command</p>
+            <p begin="00:31:14.753" end="00:31:16.623">So you can type giphy and then search string</p>
+            <p begin="00:31:16.646" end="00:31:20.826">and it will pull in whatever comes, <br/>"I'm feeling lucky for gifs"</p>
+            <p begin="00:31:20.945" end="00:31:24.065">(laughter)</p>
+            <p begin="00:31:25.692" end="00:31:28.372">Which aren't always community-appropriate.</p>
+            <p begin="00:31:28.454" end="00:31:30.474">So I agree we shouldn't have giphy.</p>
+            <p begin="00:31:30.613" end="00:31:32.393">But the ability to have curated</p>
+            <p begin="00:31:32.427" end="00:31:34.707">the spoke chosen gifs, <br/>I think is important. </p>
+            <p begin="00:31:34.788" end="00:31:36.138">(laughter)</p>
+            <p begin="00:31:36.718" end="00:31:38.078">So check this out</p>
+            <p begin="00:31:38.242" end="00:31:40.002">please, you know, <br/>when you go back to Contributor Day</p>
+            <p begin="00:31:40.100" end="00:31:41.460">or things like that, login.</p>
+            <p begin="00:31:41.474" end="00:31:43.144">I think that you'll be pleasantly surprised</p>
+            <p begin="00:31:43.154" end="00:31:45.904">you can use it on the web, <br/>so we're not just on a web browser</p>
+            <p begin="00:31:45.904" end="00:31:49.014">they have a desktop client <br/>that you can download that runs it locally.</p>
+            <p begin="00:31:49.014" end="00:31:52.154">There's a beta coming out <br/>that allows you to be signed in to multiple teams</p>
+            <p begin="00:31:52.209" end="00:31:53.989">And again, run it on your phone.</p>
+            <p begin="00:31:53.989" end="00:31:55.779">And it doesn't kill your battery.</p>
+            <p begin="00:31:56.890" end="00:31:59.970">Hope to see all of you on Slack very soon.</p>
+            <p begin="00:32:01.659" end="00:32:05.129">(applause)</p>
+            <p begin="00:32:07.246" end="00:32:09.376">I'm glad you're all so happy, <br/>I'm drinking water.</p>
+            <p begin="00:32:09.684" end="00:32:10.994">(laughter)</p>
+            <p begin="00:32:11.194" end="00:32:13.194">This "say to the word" brought to you by hint.</p>
+            <p begin="00:32:13.259" end="00:32:13.759">(laughter)</p>
+            <p begin="00:32:13.882" end="00:32:14.892">Just kidding.</p>
+            <p begin="00:32:15.245" end="00:32:18.145">Although they would be great to have a sponsor.</p>
+            <p begin="00:32:18.500" end="00:32:21.360">One of the other things I ended up talking about <br/>a few weeks ago at WordCamp Europe,</p>
+            <p begin="00:32:21.370" end="00:32:24.870">that became a little bit surprising and controversial <br/>is this "Five for the Future" idea.</p>
+            <p begin="00:32:25.741" end="00:32:27.801">Some of you might have seen the blog post.</p>
+            <p begin="00:32:27.951" end="00:32:29.881">But basically, the gist of it is,</p>
+            <p begin="00:32:31.626" end="00:32:34.826">that for WordPress to remain a<br/>sustainable enterprise</p>
+            <p begin="00:32:34.846" end="00:32:36.896">a sustainable thing going forward, </p>
+            <p begin="00:32:36.896" end="00:32:38.536">5, 10, 20 years from now</p>
+            <p begin="00:32:39.343" end="00:32:41.723">I've no doubt that the project will survive.</p>
+            <p begin="00:32:41.851" end="00:32:44.021">You can still go download PhpNuke.</p>
+            <p begin="00:32:44.109" end="00:32:46.389">Open Source projects never go away.</p>
+            <p begin="00:32:46.665" end="00:32:49.175">Only one person knew what PhpNuke was.</p>
+            <p begin="00:32:49.323" end="00:32:50.433">(laughter)</p>
+            <p begin="00:32:50.947" end="00:32:55.887">But very few thrive even as long as the 11 years <br/>that WordPress has already.</p>
+            <p begin="00:32:56.187" end="00:33:00.387">and one of the reasons that we have been able to, I think will be the key to the future. </p>
+            <p begin="00:33:00.387" end="00:33:04.387">Is that all the participants in the ecosystem <br/>put a little bit back into it.</p>
+            <p begin="00:33:04.717" end="00:33:06.897">So let's talk about this "Five for the Future" thing</p>
+            <p begin="00:33:06.937" end="00:33:09.077">and basically saying that, <br/>it can be totally optional,</p>
+            <p begin="00:33:09.113" end="00:33:10.813">we're not coercing anyone, <br/>we're not guilting anyone</p>
+            <p begin="00:33:10.813" end="00:33:12.473">we're not saying that anyone has to do anything </p>
+            <p begin="00:33:12.483" end="00:33:16.473">but for organizations who feel like <br/>they benefit from the growth of WordPress, </p>
+            <p begin="00:33:16.756" end="00:33:21.596">or sort of, they're part of the ecosystem<br/>in a way that they grow alongside it</p>
+            <p begin="00:33:21.674" end="00:33:25.588">to take 5% of the WordPress resources, <br/>whatever they sort of normally spend on that</p>
+            <p begin="00:33:25.588" end="00:33:27.608">and put it towards core.</p>
+            <p begin="00:33:27.608" end="00:33:31.198">Or community, or meetups, or organizing, <br/>or WordCamps, or things like that</p>
+            <p begin="00:33:31.238" end="00:33:33.438">Organizing WordCamps.</p>
+            <p begin="00:33:33.763" end="00:33:35.133">This has been pretty exciting.</p>
+            <p begin="00:33:35.203" end="00:33:39.913">And actually, already 2 companies have publicly announced Gravity,</p>
+            <p begin="00:33:39.953" end="00:33:43.893">and one I think I wouldn't see on stage, wpmudev</p>
+            <p begin="00:33:43.893" end="00:33:47.013">have announced they're gonna start putting <br/>5% of their resources towards core.</p>
+            <p begin="00:33:47.053" end="00:33:51.143">And also today I am proud to announce that Automattic now has 14 people</p>
+            <p begin="00:33:51.143" end="00:33:55.143">which is 5% working full-time on <br/>WordPress core and community.</p>
+            <p begin="00:33:55.253" end="00:33:57.923">(applause)</p>
+            <p begin="00:34:01.596" end="00:34:02.986">This slide is too small</p>
+            <p begin="00:34:03.431" end="00:34:05.991">There are probably other companies <br/>already doing this</p>
+            <p begin="00:34:06.149" end="00:34:08.809">that we haven't done on the<br/>blog post yet, or not on this list.</p>
+            <p begin="00:34:08.819" end="00:34:11.959">And I hope that many, many more <br/>will consider going forward.</p>
+            <p begin="00:34:12.648" end="00:34:16.648">You can ask any of the folks <br/>who currently contribute a lot to WordPress</p>
+            <p begin="00:34:16.648" end="00:34:21.788">It's one of those things that not just in karma, but you get back so much more than you put in.</p>
+            <p begin="00:34:23.638" end="00:34:28.968">It's about also the members of the ecosystem, not just growing their slice of the pie, but growing the entire pie. </p>
+            <p begin="00:34:29.080" end="00:34:32.700">And this is what is gonna take us <br/>from 23% to 30%, 40%</p>
+            <p begin="00:34:32.700" end="00:34:35.251">or maybe even someday, <br/>powering the majority of the internet.</p>
+            <p begin="00:34:35.251" end="00:34:37.091">We're not gonna do that with one company.</p>
+            <p begin="00:34:37.091" end="00:34:39.281">We're not gonna do that <br/>even with a handful of companies.</p>
+            <p begin="00:34:39.281" end="00:34:41.811">We're gonna do it like the internet works.</p>
+            <p begin="00:34:42.041" end="00:34:46.041">With hundreds of thousands of people <br/>coordinating all over the world.</p>
+            <p begin="00:34:46.075" end="00:34:50.425">So if you are a part of an organization, that's already doing this, let me know.</p>
+            <p begin="00:34:50.425" end="00:34:53.395">And I'll put you in the blog post <br/>when we talk about this.</p>
+            <p begin="00:34:53.395" end="00:34:56.065">And if you wanna do it, <br/>I'm happy to talk to y'all</p>
+            <p begin="00:34:56.065" end="00:34:59.665">about the ups and downs, <br/>pluses and minuses</p>
+            <p begin="00:34:59.665" end="00:35:01.465">and things to think about.</p>
+            <p begin="00:35:01.465" end="00:35:03.335">Again, if you're a freelancer you can do this.</p>
+            <p begin="00:35:03.335" end="00:35:05.805">5% would be 2 hours a week.</p>
+            <p begin="00:35:05.880" end="00:35:08.710">Maybe that's the time it <br/>takes to organize a meetup.</p>
+            <p begin="00:35:08.780" end="00:35:11.340">And the meetup people <br/>are looking at me like, "nope."</p>
+            <p begin="00:35:11.340" end="00:35:12.770">(laughter)</p>
+            <p begin="00:35:12.867" end="00:35:14.047">10 hours a week?</p>
+            <p begin="00:35:14.153" end="00:35:17.593">Well you can also think about...<br/>I mean, there's 168 hours in a week </p>
+            <p begin="00:35:17.776" end="00:35:21.776">So 5% is close to 8.5? 9 hours?</p>
+            <p begin="00:35:21.966" end="00:35:24.536">(laughter)</p>
+            <p begin="00:35:25.240" end="00:35:27.660">Ok, let's say 40 in 2 hours...</p>
+            <p begin="00:35:27.805" end="00:35:29.135">(laughter)</p>
+            <p begin="00:35:29.290" end="00:35:30.890">There's lots of ways you can contribute.</p>
+            <p begin="00:35:31.075" end="00:35:33.245">In fact, if you'd like to know how to contribute more,</p>
+            <p begin="00:35:33.245" end="00:35:36.785">there is a booth downstairs where you can go<br/>to all throughout the day.</p>
+            <p begin="00:35:37.259" end="00:35:39.509">You can visit make.wordpress.org online</p>
+            <p begin="00:35:39.509" end="00:35:41.479">for those of you watching from the live streams.</p>
+            <p begin="00:35:41.529" end="00:35:42.649">Yeah, I forgot to tell you that.</p>
+            <p begin="00:35:42.689" end="00:35:46.489">There's hundreds of people tuned into live streams<br/>including I think, 15 or 20</p>
+            <p begin="00:35:46.489" end="00:35:49.139">other locations with rooms smaller than this</p>
+            <p begin="00:35:49.139" end="00:35:51.219">but like this, but they are doing viewing parties.</p>
+            <p begin="00:35:51.229" end="00:35:53.739">So, say hello to the world everyone!</p>
+            <p begin="00:35:53.796" end="00:35:56.056">(crowd cheering)</p>
+            <p begin="00:35:59.064" end="00:36:00.994">But there's lots and lots of ways to contribute.</p>
+            <p begin="00:36:00.994" end="00:36:02.778">And no matter what your skill is,</p>
+            <p begin="00:36:02.778" end="00:36:05.618">There is something that you could do <br/>that would be helpful.</p>
+            <p begin="00:36:05.773" end="00:36:09.233">Actually, my path and this whole thing was that,</p>
+            <p begin="00:36:09.263" end="00:36:13.263">I discovered a platform called b2, which was the code that WordPress was based on,</p>
+            <p begin="00:36:13.263" end="00:36:15.703">and sort of hacking around with it.</p>
+            <p begin="00:36:15.703" end="00:36:17.203">And I would ask questions in the forums.</p>
+            <p begin="00:36:17.203" end="00:36:20.133">And one of the days when I was going back <br/>to asking another question in the forum, </p>
+            <p begin="00:36:20.133" end="00:36:21.483">I saw something that I already asked</p>
+            <p begin="00:36:21.483" end="00:36:22.703">someone else was asking.</p>
+            <p begin="00:36:22.703" end="00:36:24.083">So I figured I'd answer it.</p>
+            <p begin="00:36:24.083" end="00:36:26.123">Because then maybe people <br/>would help me more, or something.</p>
+            <p begin="00:36:29.475" end="00:36:33.595">That started a long, downhill path</p>
+            <p begin="00:36:33.705" end="00:36:35.305">to being here today.</p>
+            <p begin="00:36:36.905" end="00:36:39.085">But that thrill of contributing</p>
+            <p begin="00:36:39.438" end="00:36:40.658">rush of helping other people </p>
+            <p begin="00:36:40.658" end="00:36:44.128">is really one of the most rewarding experiences <br/>I've had in my entire life.</p>
+            <p begin="00:36:44.279" end="00:36:46.939">And one that is still what I ___ around my life today. </p>
+            <p begin="00:36:46.939" end="00:36:48.479">So we have a lot of contributors.</p>
+            <p begin="00:36:48.479" end="00:36:50.339">Who's a WordPress contributor here?</p>
+            <p begin="00:36:51.126" end="00:36:55.276">A contributor, by the way, is a title <br/>that no one can give you except yourself.</p>
+            <p begin="00:36:56.225" end="00:37:00.225">That means, that you're doing something that you feel like is having an altruistic impact</p>
+            <p begin="00:37:00.225" end="00:37:01.305">on the WordPress community.</p>
+            <p begin="00:37:01.305" end="00:37:03.185">So I hope that by this time next year, </p>
+            <p begin="00:37:03.185" end="00:37:06.165">a lot more of you all have decided to give yourselves that title.</p>
+            <p begin="00:37:06.165" end="00:37:07.125">Because you're welcome.</p>
+            <p begin="00:37:07.125" end="00:37:08.405">It's all one big happy family</p>
+            <p begin="00:37:08.405" end="00:37:10.365">and we have cookies and barbeque.</p>
+            <p begin="00:37:10.458" end="00:37:12.018">(laughter)</p>
+            <p begin="00:37:12.102" end="00:37:14.332">(applause)</p>
+            <p begin="00:37:15.995" end="00:37:19.215">It's been a lot of talk the <br/>last few days with the rest API</p>
+            <p begin="00:37:19.768" end="00:37:21.308">Who's excited about this? </p>
+            <p begin="00:37:21.516" end="00:37:23.006">(crowd cheering)</p>
+            <p begin="00:37:25.894" end="00:37:29.304">As you know, there's been a project on wpapi.org</p>
+            <p begin="00:37:29.374" end="00:37:31.284">Talked about Brian and Rachel about it already,</p>
+            <p begin="00:37:31.284" end="00:37:32.594">but many other people involved.</p>
+            <p begin="00:37:32.727" end="00:37:36.727">There's been very exciting work around<br/>creating a Json rest style API</p>
+            <p begin="00:37:36.865" end="00:37:38.495">for a lot of WordPress.</p>
+            <p begin="00:37:38.871" end="00:37:40.321">At the same time on wordpress.com,</p>
+            <p begin="00:37:40.321" end="00:37:43.081">there's been a REST API <br/>that's been doing a ton of adoption</p>
+            <p begin="00:37:43.081" end="00:37:47.081">in terms of different partners which are integrating with WordPress for the first time.</p>
+            <p begin="00:37:47.081" end="00:37:48.151">From youtube to path.</p>
+            <p begin="00:37:48.777" end="00:37:52.387">New internet services, which previously <br/>were so scared of our</p>
+            <p begin="00:37:52.486" end="00:37:53.636">xmr, PC stuff</p>
+            <p begin="00:37:53.680" end="00:37:58.050">and millions of inpoints and also <br/>to different things that they just </p>
+            <p begin="00:37:58.050" end="00:38:00.050">wouldn't even do WordPress integrations</p>
+            <p begin="00:38:00.050" end="00:38:04.050">even though we're by far the largest place that facebook likes aren't embedded,</p>
+            <p begin="00:38:04.050" end="00:38:06.400">and everything else pretty much like <br/>every widget on the web.</p>
+            <p begin="00:38:06.400" end="00:38:08.720">You look at the stats and WordPress is one user. </p>
+            <p begin="00:38:08.720" end="00:38:10.700">Or they get the most distribution at WordPress.</p>
+            <p begin="00:38:11.383" end="00:38:15.383">So one of the other things that I want to point out is very important for us to work on this year.</p>
+            <p begin="00:38:15.481" end="00:38:17.671">Is that two robots need to fall in love.</p>
+            <p begin="00:38:17.693" end="00:38:18.633">(laughter)</p>
+            <p begin="00:38:19.185" end="00:38:21.745">In the Version 2 of both these APIs,</p>
+            <p begin="00:38:23.134" end="00:38:24.404">(hopefully Version 2)</p>
+            <p begin="00:38:24.404" end="00:38:25.684">We need to bring this together.</p>
+            <p begin="00:38:26.154" end="00:38:28.489">There's some things that on the hosted side</p>
+            <p begin="00:38:28.489" end="00:38:30.999">we'd figured out around sort of multi-plugins things</p>
+            <p begin="00:38:30.999" end="00:38:35.379">or authentication, or around the way certain APIs work when you try to recreate all WP Admin </p>
+            <p begin="00:38:35.379" end="00:38:36.559">the things that you can do and not do.</p>
+            <p begin="00:38:36.581" end="00:38:37.431">Pagination.</p>
+            <p begin="00:38:38.631" end="00:38:40.601">That, I think, are really important.</p>
+            <p begin="00:38:40.851" end="00:38:44.741">Things that WP API has been<br/>very comprehensive in doing </p>
+            <p begin="00:38:44.741" end="00:38:49.291">including marrying a lot of the things that been done before in terms of internal APIs</p>
+            <p begin="00:38:50.029" end="00:38:52.029">Now, once we have this REST APIs,</p>
+            <p begin="00:38:52.463" end="00:38:57.473">There's been a few talks on it already, but think of it almost like, WordPress can become a kernel.</p>
+            <p begin="00:38:57.473" end="00:39:00.673">And that you can interface with it<br/>in JavaScript, to node,</p>
+            <p begin="00:39:00.673" end="00:39:03.783">and python, and almost anything<br/>with easy client libraries.</p>
+            <p begin="00:39:03.783" end="00:39:09.603">So, the WordPress engine, is app platform usage that we've been talking about for a few years now.</p>
+            <p begin="00:39:09.603" end="00:39:11.143">And it's rapidly picking up.</p>
+            <p begin="00:39:13.023" end="00:39:19.253">My feeling is that when we get these REST APIs, it's important to build as many things as possible on the plugin phase.</p>
+            <p begin="00:39:19.253" end="00:39:20.963">And once we get in the core, </p>
+            <p begin="00:39:20.963" end="00:39:22.923">there'll be like an explosion</p>
+            <p begin="00:39:22.923" end="00:39:24.323">that things built on top of them.</p>
+            <p begin="00:39:24.430" end="00:39:29.160">Can you even imagine a world where the way that we think about themes settings screens </p>
+            <p begin="00:39:29.160" end="00:39:31.430">or how plugins work, or how services work</p>
+            <p begin="00:39:31.430" end="00:39:32.490">could be totally different.</p>
+            <p begin="00:39:32.760" end="00:39:35.940">Rather than trying to shoehorn a lot of things in the custom post types, or something.</p>
+            <p begin="00:39:36.116" end="00:39:41.686">Maybe a plugin, actually, just interfaces<br/>using these APIs to your different WordPresses.</p>
+            <p begin="00:39:41.686" end="00:39:43.726">And gives you a completely</p>
+            <p begin="00:39:43.726" end="00:39:45.006">Posting interface.</p>
+            <p begin="00:39:45.116" end="00:39:49.006">Like some of the things that maybe Happy Tables or other folks have been trying.</p>
+            <p begin="00:39:49.196" end="00:39:51.306">This would be so much more possible<br/></p>
+            <p begin="00:39:51.313" end="00:39:53.193">and I think that this is finally the time</p>
+            <p begin="00:39:54.022" end="00:39:56.462">I haven't gotten the question recently but I get it sometimes where </p>
+            <p begin="00:39:56.462" end="00:39:59.762">when are you gonna allow theming for WP admin? <br/>Or things like that.</p>
+            <p begin="00:39:59.934" end="00:40:02.974">Which is tough for a bad idea <br/>for a number of reasons.</p>
+            <p begin="00:40:03.149" end="00:40:06.489">But maybe what we need <br/>isn't theming for all of WP admin. </p>
+            <p begin="00:40:06.569" end="00:40:10.749">Maybe what we need is a way for <br/>a thousand different WP admins bloom.</p>
+            <p begin="00:40:10.900" end="00:40:17.650">That anyone in the world can create a sort of, version of the interface and fork each other and </p>
+            <p begin="00:40:17.730" end="00:40:18.790">interact with each other.</p>
+            <p begin="00:40:18.903" end="00:40:22.473">And that will be able to more rapidly iterate</p>
+            <p begin="00:40:22.508" end="00:40:24.538">on what it means to be WordPress.</p>
+            <p begin="00:40:26.562" end="00:40:28.522">I've talked for about ____ship. </p>
+            <p begin="00:40:28.810" end="00:40:30.490">You guys know about it?</p>
+            <p begin="00:40:30.706" end="00:40:36.326">It's the idea that there's a ____ ship, and on its journey, every single board was replaced.</p>
+            <p begin="00:40:36.717" end="00:40:38.817">So what point is _____ship? </p>
+            <p begin="00:40:39.072" end="00:40:41.912">What is the thing that makes us sort of </p>
+            <p begin="00:40:42.080" end="00:40:47.940">semi-logic fashion still the thing that we know as this thing we call ______ ship.</p>
+            <p begin="00:40:47.960" end="00:40:50.110">So what's the thing that makes WordPress, WordPress?</p>
+            <p begin="00:40:50.150" end="00:40:51.260">Besides you all.</p>
+            <p begin="00:40:52.536" end="00:40:54.186">Is it the interface? <br/>The php code?</p>
+            <p begin="00:40:54.336" end="00:40:56.496">Is it the the database schema?</p>
+            <p begin="00:40:56.747" end="00:40:58.947">I think that we can obstruct <br/>a lot of these things away </p>
+            <p begin="00:40:59.348" end="00:41:00.638">and like I said,</p>
+            <p begin="00:41:00.753" end="00:41:02.273">______<br/>when things build on top of it.</p>
+            <p begin="00:41:03.334" end="00:41:09.004">And finally one of the things I wanna emphasize most is the continuing importance of Responsive &amp; Mobile.</p>
+            <p begin="00:41:10.182" end="00:41:12.152">Anyone seen this picture before?</p>
+            <p begin="00:41:12.603" end="00:41:13.983">It's actually pretty cool.</p>
+            <p begin="00:41:13.983" end="00:41:18.383">So the one at the top, this is where <br/>they're about to announce the new pope.</p>
+            <p begin="00:41:18.470" end="00:41:23.340">And you see at once at the top there one that looks like a razor at the bottom right.</p>
+            <p begin="00:41:23.383" end="00:41:25.723">And one weird girl turning around.</p>
+            <p begin="00:41:26.040" end="00:41:27.130">(laughter)</p>
+            <p begin="00:41:27.354" end="00:41:30.154">And then the future, you even have <br/>someone taking a picture on the iPad.</p>
+            <p begin="00:41:30.154" end="00:41:31.144">Who does that?</p>
+            <p begin="00:41:31.185" end="00:41:32.255">(laughter)</p>
+            <p begin="00:41:32.660" end="00:41:34.460">It is just a sea of phones.</p>
+            <p begin="00:41:34.588" end="00:41:39.418">Like I said, there are now more phones <br/>on the planet than human beings.</p>
+            <p begin="00:41:39.478" end="00:41:40.578">They're winning!</p>
+            <p begin="00:41:40.588" end="00:41:43.158">(laughter)</p>
+            <p begin="00:41:44.382" end="00:41:50.492">We need to, you know, cater to them,<br/>or they're just gonna replace us.</p>
+            <p begin="00:41:50.600" end="00:41:54.410">My phone already has a better memory and everything, better looking screen</p>
+            <p begin="00:41:54.420" end="00:41:55.330">More connected.</p>
+            <p begin="00:41:55.647" end="00:42:02.177">It's amazing both how fundamentally the idea<br/>that we can always be connected.</p>
+            <p begin="00:42:02.340" end="00:42:04.870">That we have these sensors<br/>that are with us all the time. </p>
+            <p begin="00:42:05.142" end="00:42:08.782">And then also, how these have been <br/>getting bigger and bigger.</p>
+            <p begin="00:42:09.032" end="00:42:11.462">When the very first iPhone came out,</p>
+            <p begin="00:42:11.565" end="00:42:16.465">The resolution of the screen on the first iPhone would take up about the size of my thumb </p>
+            <p begin="00:42:16.465" end="00:42:17.455">on the 6Plus.</p>
+            <p begin="00:42:19.488" end="00:42:24.808">The capacity of these to do more and more things and the richer interfaces </p>
+            <p begin="00:42:24.808" end="00:42:26.088">is better than ever.</p>
+            <p begin="00:42:26.128" end="00:42:27.528">Who was in Luke's talk yesterday?</p>
+            <p begin="00:42:27.706" end="00:42:31.166">We talked not just about being<br/>Responsive in terms of the screen size</p>
+            <p begin="00:42:31.232" end="00:42:33.132">But about how far it is from your face?</p>
+            <p begin="00:42:33.175" end="00:42:35.475">There's ways we can think about this.</p>
+            <p begin="00:42:35.495" end="00:42:37.935">That I think, WordPress can<br/>actually be the lead on.</p>
+            <p begin="00:42:37.981" end="00:42:41.161">If you look in the mobile world,<br/>it's all about apps.</p>
+            <p begin="00:42:42.769" end="00:42:44.179">Everything's an app.</p>
+            <p begin="00:42:44.267" end="00:42:51.037">The mobile web still gets a ton of traffic and in fact, all the stats we see in the mobile web has more traffic than ever.</p>
+            <p begin="00:42:51.067" end="00:42:53.887">But applications aren't really being built in it.</p>
+            <p begin="00:42:54.097" end="00:42:57.597">This is one area where WordPress <br/>cannot just ride the wave of.</p>
+            <p begin="00:42:57.597" end="00:42:59.027">But perhaps be the lead.</p>
+            <p begin="00:42:59.120" end="00:43:01.130">For the next generation <br/>of what comes in mobile.</p>
+            <p begin="00:43:01.864" end="00:43:04.254">And Android, and iOS 8.</p>
+            <p begin="00:43:04.406" end="00:43:09.376">The web capabilities of these devices <br/>are getting better and better.</p>
+            <p begin="00:43:09.409" end="00:43:14.659">Android even puts tabs on the browser at equal footing with apps on the task switcher. </p>
+            <p begin="00:43:15.052" end="00:43:16.302">This is incredible.</p>
+            <p begin="00:43:16.726" end="00:43:21.926">Also the announcement for Android L <br/>showed 60 frames per second animation.</p>
+            <p begin="00:43:21.975" end="00:43:23.055">In web views.</p>
+            <p begin="00:43:23.646" end="00:43:27.046">You're now able to do things as the <br/>power of these gets better and better</p>
+            <p begin="00:43:27.055" end="00:43:28.495">I think the web comes back.</p>
+            <p begin="00:43:28.495" end="00:43:30.975">As the dominant computing platform.</p>
+            <p begin="00:43:31.015" end="00:43:33.865">Just like, maybe, in the Windows 3.1 days</p>
+            <p begin="00:43:33.977" end="00:43:37.097">One connectivity and power and <br/>everything we all used apps.</p>
+            <p begin="00:43:37.097" end="00:43:38.537">We all use things like Office.</p>
+            <p begin="00:43:38.622" end="00:43:40.552">And they got surplanned by the web.</p>
+            <p begin="00:43:40.552" end="00:43:42.742">As computers became more and more powerful.</p>
+            <p begin="00:43:42.742" end="00:43:45.512">I think that the same thing is <br/>gonna happen on phones.</p>
+            <p begin="00:43:45.619" end="00:43:50.189">And that WordPress both as an application platform and as an app itself</p>
+            <p begin="00:43:50.189" end="00:43:51.729">is forced, perhaps to lead that.</p>
+            <p begin="00:43:51.729" end="00:43:54.089">So I will encourage all of you, <br/>when you build a plugin,</p>
+            <p begin="00:43:54.109" end="00:43:57.459">when you make a theme, <br/>test it on as many devices as possible.</p>
+            <p begin="00:43:57.497" end="00:43:59.427">Put it on the tablet, <br/>put it on the phone,</p>
+            <p begin="00:43:59.461" end="00:44:00.861">Put it on the old phone.</p>
+            <p begin="00:44:00.871" end="00:44:02.411">Don't worry about that razor phone.</p>
+            <p begin="00:44:02.450" end="00:44:03.900">(laughter)</p>
+            <p begin="00:44:03.986" end="00:44:04.846">It's gone.</p>
+            <p begin="00:44:05.217" end="00:44:07.287">Don't worry about Blackberry.</p>
+            <p begin="00:44:07.585" end="00:44:10.225">But test these things and think about it.</p>
+            <p begin="00:44:10.509" end="00:44:13.799">This is one of the ways that again, <br/>we can be truly global.</p>
+            <p begin="00:44:13.953" end="00:44:15.573">A lot of people forget. </p>
+            <p begin="00:44:15.613" end="00:44:17.933">Who knows what the <br/>Mission of WordPress is?</p>
+            <p begin="00:44:18.658" end="00:44:19.738">What is it? </p>
+            <p begin="00:44:20.616" end="00:44:21.726">There you go.</p>
+            <p begin="00:44:21.958" end="00:44:23.278">A lot of people forget this. </p>
+            <p begin="00:44:23.318" end="00:44:25.758">I did a 7-country, 10-city tour in Asia earlier.</p>
+            <p begin="00:44:25.982" end="00:44:28.542">And there's only one or few people <br/>in the audience that knew.</p>
+            <p begin="00:44:29.607" end="00:44:31.257">These audiences are 200 or 300 people.</p>
+            <p begin="00:44:31.728" end="00:44:34.018">They knew that the mission of WordPress <br/>was Democratize Publishing.</p>
+            <p begin="00:44:35.358" end="00:44:38.138">That means everyone in every language.</p>
+            <p begin="00:44:38.736" end="00:44:40.336">WordPress is a community.<br/></p>
+            <p begin="00:44:40.359" end="00:44:43.709">This is actually the gravatars of <br/>the 785 contributors.</p>
+            <p begin="00:44:44.234" end="00:44:47.714">It's a community that regardless of <br/>age, religion, creed,</p>
+            <p begin="00:44:48.431" end="00:44:49.641">the longest GPL</p>
+            <p begin="00:44:50.094" end="00:44:51.834">gender, everything.</p>
+            <p begin="00:44:51.928" end="00:44:53.888">People can be part of it. <br/>Can be part of this family.</p>
+            <p begin="00:44:53.948" end="00:44:55.738">Can be part of this thing that we're building.</p>
+            <p begin="00:44:55.986" end="00:44:59.986">And the same regard, we want our software, the things that we built to be accessible to everyone.</p>
+            <p begin="00:45:00.303" end="00:45:05.353">Be that from accessibility point of view, a device point of view, or language point of view, everything.</p>
+            <p begin="00:45:05.678" end="00:45:09.678">This is the vision of WordPress.<br/>It's why we're all here in this room today.</p>
+            <p begin="00:45:09.868" end="00:45:13.868">And actually, this year, more than any year in the 11-year history, I'm very excited </p>
+            <p begin="00:45:13.966" end="00:45:16.406">on what we're working with all y'all.</p>
+            <p begin="00:45:16.858" end="00:45:19.003">Thank you very much!<br/>I appreciate it.</p>
+            <p begin="00:45:19.243" end="00:45:21.583">(applause)</p>
+        </div>
+    </body>
+</tt>
